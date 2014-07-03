@@ -1,0 +1,314 @@
+The Nexus 5 should be receiving Android 4.4.3 KitKat any day now, and it would be the latest and most up-to-date version of Android. Rumors said that the update would've arrived by this time, but users aren't seeing the update just yet. Given the increase in rumor activity, however, we'd imagine it could happen any day now.
+
+Android 4.4.3 should squash a lot of bugs and bring some minor improvements to your day-to-day use of the device, but there won't be anything major. No new camera interfaces or anything like that. Still, anything that improves the quality of day-to-day use is fine by us and we're pretty eager to get our own devices updated! The update will also hit Nexus 4, Nexus 7 and Nexus 10 devices, too.
+
+The Nexus 5 with Android 4.4 KitKat carries on the recent tradition of top-tier specs and relatively budget prices from Google, and in this review, we're going to take a look at whether the device hangs with the best of them.
+
+We've come to expect Nexus devices to be developer-only handsets that never reach the type of hype or adoption that the HTC One or Galaxy S4 would get. Google doesn't really advertise Nexus devices to the masses the way that Samsung or Apple does, and Nexus devices are generally not on par with other flagship handsets in terms of build quality and performance.
+
+When the Nexus 4 launched in late 2012, the most enticing thing was its initial $300 price point. For an unlocked device with decent hardware, it seemed like a steal. But we soon learned that its shortcomings were often too much to bear.
+
+
+Now we're at the Nexus 5, a solid smartphone with a 2.3GHz Snapdragon 800 chipset and 2GB RAM. It has a 2,300mAh battery and a 5-inch 1080p display. It also features the latest version of Android - 4.4 KitKat.
+
+Nexus 5 review
+
+You'd think it would come with a hefty price tag, but for 16GB and 32GB versions, you're only looking at $349 and $399, respectively, in the U.S. That's unlocked.
+
+If you're thinking it seems too good to be true, we can't blame you. What, if any, corners did LG and Google have to cut in order to bring the price down to affordable levels?
+
+Let's skip the boring Nexus history lesson and dive right into what matters - the Nexus 5 itself.
+Design
+
+First, let's talk hardware design. The Nexus 5 features a 5-inch 1080p IPS display - that's 1920 x 1080, giving us 445 PPI. If you can pick out the pixels on this display, please donate your eyes to science.
+
+The display itself is crisp, although its colors are less saturated than what you'd find on the HTC One or iPhone 5s. The Nexus 5's display doesn't get as bright as those devices, either, but it's not a big deal.
+
+
+If punchy colors and contrast is your thing, the Nexus 5 might only disappoint you if you consistently compare it to other devices. Otherwise, you won't notice it over time.
+
+Being a 5-inch display device, the phone itself is pretty large, but not entirely unwieldy. It measures 5.43 x 2.72 x 0.34 inches. Because the bezel is so narrow, the device itself isn't pushed wider by its large display.
+
+
+And because LG opted for plastic here, rather than a glass front and back like the Nexus 4, it's not too heavy.
+
+Above the display, there is a round earpiece, and it gets surprisingly loud given its size. To the left of that is the front-facing camera, and down below the display is an LED notifier. You don't see anything down there unless you have notifications, and the glowing light seems to come from nowhere. Magic.
+
+
+The base of the Nexus 5 has a microUSB port for charging and syncing, and two grills - one housing a speaker, and the other a microphone. The top of the device has a 3.5mm headset jack and a small hole for a microphone that may act as a noise cancellation feature.
+
+Around the edges of the device, there are ceramic volume and power buttons. The left has a flat, almost sharp-edged volume button, and the power button is to the upper right side.
+
+
+Some colleagues of ours say the ceramic buttons are a nice touch, although it feels weird given the sharp edges. It's nothing that bothers us, but something we noticed.
+
+Flip the device over, exposing its backside, and you'll see the word "Nexus" emblazoned on the soft-touch cover. There is an 8MP camera in an unusually large module, and an LED flash just beneath it.
+
+Because it's a Nexus device, you can't remove the cover to replace the battery, and there is most certainly no microSD card slot for those of you wondering. If you buy the 32GB version, which we would recommend over the 16GB version, you shouldn't have to worry too much about space.
+In-hand feel and use
+
+Now that you have a good idea for what the Nexus 5 looks like, let's talk about using the thing. Because it's still a 5-inch display smartphone, it will be large for many hands. We have some tall folks on our staff with bigger than average hands, and stretching up to the corners with our thumbs was still a little much.
+
+
+One thing we noticed immediately when picking up the device was its weight. It's very light, thanks mostly to LG's use of plastics here. It certainly doesn't have the same premium feel that the HTC One or iPhone 5S has, but it's easy to forgive because of its price point.
+
+The soft touch back can get pretty greasy even if you wash your hands frequently, but it's easily wiped away. We tend not to get so picky with these things anymore, but we know there are folks who like their devices looking pristine.
+
+While we're going to dive deeper into the software, we will say this: it is fast. Given its lack of garbage apps and widgets from carriers, and perhaps buggy interfaces from manufacturers, the Nexus 5 flies.
+
+We didn't have any real issues with software except for the occasional app crash, but that might have more to do with apps not being fully optimized for this new version of Android.
+
+If you're buying the Nexus 5, chances are you already know what you're getting into. While we'd like to believe otherwise, most of the folks we know buying the Nexus 5 have known about its coming for some time.
+
+For those of you who don't fall into that group, though, keep on reading.
+
+
+If we could give the Nexus 5 a catch phrase or tagline, it would be "Android 4.4 KitKat, now with more Google."
+
+When you fire up the device, the first thing you'll see is Google's colors and logo, with the little color bubbles swirling around and pulsating.
+
+If you're familiar with Android, you'll feel right at home with KitKat. It's not unlike Jelly Bean, the previous version of Android, and where changes are made will seem familiar enough.
+
+The first thing you'll notice when you swipe around the home screens is that Google Now, by default, is available with a swipe to the left of the home screen.
+
+You can still access Google Now by long pressing the home button, but we figure this is a way for Google to shove more Google in your face without much effort on your part.
+Talk to me, but under these conditions...
+
+Another neat feature is the ability to perform voice commands, similar to Motorola's Touchless Control on its Droid devices and the Moto X. However, rather than saying "OK Google Now," you simply say OK Google and the device will be ready for your commands.
+
+What makes it different from Motorola's implementation is that the Nexus 5 isn't listening to you, at least as far as we know or far as the NSA is willing to admit, when the phone is asleep. This means you can't ask your phone to do anything unless it is on and the home screen is active. That's right, your phone has to be unlocked, too.
+
+You can perform Google searches, send messages, make phone calls, set your alarm and more with this new voice function. It's convenient, for sure, but still a little limited compared to what Motorola does.
+Messages
+
+It's worth noting that in Android 4.4 KitKat, your SMS messages are folded into the Hangouts app. Some may feel like this is Google forcing its services on you, and, well… it is.
+
+If you're looking around for a text messaging icon, you won't find it. By default, the Hangouts app is right next to the phone icon, where you'd normally find your messaging app on other Android handsets.
+
+When you open it up, it will look like Hangouts does, but sprinkled in are SMS threads. When you click on a conversation, you can press the contact's name and choose to switch between SMS and Hangouts
+
+We certainly don't mind this implementation much, but your inbox or chat list can quickly become cluttered. If it bothers you, you can always download a third-party text messaging app from the Google Play Store.
+Dialer and phone app
+
+People who use their phones to make calls these days seem like a rare breed, but perhaps not so rare that Google took the time to revamp its dialer or phone app.
+
+The layout is different and much cleaner than Ice Cream Sandwich and Jelly Bean. You'll see your favorites, history and most contacted friends, family, loved ones, exes and so forth.
+
+One nice new addition, however, is the search feature. If you open the phone app, at the top you'll see an option to search places or contacts. If you type, for example, "Guitar Center," it will show you a list of business that match that search nearby.
+
+When you find what you're looking for, simply tap the listing and Google will call the number that it finds for that business - no need for you to dial a number. It's like having the Yellow Pages for your phone.
+Multitasking
+
+Multitasking works much like it does with the more recent version of Android. At the bottom of the screen, you'll see the back, home and multitasking buttons.
+
+By pressing the multitasking button, you'll see a list of your previously used apps. This is supposed to make it easier when switching between apps. By swiping them away, you're also killing background processes and closing the apps down, sort of.
+
+When you swipe away an app, its background process stops running, so when you reopen the app it starts fresh. However, this doesn't mean you're killing the app entirely, some features still need to work depending on the app.
+
+If you swipe away Gmail, for example, it doesn't mean you'll stop getting mail. Perhaps Gmail was just misbehaving and you want to smack it around so it gets its act together - go into the multitasking feature and swipe it away.
+
+One thing we dislike about Android, and this happened on previous versions, too, is that apps seem to stop unexpectedly for little or no reason. Of course, there is a reason, but it's random.
+
+Because many apps aren't entirely optimized for Android 4.4 KitKat, we've seen some apps shut down with the message, "Unfortunately (insert app name here) has stopped." It's a minor nuisance, and doesn't happen all that often, but it does happen.
+New Android, same as the old Android, sort of…
+
+Like Peter Allen says, "Everything old is new again." You'll notice that Android 4.4 KitKat isn't a huge update over Jelly Bean. It retains the elements that worked in ICS, and adds a few additional goodies that makes the experience feel cleaner, somehow.
+
+Your view of this may vary depending on what platform or version of Android you're coming from. It could also be psychological, like thinking your car performs better after a wash and an oil change.
+
+Current Android users will feel right at home with Android 4.4 KitKat, while others shouldn't have too many difficulties adjusting to it. First time users might have a bit of a learning curve, but it's not all bad.
+
+If you're moving on over from iOS or Windows Phone, you'll find that customization options are bountiful. There are dozens of widgets and home screen configurations that you can fool with. Of course, sometimes too many choices can be overwhelming, but it's nice to have them there.
+All Google, all the time
+
+There's no denying that Google is becoming more pervasive in Android, and why shouldn't it? If you're buying into the Android ecosystem, it's probably because you're already a heavy Google user. Many of us are.
+
+If you use Google Apps, Gmail, Google Tasks, Google Calendar, Google this and Google that, you'll appreciate KitKat even more.
+
+Google Now is very useful and gets its own home screen, along with the ability to access it via long pressing the home button as we mentioned before.
+
+With the unifying of SMS messaging with Hangouts, there's a chance that many inactive Google users will be forced to migrate over. You may not chat with your Google contacts much, but now that it's in your face, it will take more effort to avoid it.
+
+One thing Google does well is search, and so whether you're in the phone app or in Maps, your chances of finding what you want or need are around 99%. Maybe higher.
+
+We aren't disappointed or overwhelmed with Android 4.4 KitKat, and we don't think you will be, either.
+
+
+
+This is where we find ourselves a little more apathetic when it comes to the Nexus 5. The camera is often hit or miss, with more misses on some days that hits.
+
+The Nexus 5's camera is certainly a huge improvement over the Nexus 4, but when compared to the likes of the iPhone, Nokia Lumia 1020 or LG G2, it pales in comparison.
+
+But first, let's talk about what's new and how the camera performs.
+
+You'll find that the default camera app looks much like it did on Android 4.3 Jelly Bean, barring any manufacturer UI and customizations. The focus ring looks the same, and you can long press it to bring up options like HDR+, exposure compensation, settings, flash and switching from the front or rear camera.
+
+Nexus 5 review
+
+It also has a panorama mode and Photo Sphere, which was first introduced in the Nexus 4. Panorama mode is obvious - you pan the camera from left to right to capture a panorama photo.
+
+Photo Sphere allows you capture 360-degree photos, and you do so by panning the camera left to right and up and down, filling in all the spots you miss, so that you get a general idea of the scene around you. The app will give you guides so that taking the Photo Sphere image is easy.
+
+You can view Photo Spheres nicely in Google+ if you want to share with all your friends.
+
+HDR+ takes a quick series of photos and blends them together to retain highlight and shadow details in your photos. At least, that's what it should do, but it doesn't work so well.
+
+In many cases, we had a hard time distinguishing photos that were taken with HDR+ turned on, and where it was turned off. Hopefully a software fix addresses things, amongst other issues.
+
+One big thing that kills us is the camera's fickle focusing nature. Sometimes it focuses just fine, and other times it won't focus at all. The app isn't as responsive as we'd like, too. Sometimes we touch the area we want to focus on, and nothing happens. It will occasionally take two or three taps to get the focus ring to where you want it.
+
+Even with high contrast, well-lit scenes, the camera will take its sweet time focusing - whether it even focuses at all. In apps where you don't have fine control over focusing, this will make you pull your hair out.
+
+Another issue we have is with shutter lag. There are some instances when you won't get the shot you expected because of shutter lag. It's not terrible, but it makes a difference between getting a good or bad picture in some cases.
+
+The camera can also be slow to start sometimes, especially if you jump straight into the camera from the lock screen. It's odd that this isn't faster, especially when other manufacturers are boasting sleep to shot time. Motorola claims the Moto X takes two seconds to go from sleeping to being ready to take a photo - all with a flick of the wrist.
+
+Now that we have all those gripes out of the way, we can say that the camera is just adequate for day-to-day use. You don't get the same speed as the iPhone 5S, for example, or the massive resolution of the Lumia 1020, but you get a shooter that will get the job done most of the time.
+
+One thing we do like is the addition of OIS, or optical image stabilization, as it helps a little in video and in low-light scenes where you might otherwise get blurry photos.
+
+We believe that many of our issues can be resolved with a software update. But until then, manage your expectations and you'll be fine.
+Nexus 5 camera image quality
+
+Onto image quality, we were mildly unimpressed with the files that the Nexus 5 was giving us. While photos were sharp and colors looked natural, they also lacked contrast and punch, which makes them look washed out.
+
+Of course, we can rarely ever complain about how color and contrast looks because of the dozens of free photo apps out there that fix this. But if you want to just shoot and go, you'll be dealing with flat looking photos, even in the best light.
+
+We're going to be dealing with the camera a lot more over the next few days and comparing it with the likes of the iPhone and the LG G2, so stay tuned for that. In the meantime, here are some photo samples.
+
+
+The Nexus 5 shoots 1080p HD videos, which is becoming standard on most high-end smartphones these days.
+
+However, even with OIS, we found that videos can be quite shaky or jarring. We're guessing that it's a combination of our attempts to be steady and the OIS compensating for movement.
+
+It's not horrible, but it's certainly noticeable for anyone paying attention.
+
+Video sound quality is a mixed bag as it is with all smartphones. Ambient noise is always a distraction, and we've found that even with the slightest breeze, videos can get a bit noisy.
+
+The video also seems to have a hard time adjusting exposure when you're panning from a dark to a bright scene, and vice versa. Same goes with focus, but then again, it doesn't perform that much worse than other Android smartphones in this respect.
+
+
+The way your media is handled on the Nexus 5 is similar to previous versions of Android.
+
+Because this is a Google-driven device, your media experience will revolve around Google services. Did you expect something different?
+
+Music is handled by Google Play Music, where you want the option of uploading your own songs or subscribing to its streaming and download service.
+
+For videos, when it comes to multimedia content that you didn't record yourself, you'll also have Play Movies & TV. You'll be able to download or rent standard and HD versions (when available) of the TV shows and movies you want to see.
+
+When it comes to straight media consumption, the Nexus 5 won't disappoint, although there is a good chance it will eat up your battery life more than it would on devices like the LG G2 or Samsung Galaxy Note 3.
+Nexus 5 music
+
+Whether you're listening to music you own and load into the device, or via Google Play Music's streaming service, it all takes places within the app. The only thing is when you want to purchase stuff, it will redirect you to the Google Play Store app. It makes the experience feel disjointed, but it's not a deal breaker.
+
+Music quality through the speaker is not very good. As we mentioned earlier, the speaker isn't very loud, and there is only one small speaker at the base of the phone. With decent headsets on, however, it sounds great.
+
+The nice thing about KitKat is that it will show your music art and music player controls from your lock screen. Other apps will do this sometimes, too, like Spotify, but it's a nice touch that just adds to the overall experience of using the device.
+
+Whether you're bringing over your own music or using Google Play's service, or other apps like Spotify or Rdio, you won't have much to worry about when it comes to how the Nexus 5 will handle it.
+Nexus 5 videos and movies
+
+Videos and multimedia are handled by a few apps depending on what you're doing. First, there is YouTube, which is an obvious one. If you're opening YouTube videos from apps like Facebook or Twitter, or from the web, they will open in the YouTube app.
+
+Otherwise, you guessed it, it's more Google Play stuff.
+
+If you're on the home screen, you'll see the film icon that says "Play Movies & T.." and in the app list it's shown as "Play Movies &.." It's a little ridiculous, but what you're looking at is Play Movies & TV.
+
+If you have a Google Play account, you can download and stream movies and TV shows. The nice thing about that is if you're offline, you can still view your downloaded movies.
+
+If this is your first Android device, or your first time using Google Play for multimedia, you should know that when you purchase something, it's yours. At least as far as playing it when you want, on any Android device you want.
+
+This means you can play your content on your Nexus 5, and other Android tablets and phones running Android 4.0 or higher, which is pretty great.
+
+HD movies and TV video quality and sound have been great, but we do have to reiterate that it sounds best through a headset given the Nexus 5's speaker issues.
+
+In all, the video quality is generally good whether you're viewing streaming or downloaded content, or videos recorded with the device, and even better when viewed in HD thanks to the 1080p display.
+
+With the Nexus 5, you're getting a 2.3GHz Snapdragon 800 with an Adreno 330 GPU. Moreover, you don't have a heavy UI with system-resource-hogging apps like you'd find on the Galaxy S4, for example.
+
+How well does the Nexus 5 perform in real life? Great. Apps and games run like champs, and switching from home screens to apps and back is smooth.
+
+In short, we found no performance issues with the device whatsoever, not counting gripes with the camera. But for what you're going to be doing with the phone, there was never any lag or hiccups in the overall experience.
+
+
+Even graphic intensive games performed surprisingly well, with no perceivable lag or slowing. They did a number on battery life, but that's a whole other story.
+
+We might attribute this performance to Android 4.4 KitKat, too. Google says that it designed KitKat with backwards compatibility in mind, never mind the more recent Nexus devices that won't get the update.
+
+One would imagine that if KitKat is supposed to perform well on older hardware, it will stay brilliant on a device that is packing a lot of punch when it comes to specs.
+We'll be sure to update this section once our benchmark tests are complete, but for now they look very promising. We're also going to update this review in a month's time when our phone is filled with more apps, photos and videos. That's when you really want to know how a device holds up.
+Nexus 5 Battery life
+
+Strangely, battery life has been a mixed bag. We've had the device for a week now, and some days are much better than others. In our first day, the phone lasted about five hours, which is expected because you're loading it with apps and customizing the device to your liking.
+
+On our second day, we got six hours with mixed use. In our typical day, we make a phone call or two, send plenty of text messages, and we check our email and social networks with regularity.
+
+Our third day took us by surprise as the phone lasted 11.5 hours before hitting the critical 20% mark. We used the phone quite a bit that day, including one straight hour of checking Facebook, Twitter and reading the news over breakfast.
+
+Because battery life is a little unpredictable, it would be wise to charge it as much as you can when you can. Or you can buy external battery packs or take a charger with you where you go.
+
+Factors that affect battery life include your usage and also your signal strength. If you're in an area with weak cell coverage, your battery may suffer. The day we got 11.5 hours of life was spent mostly on Wi-Fi, which might've helped given our data-intensive usage that day.
+
+We do wish that the rumors about the 3,000mAh battery life were true. One thing we love about the Nexus 5's distant cousin - the LG G2 - is that big battery and long life.
+
+If we had to give the battery life some kind of rating on its own, it would be a 7/10, which is ever so slightly sub-par by our standards.
+
+Again, your experience will vary, but expect to need a charge by the end of your work day.
+Nexus 5 call quality
+
+We'll keep this section brief, because this has more to do with your carrier than the device itself. Most smartphones these days sound great when you're on the phone, and the Nexus 5 is no exception.
+
+We used T-Mobile's network in the San Francisco Bay Area, and for the most part call quality sounded excellent. Our friends reported that we sounded loud and clear, and we can say the same for them.
+
+We're confident that you'll find similar results with AT&T and Sprint, the only other carriers that will support the Nexus 5. Sorry Verizon folks, but it's unclear whether the Nexus 5 will ever hit your carrier of choice.
+
+Speakerphone calls, however, were weak. That's largely due to the fact that the single speaker on the bottom-left portion of the phone is weak. Whether you're using it for a call or listening to music, you'll find that it lacks power.
+
+Moreover, if you're in a moderately noisy place, you may not hear your ringer or notification tones where other phones might get through to you.
+
+
+Any faults you can find with the Nexus 5 - and there aren't many - can be easily quelled by the knowledge that the device starts at just $350 unlocked.
+
+You'd be hard-pressed to find anything that even comes close to that price point with the specs that the Nexus 5 boasts.
+
+The new Google phone offers the latest that Android has, 4.4 KitKat, and has excellent performance by nearly every measure.
+
+What's lacking is the camera performance and battery life. Both of those things aren't terrible on the Nexus 5, but they leave so much to be desired.
+
+On one hand, Google promises that software fixes will address those issues, but we don't know how soon or to what extent. If you buy this phone now, you'll have to learn to live with those shortcomings until they're resolved. And even then, you may not be satisfied if those two things are deal breakers for you.
+We liked
+
+We love the idea that you can get a smartphone with top-of-the-line specs, like a 2.3GHz Snapdragon 800 and 5-inch 1080p display, for a paltry $350 or $400 for 16GB and 32GB models, respectively, without a contract.
+
+The newest version of Android is also a lovely iteration of the things we've come to enjoy in Ice Cream Sandwich and Jelly Bean, with the addition of new features and light touches throughout the OS that make the experience a lot better.
+
+When we heard that pricing was going to be a huge deal, and that it was also more than just a modest upgrade over the Nexus 4, we started to worry and wonder where LG and Google would have to cut corners in order to make savings.
+
+In short, it didn't really cut any corners at all. Again, we can nitpick its build - it's not like the iPhone 5S or HTC One - or whine about the little things all day long, but in the end, it's a $350 phone. We can't stress that enough, especially when this is a case of extreme bang for your buck.
+We disliked
+
+Our two biggest gripes with the Nexus 5 are its battery life and camera. Both can be hit or miss, as we mentioned earlier in our review.
+
+The camera is capable of producing great photos, but only if the conditions are perfect. In many instances, it struggled to focus or take a shot when we wanted it to. Most of the time we struggled with setting the focus point and taking the shot at the right time due to shutter lag or system response.
+
+The photos themselves are lackluster, but can be fixed and made rich with photo editing apps like Snapseed.
+
+Battery life struggled on some occasions, too. After a full week with the Nexus 5, we can confidently say that we can never be sure when it will last a full day, or when we should bring our chargers and battery packs with us. As you'd imagine, we tend to err on the side of caution, though we really wish we didn't have to.
+
+One minor thing, and it's not really an issue, is that the display seems a little washed out and doesn't get very bright, especially when you compare it side-by-side with the iPhone, HTC One or Samsung Galaxy S4.
+
+Again, given its tremendously high resolution, we can't complain much, but highly discerning eyes might take notice.
+Verdict
+
+Although the issues we take with the Nexus 5 are considerable, they're not enough to keep us from recommending this device.
+
+One of the issues we have, which is the lackluster camera, might be resolved with a software fix. And even if it were a minor fix, it's not so bad that you'll never be able to take good photos with it.
+
+What really gets us here is what we're not used to seeing, and that's a device with these kinds of specs at this price point. It's not just the specs, either, but the fact that the outright cost of the device means thinking about whether you want to commit to a carrier contract is easy.
+
+The display is nice, performance is fast, Android 4.4 KitKat smoothes out the overall Android experience and, because it's unlocked, it's free of carrier bloatware and restrictions.
+
+Whenever Android is updated, the Nexus 5 will be one of the first devices to get that treatment.
+
+It may not have the tremendous battery life of the LG G2, or the cameras you'd find in the iPhone 5S or Lumia 1020, or the build quality of the iPhone or HTC One, but you're not going to be sacrificing much with what you're paying for the device.
+

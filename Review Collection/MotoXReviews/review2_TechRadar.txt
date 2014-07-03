@@ -1,0 +1,400 @@
+At 5-inches, the Moto X is diminutive compared to the current Android leaders. This is good news for anyone who's felt like the HTC One or Galaxy S4 were going to rip out of their pocket, or slip out of their hand. The X is also built from a polycarbonate plastic that gives it a different feel from other phones on the market.
+
+Its materials make it feel dense and well built; it actually feels a little bit ceramic. It's a marked contrast to the Galaxy S4, which feels plastic and hollow. The Moto X is solid and well balanced. Weighing in at 130 grams, it's on the heavy side, but the weight isn't too much, and gives the phone a substantial, premium feel.
+
+Moto X review
+
+The rear of the phone is curved slightly, letting it nestle easily in your hand. Our review unit was a white model, with a slightly holographic woven pattern. The Motorola logo on the rear is dimpled, giving your index finger a perfect place to rest. Like an iPhone 5 or HTC One, the back is a little bit slippery, the only thing that detracts from a build otherwise perfect for one-handed use.
+
+The Moto X's full measurements are 5.09 x 2.57 x 0.41-inches. It's easy to operate in one hand, due to its moderate size as well as a power button and volume rocker on the right side, right where your thumb can get at them.
+
+Moto X review
+
+Those are the only physical buttons on the phone. They're metal and raised and therefore easy to press, but do feel a little bit loose in their sockets. Shake the phone and you can faintly hear them rattle; this is something I encountered with the last Motorola phones I reviewed, the Droid Razr M and Droid Razr HD, a slight oddity that detracts from the otherwise excellent feel of the phone. It's no matter though, since the buttons protrude nicely and are very easy to find and press.
+
+The Moto X has a sealed design, with no microSD expansion. That's a bit of a bummer, but easier to stomach now that the Moto X's price is so low. The on-contract 32GB model is $100 on AT&T and Verizon, $150 on Sprint - T-Mobile customers have to go with the $379 unlocked model. The $50/$329 16GB model will get full fast if you load up on music and apps, so we recommend splurging for bigger storage.
+
+While the lack of removable storage is disappointing, at least its given the Moto X a pleasing unibody design. Despite a seam running along the side of the phone, it feels like one solid piece of high quality plastic.
+
+Moto X review
+
+The phone's screen is a 4.7-inch AMOLED display, with a resolution of 720 x 1280 aka 720p and a pixel density of 312 ppi. As we mentioned, that's a peg below the full HD 1080p resolution of the leading Android devices like the HTC One and Galaxy S4.
+
+Compared side-by-side to the HTC One's 1080p display of the same size, the Moto X is noticeably less sharp. It really does take that sort of comparison to notice the difference though. While the One's mind boggling pixel density renders crisper text, and slightly nicer HD video, the Moto X's display is still far from fuzzy.
+
+Moto X review
+
+Colors are strong, a bit saturated, but never dull. The auto brightness regulates the display well in indoor light and in a dark room. It's no better at avoiding sunlight washout than an iPhone 5 or Galaxy S4.
+
+As we mentioned, the Moto X can be customized to a ridiculous degree. When you buy it online through the Moto Maker, you can choose colors for the front and back as well as highlights like the ring around the lens and the buttons. There's also an option to add a signature, like the engraving offered by Apple on the iPhone.
+
+Your phone will still be subject to a carrier's logo, so expect AT&T's globe and Verizon's red check to blemish the rear of your device.
+
+When I first reviewed the Moto X, I recommended that non-AT&T customers hold off until they could design a Moto X of their own with the Moto Maker. Now that waiting period is finally over and customers from every carrier can customize a phone to their heart's content, and those fancy wood backings, which were teased at launch but not actually available, are finally here, for an extra $25.
+
+Even if a lot of the options come out as rather garish, it's great to see a device accommodating people's desire for color and customization. Many customers pony up an extra twenty bucks for a third-party case to make their phone distinct as well as protect it. Motorola has really cut out the middleman here, allowing people to deck out their device without the extra bulk cases often add.
+
+When Google swallowed up Motorola, many assumed it would be making the next Nexus phone. If you don't know, those are devices like the Nexus 4 and the new Nexus 7 tablet, which boast an unaltered version of the latest Android OS and receive updates direct from the search giant itself.
+
+The Moto X is not a member of the Nexus fold, but you'd hardly know it from its software, which is now Android 4.4: Kit Kat with just a trace of manufacturer and carrier tweaking.
+
+While the Moto X is essentially stock Kit Kat Motorola has given it a number of features you'll find on it and its new Droids for Verizon. The Droid Mini, Droid Ultra and Droid Maxx don't have the exact same feature set, but there is a lot of overlap. More on that later in the review, in the Motorola and carrier apps section.
+Android 4.4: Kit Kat
+
+Moto X review
+
+If you're a big Android fan, you'll find the Moto X gloriously in line with Google's vision for Android. You've got five home screen to laden with widgets, apps and folders. The X also uses Android software buttons, meaning there's no physical home button on the device.
+
+It's a three button setup with back, home and recent apps. The dedicated recent apps button is a nice option, it makes multitasking easy, which is great since Kit Kat has made jumping between apps even quicker. On both the HTC One and the Galaxy S4, you need a long press to access this function, so it's not as readily accessible as on the Moto X.
+
+The software buttons allow you to swipe up from the home button for slick Google Now access. Google Now, Android's answer to Siri, has strong voice recognition, and the Moto X's excellent noise canceling abilities will help it hear you in even in noisy places where you really just ought to type.
+
+Google Now is handy for a quick text dictation and other simple tasks, and Kit Kat has given it a ton of improvements. It can now create reminders and it's much better at understanding natural language and figuring out what you want.
+
+For example, saying "directions to work," used to cause the Moto X to simply Google that phrase. Now saying "directions home" will launch Maps and get you on the road.
+
+The Moto X has the lock screen apps which came about in Android 4.2, and now the full screen media controls of 4.4. Album art for whatever you're listening to will be displayed, as well as a quick jump into camera button, for when that launch gesture isn't enough.
+Motorola X8 Mobile Computing System
+
+Moto X review
+
+Maybe because its long dead Motoblur got so much bad press, due it being awful, but Motorola's addition to Android is so light, it can't really be called a skin or an overlay. It even lacks a slick, marketable name. While Samsung has TouchWiz and HTC has Sense, Motorola has the long winded Motorola X8 Mobile Computing System.
+
+You won't even find the circle widgets that Motorola puts on its Verizon Droids. Instead of altering the look and feel of Android, Motorola X8 adds services to the Moto X that fit nicely into the existing Android design language. As I said, more on that later in the review.
+
+You'll only find it if you dive into the Moto X's software settings. As far as the basic interface of the phone goes, it's unnoticeable. We have to say that we really appreciate having a phone this close stock, especially since it's LTE and on all major U.S. carriers. You can't say that about the Nexus 5.
+
+The biggest change Motorola has made to basic interface of the phone are pulsing active notifications. When you have a an email, a Twitter mention, a text, a missed call, any of the stuff your phone would want to tell you about, a white alert icon blinks slowly on and off on the phone's otherwise black screen.
+
+It happens at steady intervals, and its not so bright that it would bug on your night stand when you're trying to sleep. It also lights up the second you pull your phone out of a pocket or purse. That way you can look at it to see the time and anything you might have missed.
+
+Moto X review
+
+It's a great way to get information with minimal effort, and it keeps power consumption down since you don't have to wake the screen to see the time. It's one of the little things that makes the Moto X such a nice and novel device.
+
+It also works as a lock screen. You just touch the icon and then slide up to jump directly into an app, or down to unlock the phone. It also lets you read a text message without having to unlock your phone.
+Performance
+
+Moto X review
+
+When the Moto X first launched, people balked at its mid-range specs. It's a dual-core phone in a quad-core world, and while it benchmarks well below the beefy devices like the HTC One and the Galaxy S4, in day to day use, it's hard to notice a difference.
+
+Inside the phone you'll find a 1.7GHz dual-core Qualcomm S4 Pro processor and 2GB of RAM. While the dual-core is below what you'll find in the leading Android phones, that 2GB of memory is on par with industry standards.
+
+The performance is on par too. The Moto X starts up quickly, goes between multiple apps with minimal lag, and scrolls as smoothly as we've seen on an Android device.
+
+The only place where you can really notice a difference in performance between the Moto X and something with a quad-core is with high-end games like Grand Theft Auto: Vice City or Riptide GP 2. The initial loading on both of those games was far faster on a Galaxy S4, but during actual gameplay, you'd be hard pressed to notice a difference.
+Battery life
+
+Moto X review
+
+Here's where those lower power internals really come through for the Moto X; this is a phone with some very respectable battery longevity. Make no mistake though, it's no monster like the Droid Razr Maxx HD, Galaxy Note 2 or LG Optimus G Pro.
+
+Those phones all get excellent battery life due to their large size, which accommodates a truly massive battery. The Moto X has 2200mAh cell, which is a rather average, and fits within within its reasonably sized body.
+
+The Moto X is still a charge every night phone, but it easily makes it through the day without trouble. During our testing time, we only once had to charge it before a 24 hour period. That was on our first day, when we downloaded a massive number of apps over WiFi and then did our best to wear the battery down with YouTube and Netflix. The phone still managed an impressive 16 hours before going into battery saver mode.
+
+Moto X review
+
+The Moto X's battery saver is also very impressive. If you enable it, it comes in when you drop to 15 percent charge. It disables background data use, meaning less push notifications for your email and social networks, and also institutes aggressive screen dimming and time outs.
+
+It does great work milking that last bit of charge for you. With battery saver enabled at fifteen percent, we got over two hours of battery life before reaching one percent. This was with a mix of web browsing, photo snapping, text messaging, and some idle stand by time.
+
+Overall, the Moto X isn't a battery behemoth, but it can see you though a day of mixed to slightly heavy use on a single charge. That's exactly what we'd want from our phone, and lot less than we've gotten from the Galaxy S4, HTC One and the iPhone 5.
+Amongst all this talk about extra features, design and screen density, it can be easy to forget that the Moto X can make calls and stuff. In fact, it's quite good at that.
+Call quality
+
+Moto X review
+
+The Moto X has two noise canceling microphones for keeping your calls clear, and they get the job done. We were able to make calls in busy standing next to noisy traffic, and the people on the other line could hear us loud and clear.
+
+On our end, voices came through nice and sharp, without any distortion from the microphone. The rear speaker does a fine job projecting speakerphone calls, and the Moto X can easily hear you across a medium sized room.
+
+The speaker is just fine for sharing a YouTube video with a friend, or listening to podcast while you fold laundry. It's loud and clear, though not HTC One BoomSound, and distorts only slightly when playing noises of the right pitch at maxed out volume.
+Contacts
+
+Moto X review
+
+Since it's essentially a stock Android Jelly Bean device, the Moto X uses the basic Android contacts interface. It's stark and minimalist, decorated only with pictures of your friends imported from Gmail contacts and Google Plus, and few designated favorites at the top.
+
+While you have to dive into your Gmail account on computer to most heavy lifting, like combining duplicate contacts or mass deletions, that connectivty is part its strength. Being able to edit your address book with a keyboard and mouse makes it a far more efficient, and changes you make either in Gmail or on the Moto X are reflected in both places almost immediately.
+Text messaging
+
+Moto X review
+
+Thanks to Android 4.4: Kit Kat, Hangouts (the app formerly known as Google Talk) now handles both Google chats and your text messages. While it's nice to have to all your conversations in one place, it can get a bit messy.
+
+Text messages and Hangout chats are kept in separate threads, so you'll often see doubles of the same name. Text threads are marked as such with an SMS icon. The doubles are annoying, but it's hard to think of a more elegant solution for handling the the different platforms. And if you don't like it, you can always disable the integration and bounce between Hangouts and the regular text messaging app.
+
+Interestingly, the whole Hangout chat system now has deeper Google Plus integration. Not only does Google pull in profile pictures from its social network, when you accept a chat from a new contact, it automatically adds them to your friends circle. That's one way to get people using Google Plus, I guess.
+
+Hangouts also adds the ability to attach a location to a message to facilitate easy meet ups with friends. There's a button to jump right into the camera to attach a picture. The Google keyboard has also been loaded up with tons emoji, for when words fail you.
+
+Beyond that, the keyboard is your standard, solid finger typing experience. Keys are well spaced, with quick access to voice dictation via the microphone icon. The typing suggestions are useful, though not as spot on as third-party option Swiftkey, although Kit Kat makes it very easy to add new words to your autocorrect dictionary.
+Connectivity
+
+Moto X review
+
+The Moto X is a 4G LTE device, with all the potential for blazing speed that comes with that. We say "potential," because while we've seen LTE speeds anywhere from 25-40 Mbps, that's not always the case.
+
+It all depends on your carrier's coverage wherever you happen to be using your phone. Our review unit was an AT&T model, and we conducted our tests in the San Francisco Bay Area.
+
+In our experience, AT&T is pretty reliable in SF. The data speeds don't always reach the heights of 25Mbps, but it's very rare to be without a stable data connection. In some areas you'll end up on slower 4G, as opposed to 4G LTE, but that's pretty infrequent. Also, we've even encountered areas that blow away our home connection, exceeding 30Mbps.
+
+
+
+One of the biggest selling points of the Moto X are all the special apps and enhancements to Google services Motorola has brought to the table. Always listening voice activation, increased contextual awareness, fast camera access and text messaging from your computer are just some of the brilliant and novel ideas here.
+
+The Moto X struggles a bit in the execution though. When these apps work, they're useful, "why hasn't someone done this already" type inventions, or entertaining parlor tricks at the very least. When they don't work, it's because they lack polish, suffer from some odd oversight or have you bumping up against the inherent limitations of services like Google Now.
+Motorola's apps
+
+Moto X review
+
+The most prominent Moto X feature is voice recognition software which lets you use Google Now hands free. After training the phone to recognize your voice and yours alone, saying "Ok Google Now," gets the Moto X's attention. From there you can issue any of the standard commands Google Now understands.
+
+It can be inconsistent though. While it never responded to anyone else's voice, just like it's designed to do, it frequently ignored our commands. We found that you need to say the key phrase almost exactly as you did when you trained the phone.
+
+When you've got that down, it delivers, thanks to strong noise canceling microphones on the Moto X. It even caught our commands in a noisy, crowded bar, as long as we said "Ok Google Now," just the right way. It works really well from the cup holder in your car, making it a nice hands-free option.
+
+Moto X review
+
+Next you have Motorola's Assist app which adds some much need contextual services to Android. It works a bit like the Do Not Disturb mode in iOS 6. When you're driving, sleeping or in a meeting, Assist can automatically silence and reply to calls.
+
+Sleeping is determined by a time you set. We chose the window of 11pm to 7am, which prevented the phone from making any noise, except alarms, and won't let a call through unless someone calls twice in a row or they're in your favorites list.
+
+Meetings are determined by events you've marked as "busy" in your calendar. During that time, you can determine whose calls will go through, and who will get an automatic text reply.
+
+Driving might be the most useful. It uses the GPS to determine when you're on the road, and can automatically reply to calls and texts messages. If you like, it'll also announce who your text messages are from, and ask if you'd like to hear it read aloud.
+
+Moto X review
+
+The Assist app isn't perfect though. Sleeping really needs to be able to take weekends into account. We needed to manually disable it on a Saturday night when we were out late, and would still want to get any and all calls after 11pm.
+
+Driving mode also can't tell the difference between when you're behind the wheel, or when you're just a passenger. It's easy to disable though, as long as you remember to. A little "you're driving" icon comes up in the notification center, and you just swipe it away to disable the features. Still, if you forget, the Moto X announcing, "Text message from John," from your pocket might get you some weird looks on the bus.
+
+Finally, Motorola's greatest idea for the Moto X might be Motorola Connect. This is a Chrome browser extension that works a bit like iMessage on the iPhone. Once installed, it pops up little alerts when you receive texts or have an incoming call, missed call or voice mail.
+
+Moto X review
+
+It has some odd limitations and annoying quirks though. It can't receive pictures or videos. If you get any sort of attachment, a message pops up that says, "you have received a multimedia message." It doesn't even say who the message is from. It also doesn't support emoticons from non-Android devices, even though the Moto X itself does.
+
+Those are some glaring omissions, especially compared to the lovely synergy between and iPhone and a MacBook with iMessage. Still, it's better than any other third-party service we've used on Android, even though it would be better as a standalone application, not a Chrome extension. That would be great for users who don't want to use Google's browser, or if could have just been a chat service we could fold into our Gmail Chat or Messages on Apple's OS X.
+AT&T's applications
+
+Moto X review
+
+No matter which carrier you pony up to, they all love to jam our phones full of clunky, borderline useless applications. Apple's iPhone seems to do the best in this regard, remaining largely free from service provider's junk apps.
+
+Thankfully, the AT&T version of the Moto X we tested was relatively free from bloatware. After reviewing the Droid Razr Mand the Droid Razr HD, which were chocked full of Verizon garbage, we were expecting a lot worse.
+
+We actually only found two AT&T apps on our Moto X. The first is myAT&T, a clunky but decently helpful program that lets you see where you are in your billing cycle, minutes and data used and other information you might actually want.
+
+The second is AT&T's Visual Voicemail app. It basically acts like the voicemail on an iPhone, labeling voicemail messages with contact info, and letting you pick and choose which you'd like to hear, rather than sit through them all.
+
+It's a bit bland looking, but we had no trouble using it, and until Android decides to roll out its own visual voicemail equivalent, it's not a bad app to have around.
+
+That being said, it's always annoying when a phone without removable storage won't let you uninstall a program. Both AT&T and Motorola's apps can't be removed, and while there's no way to know exactly how much space they take up, the available storage on the Moto X is just BLANK, on a 16GB model right out of the box.
+
+
+The 10-megapixel camera on the Moto X might be, no, definitely is, the most inconsistent snapper on a flagship phone. One moment it takes a shot on par with the two of the best phone cameras we've used, the iPhone 5 and the Galaxy S4. Then you move slightly to the right or aim up a little, and it completely misjudges the light in the room and takes a horribly underexposed shot. It's maddening.
+
+It's also a bit low on options, at least compared with the Galaxy S4. It does have a slick interface though, letting you swipe from the left to bring up an option wheel, and swipe from the right to bring up the gallery and cycle through your shots. You can also set HDR to kick in automatically, not that the Moto X does a great job of knowing when it's necessary, so you might end up with that weird haloing effect more often than you think.
+
+At least the Moto X shoots extremely fast, and has a touch to focus and shoot feature. That means you just touch a point on the screen to snap a pic, and keep holding for as long as you'd like it to shoot. Surprisingly, that doesn't seem to help it judge the exposure at all.
+
+There's no way to manually adjust the exposure. You can't bump up the ISO, and the touch to shoot only controls focus, not exposure. That's tragic on a phone that's so bad at judging light.
+
+At least the interface is clever and functional. The camera can be accessed by twisting the phone 180 degrees twice. Do that when the phone is active or locked, and you can feel a whirring within the Moto X and boom, you're ready to take a shot. It's fast, accurate, a great way to avoid missing a Kodak moment, and only makes you look slightly silly when you do it, like you're trying to shake a bug off your phone.
+
+Update: When we first reviewed the Moto X, our biggest issues was with the camera performance. It's now been significantly updated with better point and shoot performance as well as some manual focus and exposure control. We've added a new sample gallery below where we've taken the same shot first on the Moto X, then on an iPhone 5. You'll find our original crop of samples at the bottom of the page.
+
+Moto X reviewMoto X
+
+Moto X reviewiPhone 5
+
+I took this shot using the Moto X's manual exposure targeting. In both shots I metered for the wall on the right. While neither picture is beautiful the Moto X did a great job of balancing the light in the shot. The back windows aren't as blown out as in the iPhone shot and carpet is as dulled by shadows. Nice work, camera update!
+
+Moto X reviewMoto X
+
+Moto X reviewiPhone 5
+
+Unfortunately the Moto X still takes shots with tons of color noise, and can blow out backgrounds if you don't meter precisely. Note the duller, fuzzier colors on the Moto X sample, as well as on the wall behind it, which is blown out to white. The iPhone 5 gets closer to its actual off-white, eggshell color.
+Moto X vs iPhone 5 camera samples
+
+Moto X reviewMoto X
+
+Moto X reviewiPhone 5
+
+All around brighter colors from the iPhone 5. The wood table top looks especially dull in the Moto X shot.
+
+Moto X reviewMoto X
+
+Moto X reviewiPhone 5
+
+Again the iPhone 5 beats the Moto X for color reproduction. There's more yellow to the cookie on on the iPhone's shot, whereas the Moto X makes it look like a washed out brown.
+
+Moto X reviewMoto X
+
+Moto X reviewiPhone 5
+
+More dull, fuzzy colors from the Moto X.
+
+Moto X reviewMoto X
+
+Moto X reviewiPhone 5
+
+It's dull reds and fuzzy skin tones on the Moto X for this menagerie of Marios.
+
+Summing up the new samples: I do realize that I'm comparing a Moto X to an iPhone 5, a phone that costs quite a bit more, but Apple's phone has more or less set the standard for point and shoot consistency.
+
+Also, while Motorola's new manual camera controls help, it's annoying that you have to bother with them. Motorola left them out to begin with, saying that most users don't bother with them and just want to point and shoot. That's true, but even after the camera patch, the Moto X still takes a consistently worse shot than the iPhone 5 when you don't bother to tweak.
+
+Noisy, washed out colors are still the Moto X's biggest camera issue, and photography remains the phone's only real weak link.
+Original camera samples
+
+Moto X reviewMoto X
+
+The Moto X's camera is capable of excellent levels of detail and decent color replications. We shot this same graffiti mural on an HTC One and a Galaxy S4 for comparison.
+
+Moto X reviewGalaxy S4
+
+This is the S4's shot. Its higher megapixel count only buys it a little more detail, but it does replicate colors with a lot less noise, especially on the wood of the bench.
+
+Moto X reviewHTC One
+
+Here's the One's go at it. It's got duller, slightly bluer colors.
+
+Moto X review
+
+Here's a shot where you can really see the color noise. Check out the skin of the fruit.
+
+Moto X review
+
+A decent shot, but it would have been better if the X didn't set the exposure for the bright corner of the picture, rather than the subject we touched, which would be the limes.
+
+Moto X review
+
+An exceptionally bad moment of under exposing. You'd never know this was taken at three in the afternoon, on a moderately bright day.
+
+Moto X review
+
+An unattractive subject to say the least, but the X captures a pleasing level of detail, and there's only minimal noise in the gray areas of the door.
+
+Moto X review
+
+The X has no trouble getting the focus right.
+
+Moto X review
+
+Dark and night time shots are bad for any camera, but they're especially ugly on the Moto X.
+
+Moto X review
+
+The flash helps quite a bit. This is a pretty acceptable shot for a dark room.
+
+Moto X review
+
+Don't get too close with that flash though, or your subjects will look like porcelain dolls.
+
+To further test the Moto X's low light performance, we put it up against an iPhone 5, which is an above average low light performer. Here's what we found:
+
+Moto X reviewMoto X
+
+Here's the Moto X's shot, with lots of blobby color noise, but it manages to be slightly sharper than the iPhone 5 image.
+
+Moto X reviewiPhone 5
+
+While still not a great shot, the iPhone's picture does better with color.
+
+Moto X reviewMoto X
+
+Notice how the salt in the Moto X shot is looks like a solid object.
+
+Moto X reviewiPhone 5
+
+The iPhone's attempt reveals more grains.
+
+These next pictures are all from the Moto X. We shot the same subject twice, so you can see how wildly inconsistent the Moto X's judging of exposure can be.
+
+Moto X review
+
+Moto X review
+
+As you can see in the first photo, the camera automatically metered for the sky and scene outside the windows, and our subject is underexposed. For some reason, in the second photo, the exposure is a little more balanced, but our subject is still slightly underexposed.
+
+Moto X review
+
+Moto X review
+
+A few more samples from the Moto X:
+
+Moto X review
+
+Moto X review
+
+Moto X review
+
+Moto X review
+
+Moto X review
+
+Moto X review
+
+Moto X review
+
+Bottom line, the Moto X can take a great picture, it just doesn't always decide to do so. While the color noise is pretty steady, the pictures are all in focus, which is great. The weak link is really the phone's inability to judge exposure properly.
+
+This is all especially frustrating because the camera has some great interface features. The activation gesture works really well, and having auto HDR is nice. The interface is slick and it shoots quickly. I just wish having a touch to shoot feature that accounts for exposure could have helped the Moto X.
+
+The hardware is capable, but the software isn't. At least that's something that could be fixed with a patch, or just using a third-part camera app.
+
+
+The Moto X is a whole lot of first. It's the first flagship device to come out of Motorola after its short time with Google. It's the first mass produced phone that lets you customize its look to a ridiculous degree. It's also the first stock Android phone with LTE - unless you count the now discontinued HTC First, which is pretty ironic.
+
+But is it enough to take on all the excellent phones already entrenched in the marketplace, namely the Galaxy S4, the HTC One, the iPhone 5 and whatever Apple may have up its sleeve for the iPhone 6?
+
+Moto X review
+
+The answer is yes, if Motorola and Google can get the word out on how great and simple to use this phone is. And people can forgive the camera.
+We liked
+
+This is one of the best constructed phones around. It's dense and solid but not too heavy, a lot like an iPhone 5 or an HTC One. Unlike those metal bodied phones however, it's polycarbonate (read: plastic. Good feeling plastic) body stands up to scrapes and drops with getting mauled as easily.
+
+It stand ups to wear and tear. We've seen iPhones and Ones that look like they'd been run over with a lawnmower simply because they didn't have a case. That won't be an issue with the Moto X, which spent a week in our pockets, bags and even took a drop or two (oops, butterfingers) without taking on as much as a nick.
+
+You can easily use it with one hand. Unlike a Galaxy S4. And the buttons are in a spot that's easy to reach. Unlike the HTC One. And it can be carried in a tight jean pocket without the feeling of denim that's about to burst, unlike either of those phones.
+
+Moto X review
+
+The battery actually lasts all day. We've torn through the charge on an S4, a One and an iPhone 5 by five o'clock, and while that bugs me, I refuse to carry a ridiculously large phablet just for its ridiculously large battery. It is still possible to drain a Moto X before the day is out, but you have to try. Like, stream a few movies on Neftlix try. With moderate to slightly heavy day-to-day use, you'll never need to charge the Moto X before the day is out.
+
+The Moto Maker is fun, and available for all. Motorola made a huge mistake giving AT&T the exclusive for this awesome feature. That exclusivity has ended though, and anyone who plans to buy a Moto X should make their own online. This is not a phone that should be bought in stores.
+
+Moto X review
+
+Despite lower wattage specs, it performs just fine. Yes it's a dual core, but it also has 2GB of RAM and the difference between it and a quad-core Galaxy S4 is negligible in day-to-day use. We only noticed it when loading up a game like Riptide GP 2.
+
+It has several great features you won't find on any other Android phone. We're talking about opening the camera with a gesture, hands-free voice recognition, the iMessage imitating MotoConnect, the unique notifications and Motorola Assist. These features are strong enough to make the Moto X worth the purchase.
+We disliked
+
+The camera still isn't great, even with the update. Manual focus and exposure control make it possible to take a better shot, but the Moto X still has poor point and shoot performance. All your pictures will be plagued with color noise, and poor white balance if you don't bust out the manual tweaks.
+
+While certainly good enough, the 720p OLED screen pales in comparison to that of the HTC One. It's not insulting to the eyes, but it's a noticeable downgrade.
+
+Moto X review
+
+On paper, you're getting less internals for your money. After day-to-day testing, it feels like a moot point, because we could hardly tell the difference between an S4 and the Moto X's performance except during intense gaming tasks, but if you're looking for future proofing, you might be more comfortable signing up for two years with a quad-core rather than a dual.
+
+There's no microSD. This is mainly for the Samsung fans who love their SD cards. If you're anything close to a power user, you absolutely must buy the 32GB Moto X, not the 16GB.
+Final verdict
+
+The Moto X is a very good phone at a great price. Is it one of the best Android phones out there? Yes, but it really depends what your values are. that depends. If you value a reasonable size and useful services over raw power, a massive HD screen and microSD support, the Moto X is your phone.
+
+It's odd to call a phone with a battery that makes it through the day and form factor a human hand can actually manipulate a niche device, but we're not sure if it's what Android users want. It's certainly what I want, in fact I'm considering a purchase.
+
+It could also be what incoming iPhone expatriates want too. We've heard complaints about the iPhone 5's battery life, and if the S4 is too big and the One is too fragile, this could be a very happy medium.
+
+If the camera were more reliable, this would be a perfect Android phone. As it is now, it's just shy of perfect, which is quite a deal for a phone at this price.
+
+
+

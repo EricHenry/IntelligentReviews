@@ -1,0 +1,148 @@
+The Nokia Lumia 1520 is huge, that much is obvious, but the 1520's design is cut from the same cloth as all the other Nokia Lumia phones. It's made from a single sheet of sturdy, high quality plastic with the screen protruding ever so slightly outwards from it. It's a good look and one we're not bored with yet.
+
+It's hard to escape the size, though. It's not thick (8.7mm), but it is exceedingly tall, wide and quite heavy. It's a full centimetre taller than the already large Samsung Galaxy Note 3 (162.8mm vs 151.2mm) and half a centimetre wider, but it's also 42 grams heavier. Its heft is hard to ignore, though it's as much a function of the Lumia 1520's superior build quality as the size.
+
+Needless to say, then, that this is a 'two hands' phone. You can use the Lumia 1520 in one hand for periods, but inevitably something will require you to bring the other one into play. This is just the reality of owning a phone this size, as is the fact it's a tight fit in most trouser pockets. Reality or not, we prefer the slightly tighter dimensions of the Note 3.
+
+
+
+For physical controls it includes a dedicated camera shutter button alongside the usual volume and lock/power buttons. They're fine, though it's a little too easy to jog the volume control when you put the phone back in your pocket and they aren't the easiest to locate by feel alone.
+
+Besides the top-end processor and camera, which we'll get into a little later, Nokia has truly thrown the kitchen sink at the Lumia 1520. There's 32GB of built-in memory, but there's also an up to 64GB microSD card slot. Every wireless standard we can think of is included, too. There's 802.11ac Wi-Fi, Bluetooth 4.0 and NFC, not to mention 4G LTE. Did we mention the 1520 supports wireless charging? We didn't? It does that, too, albeit with a optional dock.  
+
+SEE ALSO: 10 best Android phones you can buy
+
+
+Nokia Lumia 1520: Screen Quality
+You don't need us to tell you that the screen on a phone is important, and clearly Nokia doesn't either. The Lumia 1520's screen is a triumph. The IPS-based LCD screen is sharp, rich, colourful, responsive, bright... and some other good things we can't quite recall right now.
+
+A 1920 x 1080 resolution on a 6-inch screen equates to 367 pixels per inch (ppi), which is plenty sharp enough to ensure text, videos and photos look smooth and detailed in all the right places. And while the size makes the Lumia 1520 a cumbersome phone to use, it's fantastic for games, videos and web browsing.
+
+It is, as is often pointed out, more like a tablet than a phone. This also makes the Lumia 1520 excellent for working with and viewing Microsoft Office documents, particularly ones with graphics and charts that won't fit on smaller phones.
+
+Like most Nokia phones, the Lumia 1520 also works when wearing gloves -- a neat trick the likes of Apple have yet to adopt. This is a nice-to-have rather than a must have, but it also has the happy side effect of making the Lumia 1520's screen incredibly sensitive and responsive without gloves.
+
+The black level and contrast isn't quite as deep and clear as the best AMOLED displays, but the Lumia 1520 is still very good on both counts. It's excellent when viewed outdoors, too. This is a big help when lining up shots with the camera, somewhere where the size also helps a great deal.
+
+All told, it's really hard to find fault with the screen. It's by far and away the highlight of the phone.
+
+Nokia does more than any other brand to add extra software and apps to Windows Phone 8. Most of its additions are nice, too, even if most Windows Phone's weaknesses remain.
+
+Most of the highlights will be familiar to any Nokia Lumia owner, with mapping being a key one. You get the competent HERE Maps for standard day-to-day mapping, HERE Drive for sat-nav and HERE Transit for public transport.
+
+Drive is clearly the highlight, as it uses the same systems Nokia sells to numerous car markers for their integrated sat-navs. Vitally, unlike Google or Apple Maps, it lets you download maps to use offline, making it a far more robust navigation option.
+
+You also get Nokia Music. It's a fairly standard music service in most respects, though the highlight is the ability to download up to four 'mixes' (curated playlists) to listen to offline for free. It replaces the Xbox Music app by default, though you can download it if you prefer Microsoft's offering.
+
+Nokia's best work is reserved for the camera apps that we'll cover later, but there's no escaping the paucity of apps in the Windows Phone Store. Most of the big hitters (Spotify, Facebook, Twitter etc.) are there, but there are some high profile absentees and the quality, regularity of updates and variety of apps is patchy at best.
+
+Windows Phone 8 is an erratic OS to use, too. In some places it's effortlessly simple and we love its Live Tiles with a slightly unreasonable passion, but in others it overcomplicates and places simple actions one step further away than is ideal. For example, while it sounds great that the Photos app pulls in photo updates from Twitter and Facebook in the 'What's New' view, we'd sooner just see our own damn photos straightaway.
+
+It also lacks a few basics we've come to expect of Android and (more recently) iOS 7. Windows Phone 8 still doesn't offer easy access to Wi-Fi and Bluetooth toggles, for instance, and there's still no proper notifications system. Live Tiles arguably make up for the latter omission, but only partially.
+
+In summation, Windows Phone 8 still seems to carry the 'great potential' tag, but it's dangerously treading the line of 'unfulfilled potential'. It's easier to overlook its limitations on cheaper, budget phones, but on a true top-end phone like this they're a little jarring.
+
+SEE ALSO: 5 best cheap smartphones you can buy
+
+
+Nokia Lumia 1520: Performance
+Windows Phone 8's performance can rarely be faulted, however, and the Nokia Lumia 1520 helps matters by using the fastest silicon available. Its quad-core, 2.3GHz Qualcomm Snapdragon 800 processor and 2GB RAM is sufficient to run all the latest games at full whack, while the OS glides seamlessly.
+
+Unfortunately our usual benchmarks (Geekbench 3 and 3D Mark) aren't available on Windows Phone 8 yet, but we have enough experience from testing other Snapdragon 800 phones to say that the battle between it and the Apple A7 is too close to call. Apple's chip wins in some tests, the Qualcomm in others.
+
+Really, though, both are arguably overpowered for the tasks they perform day in, day out. Games give them a workout and the Lumia 1520's camera (and its RAW support) no doubt benefit from the extra processing power, but it's rare that the processor's full power is needed.
+
+The best way to think about the Lumia 1520's camera is as a moderate step down from the Nokia Lumia 1020. The principals are the same, but it's not quite as impressive on paper or in reality.
+
+In comparison, 1520 has a 20MP PureView sensor compared to the 1020's 41MP; it has a smaller 1/2.5-inch sensor vs the 1/1.5-inch on the 1020; it has a smaller f/2.4 (vs. f/2.2) aperture; and it has a dual-LED flash rather than the Xenon and LED formation of the 1020.
+
+For all these downgrades, however, the 1520's camera specs still outstrip much of the competition and it still has optical image stabilisation -- a feature that's as useful for video shooting as it is for photography.
+
+SEE ALSO: Nokia Lumia 1020 vs 808 Pureview
+
+
+Nokia Lumia 1520: Camera Apps
+The 1520 also comes furnished with a very advanced and flexible selection of camera apps. The two main Lumia 1520 camera apps are Nokia Pro Cam and Nokia Refocus. Pro Cam is the core camera app, while Refocus is a separate app that lets you manipulate the focus and colour rendition of photos in post production. Nokia throws in Nokia Creative Studio for adding Instagram-style filters, too, while Nokia Cinemagraph lets you create fun 'animated GIF' style photos.
+
+All of which sounds impressive (and much of it is), but it leads to a rather bitty, confusing and cumbersome photography experience -- a fact not helped by Windows Phone's well-meaning but flawed 'Lenses' system. Having a separate app for filters means you can't preview them live, and it feels needlessly complex to have two separate apps for taking photos.
+
+
+
+Nokia Core Pro
+The Core Pro app gives you a level of control unrivalled on other phones. You have full control over all the kinds of things you'll find on advanced dedicated cameras, such as white balance, exposure, ISO and plenty more. What's more, the dial system for tweaking all the above is intuitive and fast. There's exposure bracketing for the truly adventurous, too, while a burst mode (of sorts) lets you create cool looking action shots.
+
+There are some strange omissions, though. There's no native HDR mode, for example, while the Panorama mode (a downloadable lens) is an old style stitching one rather than the far superior 'sweep' modes of the iPhone 5S and Nexus 5, among many others. The results aren't worth the bother.
+
+Nokia Refocus
+Nokia Refocus, meanwhile, is a rather neat and genuinely innovative app. It has two key features: it lets you change the focus point after taking the photo, and it lets you select a single 'colour' focus.
+
+
+
+The focus feature, which is essentially a software version of the much talked about Lytro camera, is something of a mixed bag. It only works when the foreground subject is very close (i.e. macro distance) and the creative uses aren't that exciting.
+
+
+
+
+The colour picker (it's called colour pop), however, is very cool and lets you create some fun, attractive shots with minimal effort. The only problem is it's sometimes hard to select the colour in the scene you want to highlight because you can't zoom into small objects in the frame.
+
+
+
+On balance, we'd prefer it if the colour selection tool was part of the Creative Studio app, ditching the focus feature entirely. This would rid the need for two separate apps, a complication we could live without.
+The slightly inconsistent experience of the apps is mirrored when looking purely at image quality and performance. Like the Lumia 1020, the 1520 is slow to take photos by phone standards. The shot-to-shot time is lethargic and it takes a shade longer to focus than the likes of the iPhone 5S, though the 1520 is slightly better than the 1020 on both counts.
+
+This makes the Lumia 1520 atypical among smartphones. Its strength isn't immediacy and capturing those impulse moments, it's about setting up shots, framing and creativity. Its lack of speed, and some of the issues covered on the previous page, make the camera on the 1520 a real curate's egg, though it's hard to argue with the quality of the end product.
+
+
+
+
+Our City of London test shot shows the Lumia 1520 captures excellent detail. It is, as we expected, somewhere between the the 1020 and iPhone 5S -- it lacks the absolute detail of the former, but there's visibly less compression and noise than the latter.
+
+
+
+In macro shots, it captures a pleasing amount of detail and creates very pleasant 'bokeh' (blurred background) effects that an iPhone 5S or similar spec phone camera just can't match. The range of controls, and support for RAW, also makes the 1520 a serious photographer's dream come true. If you want a phone where you have real control, this is it.
+
+
+
+
+In low light it's much the same story as above, albeit with a few caveats. Without flash it sits firmly in the middle of the three. There's less noise than the iPhone 5S, but it's obvious that the 1020 captures more light.
+
+
+
+
+
+With flash turned on, however, it's not quite so straightforward. The 1020's Xenon flash clearly wins out for its strength and range, even if the result is a tad over saturated. But the 1520 and 5S is a close fight.
+
+Of the three the iPhone 5S is arguably the most accurate, no doubt thanks to the two-tone flash. This gives it the edge over the 1520, but 1520 still has a decently powerful flash in comparison to the large majority of phones.
+
+With a huge 3,400mAh battery to power it, the Nokia Lumia 1520's battery life ought to astound. It isn't quite as good as we initially expected, but it's very good all the same.
+
+Our day using the Lumia 1520 started around 7am with a full charge. After an hour-long commute listening to music the whole way, browsing the internet and a smattering of photo opportunities, the battery stood at 85%.
+
+It was left mostly idle with Wi-Fi on until lunchtime, though we turned off Wi-Fi around 11:30 and took a few test photos. By 1:30pm it had 60% left, which dropped to 44% by 4pm after a meeting in which we used Evernote to take notes and took some time to rattle off 10 or so more test shots.
+
+Later on we spent an hour or so listening to music with the screen off, which means when we headed home at 6:30 we had 31% left. Post the journey home, where we mostly read a book with a small sprinkling of browsing and gaming, the 1520's battery read 20%. This was enough to last the rest of the evening where it mostly sat idle.
+
+
+
+This was a pretty heavy workload for a whole day, particularly as we took at least 20 or so photos through the day. Lighter use should cause no problems whatsoever, though unsurprisingly keeping an eye on screen brightness is important. It's a real power drain, especially as the auto brightness system typically sets it higher than it really needs to be and there's no quick access to control it.
+Nokia Lumia 1520: Call and Sound Quality
+Call quality is sound. The earpiece is loud and precise, with no annoying distortion or compression of voices. We never had any trouble making ourselves heard, either, even with a moderate amount of background noise.
+
+The built-in speaker, however, is poor. It's not very loud and because it's on the back, it's hard to use it as a speakerphone for hands-free calls when you're at home -- something worth considering if you like to use the speakerphone often.
+
+
+Other things to consider
+Storage isn't a problem on the Lumia 1520. It comes with 32GB built-in and there's support for microSD up to 64GB. What's more, unlike most phones, the card slot is reasonably accessible as it slots into the top left edge. You'll need a 'poky' (that's a technical term) to extract it, but it's useful to have easier access to it.
+
+This obviously means the rear isn't removable, which means the battery isn't user replaceable. This isn't a huge problem given the reasonable battery life, however, and the resultant build quality is worth it.
+
+
+Should I buy the Nokia Lumia 1520?
+The Nokia Lumia 1520 is a very good phone, but it's not for everyone. Its size accounts for most of that, as it's large even by 'large phone' standards and heavier than some people will tolerate. The camera isn't a total success, either, despite the very good image quality.
+
+Then there's Windows Phone 8. It has many qualities, but its weaknesses are much harder excuse when you're spending this much on a phone. The apps just aren't there and it's overdue an update to catch up with iOS and Android on some fronts.
+
+So what's the answer? If you're a hardcore Windows Phone fan, this is the phone to buy. It's the fastest, the most feature rich and most complete Windows Phone out there. But that doesn't make it the best large phone (see: Samsung Galaxy Note 3), while photography enthusiasts are still better served by the Lumia 1020.
+Verdict
+The Lumia 1520 is a watershed phone in many respects. It brings Windows Phone hardware on par with the rest of the smartphone world, but the software still needs a bit of work.
+

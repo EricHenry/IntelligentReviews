@@ -1,0 +1,108 @@
+Three years ago, Nokia shipped over 110 million smartphones worldwide. None had a display larger than 3.5 inches. Today the company moves far fewer smartphones, every single one of them with a display bigger than its largest option in 2010.
+
+These days things are different. It’s practically impossible to find a smartphone with a screen smaller than 4 inches, and the race to make a bigger smartphone gets more and more crowded every quarter. Samsung’s giant, crossover Note devices have sold in the tens of millions and Sony, HTC, and LG have launched their own giant smartphones in response. Nokia and Microsoft are evidently well aware of the demand for massive smartphones — and they're moving to grab a piece of that pie.
+
+The Lumia 1520 is Nokia’s first effort to conquer the big-smartphone world. The 1520 has a massive, 6-inch 1080p display and is the first Nokia device to use Qualcomm’s latest Snapdragon 800 processor. It will be available from AT&T for $199.99 starting on November 22nd in white, black, yellow, or red.
+
+Nokia’s other flagship smartphones in the US aren’t tiny: their 4.5-inch screens make them significantly larger than, say, an iPhone. But the 1520 is a different beast entirely — it dwarfs Nokia’s other devices, and even makes some oversized Android smartphones seem almost reasonable in size. It feels like a field test for Nokia: customers want big phones, but do they want big phones from Nokia?
+
+Under the magnifying glass
+
+Aesthetically, the Nokia Lumia 1520 looks very much like any other Nokia smartphone released this year. It’s so similar in appearance to the smaller Lumia 720 that it looks like Nokia just stretched the 720 out and called it a new phone.
+
+The 1520’s single-piece polycarbonate construction is solid and almost warm to the touch, unlike the cold finish of aluminum or the flimsy plastic Samsung prefers. My review unit is bright, glossy red. It can be a little more slippery than the matte white, yellow, and black models, but the glossy finish looks really nice in the fire-engine red, and it's certainly an eye-catcher and conversation starter. If there ever was a smartphone equivalent to bright-red lipstick, it's the red Lumia 1520.
+
+Lumia1520-300-2Lumia1520-300-4Lumia1520-300-5
+
+Of course, no matter what color 1520 you have, it’s not a particularly easy phone to handle. At 3.36 inches wide, 6.4 inches tall, and 0.33 inches thick, the 1520 always requires two hands to use. Its massive size makes it uncomfortable to put in either the front or back pockets of my jeans, and it can’t even fit in the American-size cupholder in my car. (In a twist of sheer irony, the 1520, the largest smartphone Nokia has ever made, is the first to use a nano-SIM card, the smallest SIM card ever introduced.)
+
+"The 1520 features one of the most beautiful smartphone displays ever"
+
+All of that size isn’t for nothing, however, because the 1520 features one of the most beautiful displays on any smartphone. The 6-inch, 1920 x 1080 pixel IPS LCD is bright, crisp, well saturated, and just really nice to look at. Blacks are inky and deep, colors pop with authority, and the vibrant, primary-color-based Windows Phone interface seems to almost leap right off the panel. The screen includes all of Nokia’s exclusive display features, including ClearBlack polarization for great outdoor visibility and super-sensitive touch response that works even through gloves. Companies use frivolous marketing names for various features all the time, so it’s refreshing when one actually relates to real-world improvements. The screen’s pixel density of 367ppi is not as high as other devices, but you can’t see pixels on the 1520 no matter how hard you look, and that’s really all that matters.
+
+The back is home to a new, 20-megapixel PureView camera with a Carl Zeiss lens, an external speaker, and contact pins for a charging case or dock. Oddly, the AT&T version of the 1520 doesn't have wireless charging built in, though it is available on the international model. The model I tested has 16GB of internal storage (with 14GB available out of the box), but you can expand it with a microSD card up to 64GB in capacity. AT&T says that a 32GB model will be offered at some point in the future.
+
+Making phone calls with the massive Lumia 1520 is possible, if not quite comfortable. Call quality is good and I was able to hear callers just fine on AT&T’s network, but holding such a massive phone up to the side of my head never felt right. It’s the same problem I have with making phone calls on a Galaxy Note 3 or other giant Android phone, only worse. As with the solid call-quality, LTE performance on AT&T’s network in New York was reliable and fast with the 1520.
+
+
+
+The Lumia 1520 runs the latest version of Windows Phone 8 and the latest Nokia-specific firmware, known as Lumia Black. It’s taking advantage of the update to Windows Phone 8 which supports both 1080p displays and the new processor, and it has gained a couple of minor enhancements along the way. It’s great to finally be able to close apps directly from the multitasking menu and toggle screen rotation, but this latest version is a minor update in the grand scheme of things — designed for more screen sizes, not more features.
+
+"Everything on the 1520 is just big, and the display isn't being used to its fullest"
+
+Wp_ss_20131117_0003
+
+The Lumia Black firmware on the 1520 includes all of the latest platform enhancements Nokia has developed, such as double-tap to wake, Glance notifications, and Bluetooth 4.0 LE. But Windows Phone still doesn’t have a proper notification center and other basic features that Android and iOS have had for years, which can still make it difficult to use.
+
+When designing a large, high-resolution device, there are two paths to take. Everything can be the same size as on smaller devices, therefore displaying much more content at once. Or the interface can be scaled up, displaying the same amount of content but with much larger icons, fonts, and interface elements. Microsoft chose to more or less just scale the Windows Phone 8 interface up, and I’m not sure that was the right thing to do.
+
+Everything with the 1520 is big, and it doesn’t feel like the giant display is really being used to its fullest. Fonts have grown to enormous proportions, there’s empty space all over the place, and the interface elements and icons feel as if they were designed for someone with very poor eyesight. The Windows Phone virtual keyboard is a joy to type on (with two hands, of course), but it still takes up half of the display, which is seriously excessive on such a large screen.
+
+The one area that Microsoft optimized Windows Phone 8 for big screens is with the new third column for Live Tiles on the Start screen. You can now fit more tiles across, so scrolling through your home screen is less work. Unfortunately, the largest tiles are still only two columns wide, and having so many Live Tiles flipping and dancing in a cacophony of animations can be overwhelming.
+
+Aside from the extra column of tiles, there isn’t much else in the way of optimization. I counted one more preview line for emails in my inbox, and one more visible email; two more contacts in the People hub; 1.5 more hours of appointments in the calendar app; and about four more apps in the app list before I had to scroll to see more. In the browser and third-party apps, the experience is virtually identical.
+
+Other big phone makers, namely Samsung, have implemented stylus support and special features that can take advantage of such a large screen. But Nokia isn’t going that route at all — reps said adding a stylus to the 1520 would mar the phone’s sleek design — and there isn’t really anything you can do on a 1520 that can’t be done on a Lumia 1020 or any other, smaller Windows Phone. Perhaps Microsoft and Nokia will refine Windows Phone for large screens in future revisions, but right now, it feels as if the bare minimum of effort was put into optimizing it for 6-inch displays.
+
+Nokia points out that the larger screen is great for gaming and watching video, and for the most part that’s true. High-definition video from Netflix, Vimeo, and Hulu looks amazing, though I really wish there was a proper YouTube app on the 1520 (third-party app MetroTube works in a pinch). But Google, Apple, and Amazon have also put a lot of effort into building vast content stores for their devices, which pays off when you have big, amazing screens to watch TV shows and movies on. Nokia and Microsoft haven’t yet done that (the Windows Phone Store offers music for sale, but no movies or TV shows), and I longed for the ability to purchase an episode of New Girl or rent The Fast & Furious to watch on the 1520’s display during my commute. Microsoft has promised to bring Xbox Video to Windows Phone 8 some time in the future, but it’s not here yet and as a result the experience is lacking. Without a great media store, Microsoft and Nokia aren’t taking full advantage of the 1520’s big, beautiful display, and that’s a crying shame.
+
+Update: As of December 18th, 2013, Microsoft has released the Xbox Video app for Windows Phone 8. It addresses one of our biggest complaints with the media options on the Lumia 1520, though unfortunately the video content is not available in high definition. You can download it from the Windows Phone Store now.
+
+Wp_20131115_18_26_44_pro-1024
+PureView for the people
+
+The Lumia 1520’s 20-megapixel camera is a scaled-down version of the 41-megapixel PureView camera included on the Lumia 1020. The sensor is a fairly large 1/2.5-inch in size, but it’s smaller than the 1/1.5-inch chip in the 1020, and the lens is a smaller f/2.4 aperture. The flash is a dual-LED unit as opposed to the Xenon flash on the 1020.
+
+The result of all of these changes is a slimmer, smaller camera module (the 1520 has a only slight hump for the camera) that is not nearly as capable in low light. The 1520 still has some of the 1020’s software tricks, including the ability to re-crop and reframe a photo after the fact and zoom in slightly without loss of quality, but it doesn’t come close to the same level of impressiveness as the 1020. In side-by-side low-light tests, the 1520 lost to the iPhone 5S repeatedly, and couldn’t hold a candle to the 1020.
+
+Despite its concessions in image quality, the 1520 unfortunately has many of the flaws of the 1020 camera, namely slow autofocus and slow shot time. Launching the camera from sleep can take one to two seconds, enough time to miss the moment, and then focusing can take another beat or two. The 1520 saves two versions of every image, a 5-megapixel one for sharing and a 19-megapixel image for cropping after the fact (the 1520 can also save a DNG file for RAW processing on a computer), which makes the phone pause for a second or two before letting you take the next picture. When I try to take photos of my fast-moving toddler, those extra seconds usually mean the difference between a treasured memory and a blurry image of my kid running out of the frame.
+
+Nokia Lumia 1520 sample pictures
+View full Gallery
+Previous
+
+
+Next
+
+That isn’t to say all pictures from the 1520 are terrible or that it is a bad camera at all. It’s just not nearly as impressive as the 1020 or even an iPhone 5S. Outdoors and in good lighting, and sometimes even in difficult lighting, the 1520 is capable of taking an acceptable picture. And Nokia’s litany of unique camera apps can make picture-taking pretty fun. The latest one, Refocus, lets you control the focus point of an image after it is taken, mimicking the Lytro light field camera. Nokia says that the new processor in the Lumia 1520 provides more power for photography, so I hold out hope that future software updates can improve the speed and performance of the camera.
+Wp_20131115_18_20_06_pro-300Wp_20131115_16_57_09_pro-300Wp_20131117_12_46_34_pro-300
+
+Lumia1520-1020-12
+Speed to spare
+
+The new 2.2GHz, quad-core Snapdragon 800 processor with 2GB of RAM (the same processor in the LG Nexus 5, LG G2, and Samsung Galaxy Note 3) is the most powerful chip ever used in a Windows Phone, and it lets the 1520 fly through everyday tasks. Windows Phone has always been an efficient and fast operating system, but the 1520 is a screamer. At this point, the phone operates so quickly that it feels like Windows Phone’s superfluous and sometimes excessive animations are what slow you down, not the processor.
+
+"The new Processor makes windows phone 8 feel even faster"
+
+The new processor’s power is evident when gaming, as well. The options for cutting-edge mobile games on Windows Phone still pale in comparison to what you can get on iOS or even Android, but recent titles such as Asphalt 8 and Halo: Spartan Assault look great and perform effortlessly on the 1520 (though the phone did get noticeably warm after a few minutes of intense gaming). Temple Run is great on the 1520 too, but it’s frustrating that I can’t play the sequel, which has been out on Android and iOS for a long time. Microsoft has huge potential with the Windows Phone Xbox integration for great mobile gaming, but it remains untapped and of no real benefit to users.
+
+Large phones usually have massive batteries, and the 1520 is no exception. The 3,400mAh cell is one of the largest on the market for any platform, and the big, bright display needs every last ounce of it. I was able to get through a full day of moderate use with the battery, but it didn’t last as long as I expected given its very large capacity. Standby time is great, but as usual, the display is the main culprit when it comes to battery use: using the 1520 to play games, watch video, or read for an extended amount of time will put a dent in the battery life quickly. Charging the 1520 using the included charger takes a considerable amount of time, as well.
+
+
+Nokia Lumia 1520
+7.4 Verge Score Write Review
+Good Stuff
+
+    Screen is beautiful
+    Solid build quality
+    Speedy performance
+
+Bad Stuff
+
+    Windows Phone doesn’t take advantage of the big screen
+    No HD content from Xbox Video
+    Slow camera
+
+The Lumia 1520 is a prime example of when bigger isn't always better
+
+When Nokia and Microsoft decided to go big with the Lumia 1520, they indeed did in some respects. The new display is tremendous and the faster processor makes the 1520 the speediest Windows Phone around. But the compromises you have to make for such a large screen aren’t rewarded with a significantly different or better experience than any other Windows Phone. The cumbersome size isn’t comfortable to use on the go or to keep in your pocket, and though the 1520 is nearly as big as a small tablet, it doesn’t offer any of the advantages that tablet software can bring to the table. Windows Phone needs more work to get the most out of such a big screen, and it desperately needs a proper media store to provide content for it.
+
+If you’re looking for a 1080p display on a Windows Phone, right now the 1520 is the only one you can get. But you can be sure that more Windows Phones with full HD displays are coming in the near future, and you likely won’t have to accept a massive 6-inch screen for them. Same goes for the faster processor: Microsoft’s updates to Windows Phone mean that quad-core chips are supported by it natively, so there will certainly be more phones coming with similarly powerful chips.
+
+Of course, if you are in the market for an oversized smartphone, there are a number of Android devices that provide better big screen experiences than the Lumia 1520. The Samsung Galaxy Note 3 packs a great-looking 5.7-inch display, and includes software and a stylus to take advantage of it. That’s not to mention the much larger Google Play Store for apps, games, and video content.
+
+Samsung and others have proven that there is a market for giant smartphones, warts and all. But that doesn’t mean that just any smartphone is better if it’s bigger, and the 1520 is a prime example of that. It’s bigger and faster than any other Windows Phone yet, but it’s not necessarily a better Windows Phone because of that. If all you’ve ever wanted in life is a Lumia 925 with a magnifying glass on top of it, the 1520 is exactly that. It’s a tour de force in resolution and speed, but it’s not a great smartphone or even a great replacement for a tablet.
+
+Nokia could capture the minds and wallets of big smartphone shoppers with its excellent hardware design and impressive camera technology. But it needs to do more to give people a reason to choose its devices over the Note 3 and other big smartphones, and the 1520 doesn’t quite do that.
+
+

@@ -1,0 +1,471 @@
+
+
+The iPhone 5S is Apple's latest flagship smartphone, one that tweaks and enhances the iPhone 5. With almost all of 2013's smartphone models revealed - except for the Nexus 5 - this is where Apple sets out its stall for the next year.
+
+The "S" models from Apple can seem a bit disappointing for those who upgraded the year before, but can the same be said for this latest 2013 upgrade? Does it match the hype for this model that saw more leaks than any previous iPhone? If you are an iPhone 4S user just coming out of contract should you be signing up for more Apple or going elsewhere? We've been using the iPhone 5S since the launch and have regularly updated this review as the experience, including new software updates like iOS 7.1, have been released. 
+Design
+
+Take one iPhone 5 and add some new colour finishes. The iPhone 5S looks exactly the same as its iPhone 5 predecessor, which is typical of the "S" models. That's predictable and a bit boring in some respects; safe and familiar in others.
+
+So that means the same 4-inch, 1136 x 640 pixel (326ppi) Retina display. Not taller, wider or more resolute this time around. We suspect Apple will increase the screen size in the iPhone 6 - and the lack of movement here might disappoint a whole lot of fans hoping for Apple to stand up against the competition out there. 
+
+If you are being picky about differences from 5 to 5S then there are two new physical configurations to the chassis: the first is that the flash on the rear has changed - it's now oblong instead of circular (more on why later) and second, the Home button is now home to the Touch ID fingerprint sensor and therefore loses the square imagery on it. Both small deals from a visual standpoint and you could easily trick someone into thinking you had an iPhone 5 if your finger was over the button.
+
+The design is what it is. You'll either like the look of it and what it lets you do, or not, but it is effortless in its approach. The screen, while smaller and less resolute than most of the Android and Windows Phone competition, works well enough - but we can't help but feel that just badging something "Retina" doesn't mean it's as good as the competition these days. It's sharp and vibrant, yes, and Apple's iOS 7 and apps look great on it, but Apple isn't breaking new ground here.
+
+READ: Apple iOS 7 review
+
+But perhaps Apple is still banking on its own ecosystem and, to some degree, people not minding about the figures. If it works, it works. And the fact the company hasn't bulked out the 5S to epic-sized screen proportions means the phone will fit comfortably in the hand - and the pocket - and appeal to many people.
+
+At times that 4-inch screen - compared to say a 4.3-inch, or even 4.5-inch - suffers from feeling small. But that's because the landscape of mobile has changed. Things look small, certainly when viewing images in the new iOS 7 configuration, while watching something on Netflix doesn't benefit from more real estate.
+
+
+
+A new phone also means new colours: you can now get the iPhone 5S in silver, gold, and space grey. The last in that list is just a snazzy way of saying blackish grey - it replaces the black iPhone 5 and we think Apple has kept away from the jet black finish to avoid prominent scratches that catch the sun, as on the iPhone 5. Silver is identical to the iPhone 5 in white, just under a different name.
+
+For those wanting the world to know that they've got a new iPhone you could either wave it around in public telling everyone about it, or pick up the gold - which is more of a white gold to be fair - that is subtle rather than being in-your-face bling.
+Faster A7 processor, supposedly
+
+The iPhone 5S comes with the new Apple A7 processor that brings with it a 2x performance enhancement and a 2x graphics enhancement. Double the power, according to Apple's figures. The processor also allows Apple to take iOS 7 into the realm of 64-bit, compared to the 32-bit processing of the iPhone 5.
+
+In the future this should make a huge difference in terms of what is possible. Notice "should", because, right now, we just don't know the full extent of what 64-bit processing will really yield. Excluding some native Apple stuff such as photo and video capture we just have to take it for granted. That's because at the moment there are no 64-bit enabled apps from third parties, but tomorrow there could be. A year down the line there definitely will be.
+
+ 
+
+In day-to-day use we've noticed no real speed enhancements whatsoever when using an array of apps and playing all the resource-heavy games we can - Infinity Blade II, Need for Speed Most Wanted, Real Racing 3, Angry Birds (we jest). The importance of 64-bit is huge, though. It is very much an improvement that you'll see tomorrow rather than today, which makes it really hard to tell you that it's amazing, because on day one, the 20 September release day, you'll look at the phone and say "this is no different from the iPhone 5".
+
+For today however the phone is as fast as it ever was, with zero lag and zero performance issues. Not once have we thought anything took too long to load. But if you are an iPhone 5 user expecting the 5S to be twice the speed of what you've been using, you'll find that's not the case.
+S for sensors
+
+In the past "S" in the iPhone models normally stood for speed. A new processor and everything is lightning quick. In the iPhone 5S, however, it's probably fairer to say that it's about multiple sensors, as well as speed. There are buckets of them in the phone including a dedicated coprocessor called the M7 and the Touch ID fingerprint sensor which lives in the new Home button.
+
+The M7 coprocessor measures motion data from the accelerometer, gyroscope, and compass and is all open to third-party developers. That means companies such as Nike - due to intro the Nike Move app later in 2013 - can take advantage of all that new information to make your phone behave like a FuelBand. However, and just like the A7 processor, the M7 coprocessor has yet to be fully realised on launch day so we can't really see any of this in proper action yet. It's another detail of the iPhone 5S to add to the list of its potentials.
+
+
+
+Apple has already started using this data to benefit its own efforts. In Apple Maps, for example, the idea is that you can start directions in the car, then move to walking, and the phone knows and changes its directions for you automatically. The thing is, we're not even sure if we've witnessed it in action, that's how subtle it is.
+
+The phone will also supposedly know that you aren't moving and are in a poor signal area and so automatically stop trying to boost the modem to get a signal which, in turn, saves battery consumption. The battery did last longer than we were anticipating, so maybe it has helped.
+And S for software: iOS 7 as standard
+
+A new iPhone means new software too and from the get-go the iPhone 5S offers the latest iOS 7 operating system, including all the visual treats that delivers.
+
+We've been using iOS 7 in depth, from beta through to the final version, for several months to get a good impression of what it has to offer for users new and old. In short: while everything looks different and more colourful, underneath it's still the same OS and you'll either love or hate that.
+
+The new look and feel brings with it a crisper and thinner font, a greater use of colour, and a layering system that gives everything added depth. Gone is the ode to faux leather, green felt, and yellow note paper. That overall vibrant, colourful - even joyful - approach shines through, although it does strike a chord with the serious outer, we all need to smile inside sometime.
+
+
+
+On the features front, you now get a settings panel that can be accessed by swiping up from the bottom of the screen, a little like the one in the latest versions of Android. There's also a new multitasking approach to seeing what apps you have open, while double tapping the Home button lets you see a cards of the open apps that can be cycled through and discarded to close. There's no "close all" action on the app front, however.
+iOS 7.1
+
+Apple likes to redefine things all the time, and that's the best way to describe iOS 7.1. It's a set of tweaks and improvements to the User Experience (UX) that also brings with it some new features, although for the most part, small.
+
+Graphics
+
+The biggest graphical change is a refining of the iconography of the user interface to make it more button like. On the call answer screen for example that means a circular button that slides from left to right rather than an arrow in a big green box.
+
+The button worship continues through apps like the Music app, Keyboard (Shift and Delete now get a bolder look) and even the power off slider is a button to slide across the screen.
+
+
+
+The new enhancements make more sense and play to the hardware button even more. OCD fans will be pleased that everything matches in a lot more clearly now.
+
+Beyond the overall design smudges Jony Ive and his team have applied, there are other tweaks that are worth a mention.
+
+CarPlay
+
+Apple's CarPlay compatibility feature in iOS 7.1 isn't commercially available in cars yet, however we've been given a demo of the new feature at the Geneva Motor Show.
+
+
+
+READ: Hands-on: Apple CarPlay review
+
+CarPlay enables you to connect your iOS devices to a compatible car to access maps, directions, messages, and more. The feature, which is considered an accessibility feature, will display all iOS content on a vehicle's navigational screen.
+
+Siri
+
+Siri now features a push to hold feature that works like a walkie talkie. The idea is that you now hold down the home button when you are talking to it can better understand when you've finished. It makes a big difference, but you can't help feel that it is an acknowledgement that the microphone or the technology that processes your words aren't as good as Google's Google listening tech that doesn't even need to worry about you pressing a button to know when you are going to speak.
+
+Siri in the UK also gets a new voice. Now it's a lot softer, not so harsh. It feels like Siri is now trying to be your friend rather than a school teacher scolding you. But it's not just the UK that gets a fresh voice in their phone, Australia, Japan, and China do to.
+
+Calendar
+
+A small tweak, but a useful one, you can now display options in month view, and Apple have added country specific holidays automatically for lots of new countries. It's the kind of thing that sums up the update. little changes that all go to help improve the experience.
+
+Motion sickness
+
+Yep, Apple continues to refine the motion sickness issues even more in iOS 7.1 with a new setting to reduce motion options in Weather, Messages, and Multitasking. It makes the phone less jumpy and means that if you don't like all that animation you can turn it off.
+
+Performance and stability
+
+It runs faster (but still not as fast as iOS 6) and it's is a lot more stable. If you've heard your friends, who have been using the iPhone 5S for a while, complain about crashes or the white screen of death, those worries should now be gone. TouchID has also been improved meaning you shouldn't get as many false returns as previously.
+
+ 
+Touch ID
+
+The biggest change that will affect how you use the iPhone day-to-day, however, is the new Touch ID fingerprint sensor. Now you can unlock the phone with one of five fingers from either hand. Or even someone else's hand for that matter. And yes, you can programme it to work with your toes too, if you have need.
+
+The technology behind the Touch ID sensor is incredibly technical, but it's also incredibly easy to use and, more importantly, set up. It works effortlessly too: resting your finger on the Home button opens your phone with zero delay and in time you will wonder how you ever lived without it.
+
+So what's it all about? The Home button has become a 555ppi capacitive screen that monitors the pattern in your digits and matches them up with the ones you've saved. Those worried about security shouldn't be. Fingerprints are only ever stored on the phone and never shared elsewhere and if you can't get in with your digits because they aren't being recognised, or you're wearing gloves, then the phone defaults to the standard 4-digit passcode. You'll still have to use a 4-digit passcode if you turn off the phone completely, or get your finger wrong five times in a row, or if it's been more than 48 hours, so don't think that you're fingerprint is the last and only bastion of defence.
+
+a
+
+At the moment the only other application for Touch ID is to confirm app store payments. Apple has yet to release the API (application programming interface) for it, so it's not an option for third-party developers just yet. There's plenty of scope for how useful it could be: banking, paying for things, and other features are likely in the future. Another point for that growing list of potentials.
+
+Of course it's not all amazing and there are some limitations: have a few too many, fall asleep, and your nefarious friends might mess around by borrowing your finger to dip into your phone. It's also worth bearing in mind this is very much a summer technology, gloves with silver laced through them might still let you use you touchscreen, but you're going to need to get your hands cold if you want to unlock your phone the new way. And let's not forget there's you - if you are a heavy iPhone user you've been swiping to unlock probably 20-50 times a day for the last year, breaking that habit will be an initial hurdle.
+New cameras
+
+Yes, the front and rear camera has got better in the iPhone 5S and this is certainly a big plus for iPhone users who we know love taking pictures. Apple resisting the urge to get into a megapixel race with Nokia, Samsung and Sony, has opted to stick with an 8-megapixel sensor for the rear camera, but with enhancements to the sensor itself, the flash and the shooting modes available.
+
+READ: Sony Xperia Z1 review
+
+Apple's response is to make a larger sensor. Therefore the "pixels" on that sensor are each larger and that makes for better light-capturing properties and a cleaner signal. There's also a slightly wider aperture - up to f/2.2 from f/2.4 - to allow even more light in. That helps in low-light conditions, but also in good light too. The front camera is now capable of 720p video capture.
+
+The second phase of attack is to improve the flash. Now dubbed True Tone flash, it consists of two flash bulbs, one white, the other amber. If you're a photographer that works much like a flash gel to colour the light and should lead to better results.
+
+
+iPhone 5S vs iPhone 5 lit entirely by the flash 
+
+The camera app, pulled up through iOS 7, is then able to monitor what is going on in the scene and what combination of flash you need to light it (if at all). In testing side by side against the iPhone 5, where the iPhone 5 needed the flash, the iPhone 5S was happy to take the picture without and produced better results. When the flash does fire the results are superior too, even in situations where we are in complete darkness lit only by the flash itself. New in iOS 7.1 is also an Auto HDR mode that when turned on will automatically detect when to turn on HDR mode and when to not. You can turn this mode off if you want you shots to be purposely dark and moody. 
+
+Of course there is more image noise in low-light shots, but we are still very impressed with the performance. Like the Nokia Lumia 925 and Lumia 1020 boasts, the iPhone can - by guidance of its focus light - now take very good pictures in low light. Photographers, you won't be disappointed.
+New shooting modes
+
+Beyond the new camera capabilities and new flash, Apple has also added auto image stabilisation to reduce motion blur. It works via two new camera modes specifically for the iPhone 5S and there's a further square ratio that all iOS 7 users get.
+
+Camera modes, including video, now offers: slow-mo, video with up to 3x zoom while capturing, photo, square (complete with nine filters), and panorama. Each of these are accessed by simply sliding your finger across the screen from left to right.
+
+The camera app is uncluttered. But unlike the Nokia Lumia or Android approach where everything can be altered manually you get nothing of the sort here. If you want to adjust ISO settings and white balance then you'll need to invest in a dedicated app to do that.
+
+Taking advantage of that A7 processor Apple has added burst mode and, finally, slow motion. Burst mode will let you take an almost infinite amount of pictures with a long press of the shutter button and then you pick the best one out of the bunch. The software will also present what it believes to be the best as a shortcut, but it's nice to have the option to look through the others too.
+
+When slow-mo is selected you can record video at 120fps at 720p quality and then retrospectively slow down any part of the footage afterwards. Reduce it to 30fps and it'll run at quarter time, but still super-smooth. To make it look even better the audio is also slowed down automatically. Cue beach-running scenes, or near-misses with trains, or, in our case, the Burberry Spring/Summer 2014 catwalk show at London Fashion Week.
+
+As you can imagine there is plenty of fun to be had, especially with the kids, and we've been snapping slow-mo footage when we can of a range of different things. Interestingly we've found that for it to work really well things have to be moving fairly slowly already. A sparkler was too quick, for example, as was running water, but people walking by, or a jogger, looks great. Expect YouTube to be bombarded with slow-mo videos very quickly.
+
+Ultimately Apple has created a cracking camera that requires you to have zero knowledge of how to take pictures - and we love that.
+4G for all
+
+In the UK the iPhone 5S now supports all the networks when it comes to 4G which is an improvement over the iPhone 5 that was available only to EE 4G customers. We've been testing it with a Vodafone 3G SIM - the 4G carrier bundle hasn't been released yet - and an EE 4G SIM as well.
+
+READ: Best 4G UK deals
+
+The antenna does what it's supposed to and, depending on coverage in your area, how that performs will depend on the speeds you can get. They are speedy as we've come to expect with EE in London.
+
+The iPhone 5S is also a phone when its extras are stripped back, and we've had no complaints about the call quality coming in or going out. We haven't experienced any "death grip" performance drops or repeated drop call issues so far - something we were keen to look out for because of its issues with the earlier iPhone 5.
+
+For those keen to talk to other iPhone or iPad users using FaceTime, FaceTime Audio - where it's now possible to make high-quality calls over Wi-Fi, a new feature in iOS 7 - is now very good. Almost startlingly so, as when we made out first call using it the audio was very clear, like the other person  was in the room kind of clear. The drawbacks, though, are that while audio is improved you can only do this jump into FaceTime Audio with other Apple users - inner circle stuff, and all that - and if you don't have Wi-Fi then FaceTime Audio has a bigger impact on your data allowance than you might think. In iOS 7 beta it was a Wi-Fi only service, but that restriction has now been lifted.
+Battery life
+
+We are heavy phone users of any phone that comes into the office. Managing email, Twitter, Facebook, games, using each device as a mobile hotspot, as well as shooting video and photos when possible. How does the iPhone 5S hold up?
+
+
+
+In our tests the iPhone 5S has lasted exceptionally well. An 8am start and a 10pm finish with heavy-ish use - including hitting it hard on the slow-mo video feature front from around 7pm - felt like a result to us.
+
+That's in line with Apple's predictions of 10 hours of talk time on 3G. Apple also suggests that you'll get 10 hours of LTE surfing, 10 hours of video playback, and 40 hours of audio playback if you do nothing else. We've not had the time to watch that many movies back to back, but based on our experience we're confident that the phone will hold up.
+
+The battery is roughly the same if not slightly better than the iPhone 5. A push forward, rather than a huge leap, but it's a step in the right direction.
+Apple-designed iPhone 5S case
+
+As with the iPhone 5C, Apple has designed a special leather case for the iPhone 5S so you can keep it snug and safe if you're willing to part with more cash. It's optional. But the £35 you have to pay to own one isn't. Ouch.
+
+The case is available in yellow, black, brown, blue, beige (yes, really), and a special red version - called the "Bumper - (PRODUCT) RED", complete with hideous mixture of caps and brackets - and each comes with a micro fibre inner to protect the phone.
+
+
+
+Sounds great, but in reality it is not. It seems a complete juxtaposition to what Apple is trying to achieve with the new operating system and seems a really strange move having spent the last year trying to remove all trace of leather and olde-world design furniture from the OS only to cover the phone in it. We've had the oddly-named red case for less than a week and it's already looking worn and tatty.
+
+First the naff Apple iPhone 5C cases, and now this. Apple should stick to the hardware.
+
+Show Me Products I'll Like
+
+Canon 5249B001 14.3MP Powershot G1X CMRA
+
+
+iPad mini with Wi-Fi 16GB - White & Silver
+
+
+Canon PowerShot SX700 Digital Camera - Black
+
+
+iPad mini Wi-Fi + Cellular for T-Mobile 16GB - Silver
+https://api.perun.s5labs.io/common/ct?i=5kIp4r9JuKFU46X2In5L4Fj%2Bv3Qn6kh3mjea1PF086vjQIQ%2FYqK1Tr0duA%3D%3D&impressionId=16bcee38-2168-417f-b734-3ffabdca2723&clientType=wide&index=SOPHIA-ELECTRONICS-US-CA&clientType=widget
+Verdict
+
+The iPhone 5S fulfils the pre-determined destiny of all Apple "S" devices - it's the one that's normally met by the baying crowd as "meh". 
+
+At the start of this review someone asked what we though of the iPhone 5S in two words and we replied "same as". But the more we've played with it, the more we've used it, and the more it's clear that Apple has made vast improvements here, even if we are yet to see the full realisation of those improvements.
+
+In many ways Apple has released a phone for tomorrow rather than today. That's a hard sell, but it's also the exciting part. The Touch ID scanner is yet to be fully realised, as are the A7 and M7 processors and the 64-bit support. But the potential for that power is huge - it's got more grunt than its near competitors and that makes it extra exciting.
+
+But we do still have a shopping list of wants: we would like a bigger and higher resolution screen, there is still no NFC (even though we believe iBeacons will destroy the need for that) and the software, despite looking cleaner, doesn't really move the 5S on too far from where the iPhone 5 was (indeed, plant iOS 7 on your iPhone 5 and it's a similar experience). iCloud still needs to be overhauled to be more fluid, while the social aspects of the phone such as helping you join the dots in your contacts book still need to be addressed and improved.
+
+If you want a phone that just works, then the iPhone 5S is a very good place to start. Apple has made it look effortless which is no simple task, and in doing so - by making it look almost too easy - you can sometimes miss the beauty and power in your hand. It's stunning to use, there's stacks of power, it's without gimmicks and a nod to the future. It's these simple elements that make the iPhone 5S, for us, one of the best phones on the market. There's a lot to admire about that.
+Apple has entered the spec wars.
+
+The iPhone 5S isn’t just supposed to be “the most amazing iPhone yet.” It’s not “the thinnest and lightest iPhone ever.” No, Apple says the 5S is “the most forward-thinking iPhone yet” and “the best smartphone in the world.”
+
+But the screen didn't get bigger, and the design hasn’t changed. Apple’s mid-cycle S updates are always about the little things: faster internals, a better camera, more memory. But this year little things have turned into big things: there’s upgraded 64-bit A7 processor and a hidden fingerprint reader, a better camera and a much-improved new flash. Add those to the new, wholly redesigned iOS 7 software, and Apple believes it has a phone that’s much more than just a refresh. For $199 plus a two-year contract, the 5S is Apple at its swaggering best, believing it can win the spec-sheet arms race while still offering a device anyone and everyone can use.
+
+But can better specs really make a better phone, despite what Apple's told us all these years? Is this forward-thinking phone the right phone for right now?
+
+Just like old times
+
+I wish the iPhone 5S had a slightly larger screen — 4 inches feels smaller and smaller — but it’s otherwise hard to fault Apple’s basic design. The 5S is virtually unchanged from last year’s model, from the cold aluminum back to metal frame with chamfered edges. Even a year on, it’s one of the best smartphone designs ever — at once svelte and sturdy, machinelike and comfortable. Its only real rival is the HTC One, itself exquisitely made; I’d love for Apple to have come up with some thrilling new design here, but there’s always next year.
+
+"Even a year on, the iPhone's design is top-notch"
+
+The practical upside to a 4-inch phone is that its 1136 x 640 display still looks great even as its resolution is lapped by the 1080p screens on the Galaxy S4 and HTC One. Even after spending time with those devices, the 5S’s display is still excellent — its remarkable color accuracy shows off the colorful iOS 7, and viewing angles are fantastic. At some point Apple will have to increase the iPhone’s screen size again, but for right now, it’s hard to find any other complaints about this display.
+
+The phone may feel the same, but the finishes do look different. The basic colors are subtle: silver is essentially the same as it ever was, and the "space gray" is just a lighter version of last year’s black model. They’re both nice, but neither will turn the heads of iPhone 5-toting passersby. That effect is reserved for the gold model, a champagne-colored device with white accents that really is a sight to behold. It’s not gaudy or ostentatious, like something Vertu or Porsche would make. It’s just classy and unique. It doesn’t quite mesh with the bright blues and greens that are all over iOS 7 the way the candy-colored iPhone 5C does, but it’s a gorgeous piece of hardware.
+
+The gold shines brightest on the circular rim around the new home button — it’s color-matched to whatever device you buy, but it only really stands out on the gold 5S. The home button looks different, with no square icon in the center and a metal ring around the concave button, but the look portends an even bigger change in how your home button works.
+
+The touch, the feel
+
+Using Apple’s Touch ID fingerprint security system feels very much like being in a secret agent movie: you pull the phone out of your pocket, touch the ringed home button (which is now much more tactile, directing your finger to exactly the right spot), and presto — you’re in.
+
+Setting up Touch ID takes a couple of minutes, during which you place your finger on the device every which way so it can learn the ins and outs of your print so it can learn who you are. Once it gets all the data it needs, Touch ID uses your fingerprint — you can teach it as many as five, and I recommend doing at least both thumbs — to let you unlock your phone without a passcode and buy things in Apple’s stores without a password.
+
+
+It requires a bit of patience at first, but once it figures out all the crazy, misaligned ways you might mash on the button, it works pretty reliably. And if it can’t figure out who you are, which happened once when I had crumbs all over my fingers and again when I had wet hands, it goes back to your four-digit PIN.
+
+Most importantly, it’s virtually instantaneous. I assumed I’d rather type in a passcode, because even if it’s slower at least I’m doing something, but Touch ID rarely take more than a single beat before the gates open and iOS 7 falls into place.
+
+Apple says Touch ID only stores your fingerprints in special encrypted memory on the phone itself, where the data is accessible to neither Apple’s servers or the NSA, nor to anyone else.
+
+"Security trumps usability with Touch ID"
+
+That’s comforting, but at the moment it limits the obvious possibilities — as with many things in iOS, the tremendous potential of Touch ID is restricted to Apple’s own apps and unavailable to third parties. Being able to authenticate Google Wallet or PayPal or even Facebook would be great, and Touch ID could be tremendous if it could effectively password-protect certain apps. (Sorry, friend, you can’t tweet from my phone.)
+
+So for now Touch ID is a useful tool, but it can feel like Apple’s deployed an amazing amount of technology just to make it slightly easier to buy things from its stores. But that’s now — with some development Touch ID could become truly spectacular. I know I’m already annoyed every time I actually have to type or swipe to unlock another phone — I just want to touch it and open the vault.
+Img_2876-1024
+Future-proofing the smartphone
+
+Apple’s spent more time talking about the 5S’s specs than I’ve ever seen the company do in the past, but the improvements are hard to evaluate. In benchmarks, the new A7 processor is spectacular — the top of its class in nearly every way. Games look fantastic, with nary a skipped frame and faster loading times than ever; even apps seem to open and close just a little bit faster than before. But the iPhone 5 wasn’t exactly getting long in the tooth, and we’ve had no problematic performance issues on the 5C either. Side-by-side in daily tasks, the 5S isn’t so much faster than the 5 or 5C that you’ll notice right away — it’s not like the animations in iOS 7 are running any faster.
+
+What the 5S and the A7 really have going for them are longevity. There’s so much raw power here that it’s going to be a while before apps take real advantage. Infinity Blade III, Apple’s traditional barometer of a new iPhone’s processing ability, looks better on the 5S than the 5, with sharper graphics and crisper transitions between scenes, but it’s not a wild new level of performance. There’s plenty of headroom here, though, and it means that after two years the 5S is probably going to be able to keep up far better than most of its predecessors did.
+
+The M7 "motion coprocessor" is maybe even more interesting than the A7 itself. It’s designed to collect data from the accelerometer, gyroscope, compass, and others, and to use that data to determine the state of your phone without sucking battery life. The processor means the 5S knows if you’re driving; it knows when you stop driving and start walking; it knows when you haven’t picked the phone up for a few hours, and it can stop downloading new email so often because you’re either sleeping or you left your phone at home. This is another feature with only a few implementations — Maps changes the type of directions it gives you depending on whether you’re walking or driving — but my mind’s reeling with the possibilities. What if Twitter could update every time I picked up my phone, because the first thing I do is always open Twitter? What if I don’t have to wear a Fitbit anymore? What if location-based apps like Foursquare weren’t such battery hogs? We can only dare to dream.
+
+"The new processors are cool, but they'll be more useful soon"
+
+Like the Moto X, the iPhone 5S has an entirely new ability to discern what I’m doing with my phone all the time — if it can react, or learn from my actions, it could make using a cellphone faster and more intuitive than ever. But all of that is speculation right now — another "if" for Apple and its developers to deliver on.
+
+
+Call quality in general is very good, as much as any cellphone's can be — the more I use FaceTime audio, typically by forcing friends and family to use it with me, the more I realize how bad call quality normally is. But the iPhone is generally good enough, and plenty loud that I can always hear and be heard. Reception is good, and it’ll be good in more places than ever thanks to expanded LTE support in more and more countries. New York City is always a hellish nightmare of LTE service, but the 5S did as well as I could ask.
+
+Maybe it was unreasonable to expect better battery life, but the 5S does have a bigger battery than the 5 — a popular spec bump for Apple and its competitors this year. But what the 5S may have gained in capacity it gives back in consumption, and battery life here seems to be almost exactly what we’ve seen on the 5 — it’ll last you a full day, but nothing more, and often less if you have an itchy Netflix finger or get lots of email and other notifications. Maybe now, with future-friendly power in its processor, Apple can figure out how to make it last longer. Or maybe it should just make a bigger phone with a bigger battery. Either way would be fine.
+
+Overall, it adds up to an impressive spec sheet that matches up with the best in the industry, but like all spec sheet battles, the overwhelming story of the 5S is to hurry up and wait. Touch ID, the A7, the M7 — they’re all good now, Apple seems to be telling us, but just wait and see what we can do. Even iOS 7 feels that way, with its spartan Today screen and locked-down sharing menu, its teasingly useful Siri features that still stumble all too quickly, and animations that seem to be running at demo speed. While Android has become a fast, fun, fluid operating system, iOS remains a mostly siloed set of apps and services, with notifications and multitasking features that still feel unfinished.
+
+I’m growing accustomed to iOS 7’s constant animations, stark white backgrounds, and text-heavy design — but I’m still not totally sold on Apple’s new direction. The new coat of paint is mostly a good thing, but it can’t change the fact that parts of iOS are still really lacking. And without the awesome color-coordination of the iPhone 5C, the bright operating system is in stark contrast to the understated hardware.
+
+There is one place where iOS 7 and the iPhone 5S fully embody Apple’s vision of integrated hardware and software: the camera. The iPhone 5S’s camera is incredible.
+
+The perfect shot
+
+The Lumia 1020 may offer you 41 megapixels and endless flexibility, but for virtually every practical point-and-shoot purpose the 8-megapixel iPhone 5 was the best smartphone camera on the market — and the 5S is even better. Apple didn’t sacrifice sharpness for low-light capability, like the HTC One and its Ultrapixel camera, and it hasn’t traded quality for simplicity, like the Moto X. Apple just took a great camera and improved both the hardware and software. The sensor is still 8 megapixels, but it’s slightly larger in size, which means each individual pixel is slightly bigger and collects more light. That means better low-light performance and crisper shots all around, and it delivers.
+
+The iPhone 5S takes excellent pictures, better even than the iPhone 5. Things are a little sharper and more detailed even in good lighting, but the real difference comes at night. The 5S is noticeably better in low-light conditions — where the 5 used to capture only silhouettes and often just black, the 5S can get usable pictures. Same goes for the new 1.2-megapixel front-facing FaceTime camera — awkwardly dark video calls and Snapchats are now totally in play, for better or worse.
+
+
+The new, faster A7 processor flexes its muscles when the camera’s running. There’s a new burst mode, which I quickly started using all the time: it shoots 10 frames per second, and then either automatically selects the best of your photos or lets you choose your favorite. (I always picked my own — the automatic setting was hit and miss.) Once you’ve selected your favorite, you can easily delete the rest of the burst, which is extremely handy — no one needs all those shots of the same thing cluttering up their camera roll and Photo Stream. Since the iPhone 5S can still take a moment or two to focus, it’s prone to missing the perfect shot — burst mode all but solves that problem.
+Img_2418-300px
+
+The new processor also enables slow-motion video, letting you shoot 720p at 120 frames per second and then play it back at a quarter speed. It starts the clip at normal speed, drops into slow-mo, and then speeds back up right at the end just for effect. Get ready for a lot of iPhone slow-mo footage to pop up — pretty much everything looks awe-inspiring in slow motion, and using it is addictive.
+
+There are some other new camera features as well: Apple’s added live filters in the camera app, which are interesting but not quite as artistic as Instagram’s, zooming is now possible while you’re recording video, and there’s automatic digital image stabilization. None are exactly earth-shattering features, but all are nice to have. Same goes for the new True Tone flash, which fires two lights designed to balance with the scene around you and light your subject better; it works as well as any flash can, with far more balance, but you’re still much better off not using a flash at all. Luckily, most of the time you won’t have to.
+
+Click here for a gallery of sample images from the 5S
+
+The 5S basically works like a point-and-shoot, and most of the time takes pictures like one too. For many people, the 5S will be the best camera they own. It really is a remarkable advancement, even if it doesn’t feel like a total overhaul.
+Img_2895-1024
+Forward-thinking. It's ironic that Apple's marketing slogan for the iPhone 5s invites us to look ahead to the future when, from the outside, the device looks like a carbon copy of last year's model, the iPhone 5. But just like any other odd-year iPhone -- the "S" version, if you will -- the 5s plays the Transformers card by offering more than meets the eye, with a few key improvements on the inside.
+
+Though it's easy to dismiss this handset as iterative, the 5s is the first smartphone with full 64-bit support and a capacitive fingerprint sensor, and it also ships with a fresh, revamped version of iOS. This might not matter to folks who were content with the status quo, but it matters a lot to Apple -- and to the company's future as well -- especially if the company wants to fend off an increasingly fierce pack of competitors. But is a "forward-thinking" phone worth the investment today?
+iPhone 5s review
+
+See all photos
+
+84 Photos
+
+92
+Apple
+iPhone 5s
+
+Pros
+
+    A7 chip offers fast performance and 64-bit support
+    Touch ID works as advertised
+    Global LTE support
+    Improved camera
+
+Cons
+
+    Last year's design
+    Touch ID needs third-party support
+
+Summary
+
+The iPhone 5s is an evolution of the iPhone 5, and isn't necessarily a must-have. It ushers in new technologies that will soon be standard on all of Apple's devices. While most consumers will be happy with the 5c, the 5s is better-suited for gamers and power users.
+
+Hardware
+
+Last year's iPhone 5 reveal was a showy affair meant to highlight Apple's new industrial design and taller screen (if you recall, the company went so far as to raise the phone onto a pedestal, accompanied by a generous helping of sparkling lights). There was no spectacle made of the 5s this year, since the flagship looks virtually the same as its predecessor. Basically, if you fell in love with the iPhone 5's aluminum chassis and chamfered edges, you're in for more of the same here. (Time will tell if this also means that the 5s is just as susceptible to dings and scratches as the iPhone 5; Apple tells us this year's selection of colors are more "metallic," and that will help them wear better. We'll see.)
+
+Unless you're a hardcore Apple fan who's taken the time to memorize all the minor differences separating the iPhone 5 and 5s, you're likely to mistake the two at first glance. Not only is every button and port in the same place, but the phone's measurements remain unchanged as well: at 123.8 x 58.6 x 7.6mm (4.87 x 2.31 x 0.3 inches). It even weighs the same, at 112g (3.95 ounces). Likewise, the 5s also features a 4-inch, 1,136 x 640 Retina display with a pixel density of 326 pixels per inch, a brightness rating of 500 nits and an 800:1 contrast ratio. Again, more of the same. Clearly, Apple's still satisfied with the resolution and screen size, though we wonder if the company will have a change of heart with next year's flagship.
+
+iPhone 5s review
+
+As you're probably well aware, the 5s is to the iPhone 5 as the 4s was to the iPhone 4 (and as the 3GS was to the 3G). All told, this is the third time in Apple's seven-year smartphone history that it's carried over the iPhone's design into a second consecutive year. Even so, the design isn't identical. Of all the enhancements made to the 5s, the most notable has to be the new Touch ID fingerprint scanner, which is embedded directly into the home button. Look closely and you'll also notice a dual-LED flash on the back, as well as the word "iPhone" in a slightly lighter font near the bottom of the rear to match the look of iOS 7. Under the hood, the 5s steps up from Apple's A6 chip to the A7, the first smartphone processor with 64-bit support. Additionally, it claims to double the iPhone 5's CPU and GPU performance, thanks in part to a new coprocessor called the M7, which is meant to relieve the main processor when it comes to measuring motion data. Lastly, the 5s introduces an improved iSight rear camera and FaceTime HD front-facing shooter, but we'll get to that later in the review.
+
+That leaves one severely underrated improvement: the 5s' global LTE support. In total, Apple will offer the device in four different SKUs, each designed for different regions and mobile operators. The widest-reaching of the bunch -- the A1453 -- supports 13 LTE bands, in addition to penta-band DC-HSPA, quad-band GSM / EDGE and even quad-band CDMA / EVDO rev. A / B. In fact, this version can technically work on all four major US LTE networks. Apple tells us this model will be sold locked on Sprint, but don't expect to see an unlocked A1453 in the US anytime soon -- that honor will go to the A1533 GSM version. The A1533 will come in GSM and CDMA flavors, and will be sold on AT&T, T-Mobile and Verizon. Each one will have 11 LTE bands (yes, it'll include support for all four major US LTE networks as well). Meanwhile, the A1457 is destined for Europe, while the A1530 is tailored for Asia; neither one has support for the most common US LTE bands. As a sidenote, the 5c will also be offered in four models and will support the same bands.
+
+iPhone 5s review
+
+Rounding out the spec list, the iPhone 5s features Bluetooth 4.0, aGPS and GLONASS for navigation, dual-band 802.11a/b/g/n (no ac support this time around) and options for 16, 32 or 64GB of built-in storage. As expected, it doesn't come with NFC, wireless charging or a microSD slot. It also comes in three color options, including silver (just like on the iPhone 5), space gray (gunmetal gray with black highlights on the top and bottom) and, of course, gold. Unsurprisingly, that gold model has received the lion's share of the attention, even since before it was officially revealed. After all that, though, it's much subtler than we ever expected. What we're saying is, while our review unit was silver, we definitely would not have minded taking one in gold.
+Touch ID
+
+iPhone 5s review
+
+There's a reason you don't often see fingerprint scanners in smartphones: in the past, they've proven to be unreliable, often causing more aggravation than they're worth. In particular, we're thinking of the Motorola Atrix 4G, which featured a optical capacitive fingerprint scanner that required you to swipe your finger over the sensor, often several times, and with minimal success. But now here's the iPhone 5s, with a most intriguing -- and perhaps most controversial -- feature: its Touch ID biometric sensor. So are users in for the same frustration?
+
+As it turns out, not really. In a clever move, Apple integrated a state-of-the-art capacitive fingerprint sensor into the home button itself and protected it with a sturdy sapphire crystal overlay. It's embedded so well, in fact, that the giveaway that it's a fingerprint reader is the silver ring encircling the sensor. That steel ring acts as a trigger, which detects your finger and then initiates the scan. Once it's activated, the sensor is capable of taking high-resolution pictures of your fingerprint from any angle, which it then sends back to the A7 chip for analysis. The images captured by the scanner show the first layer of skin beneath the dead cells sitting on top -- your sub-epidermal skin layer -- not the layer of dead skin sitting on top -, rendered at a stunning 500 ppi.
+
+iPhone 5s review
+
+The setup process is simple: it typically took us less than a minute for the phone to learn our prints. The phone can memorize up to five different fingers (or thumbs), and they can belong to the same person or multiple people, depending on how many friends and family members you'd like to grant access. The training process may sound cumbersome at first, but it gets easier after just a few tries. First, you start by placing your finger on the home button several times -- it usually took us six or seven repeats -- and then, once the phone has enough information, it asks you to put your finger on the button at different angles. This can be done by rolling your finger from one side to another, or lifting your finger on and off a few times. After that, you'll see the final version added to your list of learned prints -- fortunately, you can rename each one so you don't forget which one is which. In the rare case that the scanner isn't able to read your finger, you'll need to set a passcode to ensure you can still get into your phone.
+
+Sure, fingerprint scanners are cool to geeks like us, but are they really useful, or are they just a gimmick? Perhaps they're a little of both, and besides, nobody's going to force you to use it if you prefer a standard passcode or the ol' slide-to-unlock gesture. However, Touch ID is meant to give your phone an added layer of protection (provided you didn't already have a passcode, of course) while shaving a couple seconds off the unlock process. It also comes in handy for purchasing iTunes content: you can buy apps, music, books and more without having to type the entire password in each time.
+
+And it is indeed fast: the scanner was able to pick up all of our fingers in fractions of a second and from any angle. It's so natural, in fact, that we almost forgot that passwords and unlock screens even existed on the 5s; on countless occasions we tried to unlock the iPhone 5 and 5c with the scanner before realizing that we had to use the "old-fashioned" slide-to-unlock method. It's not perfect, however: the scanner didn't work when our fingers were wet or only partially on the home button, although we didn't experience any problems with clammy fingers in humid conditions. (Update: fun fact -- it also technically works with toes, though we're not sure why you would want to do that.)
+
+DNP The Jabberwocky Project it's vainglorious
+
+There are still some privacy concerns, which Apple has addressed by stating that all of its captured fingerprints are converted into a digital signature, which is then encrypted and stored in just one specific section of the A7 chip. In other words, it doesn't get uploaded to Apple's servers or to iCloud. And -- not that we expect this gruesome a fate -- chopping off someone's fingers won't work, either; sorry, enterprising thieves, the sensor can only pick up living tissue. Additionally, you'll have to enter the passcode if your device has been rebooted, or if you haven't unlocked it in more than 48 hours.
+
+With that said, we were disappointed to see that there isn't a way to require both a fingerprint and a passcode; a conventional string of numbers would offer an optional second security layer for those who don't yet trust Touch ID. We'd also like to see Apple open up the API, since there are plenty of app developers just waiting to take advantage of this feature.
+Camera
+
+iPhone 5s review
+
+Apple has always taken an interesting stance on the iPhone's imaging capabilities: make it good, but keep it simple. This is in stark contrast to Android and Windows Phone flagships, all of which boast tons of customization options, along with more unique features. Think UltraPixels, ClearPixel, PureView and so on. This isn't Apple's way, like it or not, but for people who buy iPhones, the company's imaging prowess seems more than sufficient.
+
+Like the iPhone 5 and 4s before it, the iSight rear camera in the 5s offers a maximum resolution of eight megapixels. However, it benefits from a larger pixel size (1.5µm vs. 1.4µm) and larger aperture (f/2.2 vs. f/2.4). Between those two improvements, Apple claims the 5s benefits from a 33 percent increase in light sensitivity. In other words, your daylight shots won't be any more detailed than they were before, but pictures you take in dimmer settings will be a clear improvement over what you're used to on the iPhone 5. In theory, at least. But does the 5s camera live up to Apple's promises?
+
+First, let's tackle the camera's low-light performance. The shots we took with the 5s were consistently better than what we took with the 5: they were sharper, with finer details, more natural colors and far less noise. As you might expect, our daylight shots were roughly on par, though there were a few times when the 5s won out by a slight margin, offering just a little more detail. All told, the 5s plays in the same league as all those other flagships with a bigger emphasis on imaging. Even so, our sample shots still showed more noise and less detail than the same images taken with the Nokia Lumia 1020. The 5s also does a good job of reproducing color, but it's not the best performer in this category, either. Make no mistake, though: the iPhone has been -- and continues to be -- great as a simple grab-and-go camera. It may not be a best-in-class performer, but the vast majority of iPhone users will still be happy. (Update: we've uploaded a ZIP file with full-res images taken on the iPhone 5s.)
+iPhone 5s sample shots
+
+See all photos
+
+49 Photos
+
+The new camera also features auto image stabilization, which is designed to sharpen low-light shots by taking four images in a row, each with a short exposure time, and combining the sharpest parts of each individual shot. Thanks to the new ISP built into Apple's A7 chip, the camera's stabilization feature is just one of several improvements on the menu here. The phone can now handle burst shooting at a rate of up to 10 images per second. These pictures are then compiled into a handy folder contained within the Photo Stream; just select the edit option to open up the full spread. The phone analyzes different parameters in each picture, such as exposure, sharpness and face detection information and takes a good guess as to which ones are the best. Panorama mode is faster on the 5s as well: it now promises up to a 50 percent increase in speed, but more importantly, it's now able to adjust exposure automatically as you pan around.
+
+As we said earlier, one of the only cosmetic changes to the iPhone is the addition of a dual-LED flash known as True Tone. The setup consists of a white and amber flash, which the phone uses to analyze the ambient color temperature and determine the intensity at which to fire each LED to match that specific temperature. As a result, our images showed more natural colors -- and that was true for both still-life shots and human subjects.
+
+DNP The Jabberwocky Project it's vainglorious
+
+The FaceTime HD front-facing camera also received an upgrade for 2013. Like last time, it's a 1.2-megapixel shooter capable of 720p video, but the 5s features a BSI sensor with larger 1.9µm pixels and does a modestly better job of capturing light. Indeed, in side-by-side comparisons, this reviewer's face had more pronounced shadows on last year's iPhone compared to this year's.
+
+DSLRs and flagship phones have been doing slow-motion video for a long time, but most (if not all) of them have only been able to produce footage at a maximum of 60 fps. We also haven't seen any smartphones able to switch back and forth between slow-mo and normal speed in the same movie. (Update: the HTC One actually has this ability, though not at 120fps.) Enter the iPhone 5s, which can capture 120 fps video and then lets you determine what parts of that footage are displayed in slow motion (two on-screen scrubbers make this easy). Videos uploaded and shared through YouTube will show up with your slow-mo intact, although movies transferred to your computer normally won't. We'll admit, we had a lot more fun with this feature than any human ought to have.
+
+Video is recorded in MPEG-4 format and at a resolution of 1080p. The sample footage we caught had an overall bit rate of 16.4Mbps and 30fps frame rate. The mic picked up our voice clearly, though city noise in the background was still a little louder than we'd like. As for the videos, most of the samples we took actually looked like they were HD-quality. How 'bout that?
+Performance and battery life
+
+DNP The Jabberwocky Project it's vainglorious
+
+Ever since the first iPhone came out in 2007, Apple has declined to clarify many of its handsets' specs, often keeping them a secret until teardowns revealed the truth. The company believes there's no need to focus on those details when the user experience matters more. Of course, that doesn't mean it isn't above claiming bragging rights now and again. Case in point: the new dual-core A7 SoC embedded within the iPhone 5s.
+
+The A7 implements the ARMv8 instruction set, which means it's the first smartphone to feature the sort of 64-bit architecture currently used on desktops. But what does this mean, exactly, and why does it matter? In the most basic terms, it means games and processor-intensive apps that support 64-bit will perform much better and won't drain the battery quite as fast; even regular apps are capable of executing operations faster, since they can take place without the processor digging into main memory. On top of this, Apple claims the A7 offers double the processing power and graphics performance as the A6. What's more, iOS 7 was built with 64-bit support in mind, allowing greater efficiency for developers. In particular, native 64-bit libraries, kernel and drivers are all included in the new firmware, and devs can start tweaking their code right away to take advantage of it.
+
+iPhone 5s review
+
+Of course, one of the major benefits of 64-bit desktops is support for more than 4GB of RAM, which isn't something we'll be worrying about on the iPhone for a while yet -- system apps indicate that the 5s still has only 1GB. Regardless, we can't see any reason not to add 64-bit support this early in the game; most apps will enjoy a boost in performance and / or battery life, and it also encourages the competition to get into the game as well. Samsung, for instance, has confirmed that it's working on 64-bit support, and there's speculation that Android 4.4 will add native support for it as well. Whether this paves the way for a convergence between iOS and OS X, we don't know; at the very least, this makes it easier for OS X devs to transfer their apps to the iPhone (as well as the next iPad, assuming it also gets 64-bit support).
+
+Since iOS 7 and the 5s aren't officially out yet, we haven't had the opportunity to play with any games or use apps that have been upgraded for 64-bit, but that doesn't mean we aren't already seeing the benefits of the A7. In general, the 5s is noticeably speedier; apps load faster and everything just feels zippier. The greatest improvement, however, is in gaming. Not only is gameplay smoother, but also cutaway scenes in between missions load faster and look better. As an example, we played Infinity Blade II on the iPhone 5 and then the 5s, and were amazed to see that we'd missed out on minute-long sections of the animation on the older device because of regular frame-freezes. Needless to say, this was never a problem on the 5s. On top of this, the GPU now offers support for OpenGL ES 3.0, a standard which should give game companies the ability to add more complex details and make their titles look much more realistic.
+
+Our above impressions of the A7 were more subjective in nature, of course, so we ran a few benchmarks to show the difference between iPhones in more quantitative terms. Take a quick look at the tables below and meet us back underneath.
+	iPhone 5s 	iPhone 5c 	iPhone 5
+SunSpider 1.0.1 (ms) 	418 	754 	797
+GXFBench 2.7 T-Rex HD Offscreen (fps) 	23 	6.5 	6.5
+Basemark X (onscreen / offscreen) 	27.7 / 16.7 	18 / 7.5 	17.7 / 7.1
+3DMark Ice Storm Unlimited 	13,729 	N/A 	5,442
+Geekbench 3.0 (multi-thread) 	2,562 	1,218 	1,301
+Linpack 	795 	479 	501
+SunSpider: lower scores are better. Linpack scores taken on average. iPhones tested on iOS 7.0.
+
+The iPhone 5 may be fast enough for some, but the 5s is significantly faster. In a few tests, the 5s performed more than three times better, while in others, it was closer to a 50 percent increase. Regardless, the 5s was the clear winner according to every single metric, whether it was CPU performance or JavaScript rendering. We also ran similar benchmarks on Android devices running the best chipsets: the NVIDIA Shield, which uses Tegra 4, and the LG G2, which is powered by a Snapdragon 800 chip. Here's how they fared:
+	iPhone 5s 	NVIDIA Shield 	LG G2
+SunSpider 1.0.1 (ms) 	418 	513 	880*
+GFXBench 2.7 T-Rex HD Offscreen (fps) 	23 	24 	21
+Basemark X (onscreen / offscreen) 	27.7 / 16.7 	24.8 /12.4 	14.8 / 12.8
+3DMark Ice Storm Unlimited 	13,729 	12,579 	16,619**
+Geekbench 3.0 (multi-thread) 	2,562 	2,715 	2,140
+Linpack 	795 	680 	611
+*LG G2 SunSpider score is as shown in review; US models vary. **Updated result.
+
+Admittedly, these tests likely have a higher margin of error simply due to the fact that they're running on different platforms. Still, looking at these results, it's quite clear that the iPhone 5s -- dual-core and all -- can not only keep up with the best Android has to offer, it may also actually beat Tegra 4 and Snapdragon 800 in certain scenarios.
+
+The A7 isn't the only new piece of silicon finding a home inside the iPhone 5s. Apple's also thrown in a coprocessor called the M7, which is a dedicated motion tracker designed to lighten the A7's load and conserve battery life. The idea of using coprocessors for specific types of tasks isn't new: the X8 architecture found within the Moto X, and other recent Motorola handsets, features two such cores for natural-language processing and contextual computing. Apple's approach is to have the M7 control motion data from the gyroscope, accelerometer and compass inside the iPhone. Your fitness apps will take up less battery life when running in the background. Additionally, since the M7 knows when you're walking, driving or running, the iPhone won't actively search for available WiFi networks while you're in a moving vehicle.
+
+iPhone 5s review
+
+We imagine the M7 will have far more clever applications than simply saving battery life. Here's one: navigation apps, such as Apple Maps, can sense when you stop driving and begin walking, and Maps will automatically transition your route from displaying driving directions to walking directions. We tested this claim, and got it to work as advertised; the only caveat we could see is that you'll need to walk a little while before the M7 determines that you actually are walking and not just stopping at a gas station or rest stop. This could have great benefits for indoor mapping, finding your lost car and automation (imagine the iPhone being able to sense that you've set your phone next to your bed and switching to Do Not Disturb mode automatically). The M7 may not do much yet, but developers will have access to the CoreMotion API, which means we probably won't have to wait long before we see an onslaught of apps that take advantage of that new coprocessor.
+
+All this talk about the A7 and M7 joining forces to save power brings us to one of the more important topics of any smartphone review: battery life. Apple never publicly discusses the size of its batteries, but Anandtech's Brian Klug pored over the new iPhone's FCC docs and concluded that we're looking at a 10 percent increase in capacity -- a 1,580mAh (5.96Whr) cell versus 1,440mAh (5.45Whr) in the iPhone 5.
+
+Compared to some Android flagships that doesn't sound like much, but it still amounts to a serious improvement in battery life. We started with our standard video rundown test, which entails looping an HD video at half brightness. The iPhone 5s made it through 10 hours and 50 minutes of playback -- even better than Apple's 10-hour claim -- while the iPhone 5 cut out after nine hours and 17 minutes. With heavy usage (copious email, navigation, social networking, web browsing, calls and taking pictures and videos), we managed a little over eight hours before the 5s was ready to call it quits. On a day of what we consider to be normal usage, however (this varies by user, naturally), we had no problem getting through a full workday with extra juice to spare. You'll still need to charge it up every night -- or sooner than that, depending on your use -- but its runtime is at least above average. As an aside, it only took an hour and 50 minutes for the iPhone 5s to charge to full capacity using the supplied charger.
+
+When making calls on the 5s, our friends on the other end of the line always sounded crisp. For their part, callers told us they could barely hear traffic and city noise, even when we were talking in exceptionally loud areas. The phone quickly and easily located a GPS signal, and we never ran into any problems navigating.
+Software
+
+iPhone 5s review
+
+The iPhone 5s (and 5c) will ship with iOS 7, and if you haven't heard, it's a doozy. The post-Forstall era looks pretty promising, but it's not going to be universally loved. Us? In general, we like it. In iOS 7, Sir Jony Ive chose to eschew the traditional skeuomorphic interface in favor of one that's flatter and more colorful. We're going to have a full review up on the site in a few days, but we'd like to at least cover some of the OS's key features now.
+
+The actual mechanics behind the user interface have changed very little, which means that most iOS users will easily be able to find their way around the phone. The cosmetic differences, on the other hand, are drastic indeed. New fonts, icons, colors, graphics and gestures abound; the keyboard sports a new look, as do most of the core apps. Spotlight is accessible from every panel now with a small downward tug on the screen; folders can hold a lot more apps; Siri shed the beta tag and got an extra voice with a few new abilities; physics and layers add a new dimension to the UI; and you can even get dynamic wallpapers with parallax.
+
+iPhone 5s screenshots
+
+See all photos
+
+74 Photos
+
+Our favorite improvement to iOS is Control Center, a feature that's been on our wish list for years. Instead of fumbling through multiple settings menus to find what you need, a simple swipe up from the bottom of the phone brings up a panel with toggle buttons; a brightness slider; quick-access shortcuts to flashlight, alarms, calculator and camera; and a music player widget. It's a huge timesaver, but if there's one thing we could add, it would be the ability to customize this panel to our liking.
+
+Multitasking gets a completely new look, and as you might have heard, it appears to take cues from webOS, Windows Phone and even Sense 4. Instead of pulling up a small bar of background apps that are difficult to kill, iOS 7's method is now card-based: it lets you glance at screenshots of recent apps, which you can swipe to get rid of. Sadly, it's missing a "clear all" option, which means anyone who really cares to clean up is still left with no choice but to address items one by one or reboot the phone.
+
+iPhone 5s review
+
+The music app received a face-lift too, but the biggest addition to the app is iTunes Radio. It's a lot like Pandora: you can listen to preset stations or create your own, and each station picks which songs are played. Just like with Pandora, you can fine-tune your preferences as you go along, but watch out for the skips -- you're only allowed to skip six songs per hour for any given station.
+
+There's also AirDrop, which is basically a fancy name for file sharing. The feature gives you the ability to shoot pictures, videos and other files over to another iOS device in the vicinity; the icon shows up in the share menu and you can choose if you want to share files with everyone or only with people in your contacts list.
+The competition
+
+iPhone 5s review
+
+The iPhone 5s comes in three size selections: the 16GB version is $649 unlocked; the 32GB variant costs $749; and the 64GB model is priced at $849. Most carriers in the US will offer the devices starting at $199 with a two-year commitment, though you can also choose plans that allow you to get the iPhone for free -- provided you pay installments each month to cover the full cost of the device. The 5c, which essentially has the same components as the iPhone 5 (albeit with better LTE support), will sell for $100 less, and the iPhone 4s can be yours for $0 on contract.
+
+Naturally, the iPhone seems to be a benchmark for price comparisons, so let's see how it stacks up against some of the other flagships. In the US, the $200 16GB model has fiercer competition than it's seen in previous years. If you're not locked into the iOS ecosystem, Android has a handful of top contenders at the same price, including the Samsung Galaxy S 4, the HTC One, LG G2 and Moto X. If you're adventurous enough to consider joining the Windows Phone side, you can get the Nokia Lumia 1020 on AT&T for the same price as the iPhone.
+Wrap-up
+
+DNP The Jabberwocky Project it's vainglorious
+More Info
+
+    iPhone 5c review
+    iPhone 5 review
+    iPhone 5s announced
+
+Is the 5s the best iPhone ever made? Yes, though that shouldn't come as a surprise. Apple took a good product and made it better through hardware upgrades, new features and completely revamped software. In what would otherwise be considered a mundane update to the iPhone 5, Apple somehow managed to appeal to both the geek (64-bit support, M7 coprocessor, Touch ID) and the average Joe (a fresh, colorful iOS 7), all while laying the groundwork for the company's future.
+
+Thanks to the introduction of the iPhone 5c, potential iPhone buyers now have another option to consider. If you want the latest and greatest, the 5s is clearly your best bet. Those content with owning a device like the iPhone 5 for a lower price (and those who love the color choices) will prefer the 5c. Frankly, though, if you currently own a 5, it's hard to justify coughing up the extra cash for an early upgrade to get either one.
+
+And what if you're not sold on iOS? If you haven't seriously considered an iPhone before, there likely isn't much in the 5s to make you change your mind. For anyone who needs copious amounts of screen space, a 4-inch display likely won't cut it, but to be fair, the 5s is the best small phone you can get -- we can't think of any other device with a display smaller than 4.5 inches that even comes close. The 64-bit support on the A7 may convince a few power users to make the transition from Android to iOS, but otherwise, the SoC is on par with what you'll find in some of the top competing smartphones. Because of this, there's not much incentive for the Google faithful to make the switch, especially if they are already invested in the Android ecosystem.
+
+The 5s is a solid effort from Apple, but its true worth is yet to be determined. If developers come up with clever ways to take advantage of the M7 coprocessor and the 64-bit support in iOS 7, the 5s will truly shine. If not, many people might just wait it out another year.
+

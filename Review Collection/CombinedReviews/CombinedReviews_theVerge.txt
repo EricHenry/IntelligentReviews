@@ -1,0 +1,593 @@
+Apple has entered the spec wars.
+
+The iPhone 5S isn’t just supposed to be “the most amazing iPhone yet.” It’s not “the thinnest and lightest iPhone ever.” No, Apple says the 5S is “the most forward-thinking iPhone yet” and “the best smartphone in the world.”
+
+But the screen didn't get bigger, and the design hasn’t changed. Apple’s mid-cycle S updates are always about the little things: faster internals, a better camera, more memory. But this year little things have turned into big things: there’s upgraded 64-bit A7 processor and a hidden fingerprint reader, a better camera and a much-improved new flash. Add those to the new, wholly redesigned iOS 7 software, and Apple believes it has a phone that’s much more than just a refresh. For $199 plus a two-year contract, the 5S is Apple at its swaggering best, believing it can win the spec-sheet arms race while still offering a device anyone and everyone can use.
+
+But can better specs really make a better phone, despite what Apple's told us all these years? Is this forward-thinking phone the right phone for right now?
+
+Just like old times
+
+I wish the iPhone 5S had a slightly larger screen — 4 inches feels smaller and smaller — but it’s otherwise hard to fault Apple’s basic design. The 5S is virtually unchanged from last year’s model, from the cold aluminum back to metal frame with chamfered edges. Even a year on, it’s one of the best smartphone designs ever — at once svelte and sturdy, machinelike and comfortable. Its only real rival is the HTC One, itself exquisitely made; I’d love for Apple to have come up with some thrilling new design here, but there’s always next year.
+
+"Even a year on, the iPhone's design is top-notch"
+
+The practical upside to a 4-inch phone is that its 1136 x 640 display still looks great even as its resolution is lapped by the 1080p screens on the Galaxy S4 and HTC One. Even after spending time with those devices, the 5S’s display is still excellent — its remarkable color accuracy shows off the colorful iOS 7, and viewing angles are fantastic. At some point Apple will have to increase the iPhone’s screen size again, but for right now, it’s hard to find any other complaints about this display.
+
+The phone may feel the same, but the finishes do look different. The basic colors are subtle: silver is essentially the same as it ever was, and the "space gray" is just a lighter version of last year’s black model. They’re both nice, but neither will turn the heads of iPhone 5-toting passersby. That effect is reserved for the gold model, a champagne-colored device with white accents that really is a sight to behold. It’s not gaudy or ostentatious, like something Vertu or Porsche would make. It’s just classy and unique. It doesn’t quite mesh with the bright blues and greens that are all over iOS 7 the way the candy-colored iPhone 5C does, but it’s a gorgeous piece of hardware.
+
+The gold shines brightest on the circular rim around the new home button — it’s color-matched to whatever device you buy, but it only really stands out on the gold 5S. The home button looks different, with no square icon in the center and a metal ring around the concave button, but the look portends an even bigger change in how your home button works.
+
+The touch, the feel
+
+Using Apple’s Touch ID fingerprint security system feels very much like being in a secret agent movie: you pull the phone out of your pocket, touch the ringed home button (which is now much more tactile, directing your finger to exactly the right spot), and presto — you’re in.
+
+Setting up Touch ID takes a couple of minutes, during which you place your finger on the device every which way so it can learn the ins and outs of your print so it can learn who you are. Once it gets all the data it needs, Touch ID uses your fingerprint — you can teach it as many as five, and I recommend doing at least both thumbs — to let you unlock your phone without a passcode and buy things in Apple’s stores without a password.
+
+
+It requires a bit of patience at first, but once it figures out all the crazy, misaligned ways you might mash on the button, it works pretty reliably. And if it can’t figure out who you are, which happened once when I had crumbs all over my fingers and again when I had wet hands, it goes back to your four-digit PIN.
+
+Most importantly, it’s virtually instantaneous. I assumed I’d rather type in a passcode, because even if it’s slower at least I’m doing something, but Touch ID rarely take more than a single beat before the gates open and iOS 7 falls into place.
+
+Apple says Touch ID only stores your fingerprints in special encrypted memory on the phone itself, where the data is accessible to neither Apple’s servers or the NSA, nor to anyone else.
+
+"Security trumps usability with Touch ID"
+
+That’s comforting, but at the moment it limits the obvious possibilities — as with many things in iOS, the tremendous potential of Touch ID is restricted to Apple’s own apps and unavailable to third parties. Being able to authenticate Google Wallet or PayPal or even Facebook would be great, and Touch ID could be tremendous if it could effectively password-protect certain apps. (Sorry, friend, you can’t tweet from my phone.)
+
+So for now Touch ID is a useful tool, but it can feel like Apple’s deployed an amazing amount of technology just to make it slightly easier to buy things from its stores. But that’s now — with some development Touch ID could become truly spectacular. I know I’m already annoyed every time I actually have to type or swipe to unlock another phone — I just want to touch it and open the vault.
+Img_2876-1024
+Future-proofing the smartphone
+
+Apple’s spent more time talking about the 5S’s specs than I’ve ever seen the company do in the past, but the improvements are hard to evaluate. In benchmarks, the new A7 processor is spectacular — the top of its class in nearly every way. Games look fantastic, with nary a skipped frame and faster loading times than ever; even apps seem to open and close just a little bit faster than before. But the iPhone 5 wasn’t exactly getting long in the tooth, and we’ve had no problematic performance issues on the 5C either. Side-by-side in daily tasks, the 5S isn’t so much faster than the 5 or 5C that you’ll notice right away — it’s not like the animations in iOS 7 are running any faster.
+
+What the 5S and the A7 really have going for them are longevity. There’s so much raw power here that it’s going to be a while before apps take real advantage. Infinity Blade III, Apple’s traditional barometer of a new iPhone’s processing ability, looks better on the 5S than the 5, with sharper graphics and crisper transitions between scenes, but it’s not a wild new level of performance. There’s plenty of headroom here, though, and it means that after two years the 5S is probably going to be able to keep up far better than most of its predecessors did.
+
+The M7 "motion coprocessor" is maybe even more interesting than the A7 itself. It’s designed to collect data from the accelerometer, gyroscope, compass, and others, and to use that data to determine the state of your phone without sucking battery life. The processor means the 5S knows if you’re driving; it knows when you stop driving and start walking; it knows when you haven’t picked the phone up for a few hours, and it can stop downloading new email so often because you’re either sleeping or you left your phone at home. This is another feature with only a few implementations — Maps changes the type of directions it gives you depending on whether you’re walking or driving — but my mind’s reeling with the possibilities. What if Twitter could update every time I picked up my phone, because the first thing I do is always open Twitter? What if I don’t have to wear a Fitbit anymore? What if location-based apps like Foursquare weren’t such battery hogs? We can only dare to dream.
+
+"The new processors are cool, but they'll be more useful soon"
+
+Like the Moto X, the iPhone 5S has an entirely new ability to discern what I’m doing with my phone all the time — if it can react, or learn from my actions, it could make using a cellphone faster and more intuitive than ever. But all of that is speculation right now — another "if" for Apple and its developers to deliver on.
+
+
+Call quality in general is very good, as much as any cellphone's can be — the more I use FaceTime audio, typically by forcing friends and family to use it with me, the more I realize how bad call quality normally is. But the iPhone is generally good enough, and plenty loud that I can always hear and be heard. Reception is good, and it’ll be good in more places than ever thanks to expanded LTE support in more and more countries. New York City is always a hellish nightmare of LTE service, but the 5S did as well as I could ask.
+
+Maybe it was unreasonable to expect better battery life, but the 5S does have a bigger battery than the 5 — a popular spec bump for Apple and its competitors this year. But what the 5S may have gained in capacity it gives back in consumption, and battery life here seems to be almost exactly what we’ve seen on the 5 — it’ll last you a full day, but nothing more, and often less if you have an itchy Netflix finger or get lots of email and other notifications. Maybe now, with future-friendly power in its processor, Apple can figure out how to make it last longer. Or maybe it should just make a bigger phone with a bigger battery. Either way would be fine.
+
+Overall, it adds up to an impressive spec sheet that matches up with the best in the industry, but like all spec sheet battles, the overwhelming story of the 5S is to hurry up and wait. Touch ID, the A7, the M7 — they’re all good now, Apple seems to be telling us, but just wait and see what we can do. Even iOS 7 feels that way, with its spartan Today screen and locked-down sharing menu, its teasingly useful Siri features that still stumble all too quickly, and animations that seem to be running at demo speed. While Android has become a fast, fun, fluid operating system, iOS remains a mostly siloed set of apps and services, with notifications and multitasking features that still feel unfinished.
+
+I’m growing accustomed to iOS 7’s constant animations, stark white backgrounds, and text-heavy design — but I’m still not totally sold on Apple’s new direction. The new coat of paint is mostly a good thing, but it can’t change the fact that parts of iOS are still really lacking. And without the awesome color-coordination of the iPhone 5C, the bright operating system is in stark contrast to the understated hardware.
+
+There is one place where iOS 7 and the iPhone 5S fully embody Apple’s vision of integrated hardware and software: the camera. The iPhone 5S’s camera is incredible.
+
+The perfect shot
+
+The Lumia 1020 may offer you 41 megapixels and endless flexibility, but for virtually every practical point-and-shoot purpose the 8-megapixel iPhone 5 was the best smartphone camera on the market — and the 5S is even better. Apple didn’t sacrifice sharpness for low-light capability, like the HTC One and its Ultrapixel camera, and it hasn’t traded quality for simplicity, like the Moto X. Apple just took a great camera and improved both the hardware and software. The sensor is still 8 megapixels, but it’s slightly larger in size, which means each individual pixel is slightly bigger and collects more light. That means better low-light performance and crisper shots all around, and it delivers.
+
+The iPhone 5S takes excellent pictures, better even than the iPhone 5. Things are a little sharper and more detailed even in good lighting, but the real difference comes at night. The 5S is noticeably better in low-light conditions — where the 5 used to capture only silhouettes and often just black, the 5S can get usable pictures. Same goes for the new 1.2-megapixel front-facing FaceTime camera — awkwardly dark video calls and Snapchats are now totally in play, for better or worse.
+
+
+The new, faster A7 processor flexes its muscles when the camera’s running. There’s a new burst mode, which I quickly started using all the time: it shoots 10 frames per second, and then either automatically selects the best of your photos or lets you choose your favorite. (I always picked my own — the automatic setting was hit and miss.) Once you’ve selected your favorite, you can easily delete the rest of the burst, which is extremely handy — no one needs all those shots of the same thing cluttering up their camera roll and Photo Stream. Since the iPhone 5S can still take a moment or two to focus, it’s prone to missing the perfect shot — burst mode all but solves that problem.
+Img_2418-300px
+
+The new processor also enables slow-motion video, letting you shoot 720p at 120 frames per second and then play it back at a quarter speed. It starts the clip at normal speed, drops into slow-mo, and then speeds back up right at the end just for effect. Get ready for a lot of iPhone slow-mo footage to pop up — pretty much everything looks awe-inspiring in slow motion, and using it is addictive.
+
+There are some other new camera features as well: Apple’s added live filters in the camera app, which are interesting but not quite as artistic as Instagram’s, zooming is now possible while you’re recording video, and there’s automatic digital image stabilization. None are exactly earth-shattering features, but all are nice to have. Same goes for the new True Tone flash, which fires two lights designed to balance with the scene around you and light your subject better; it works as well as any flash can, with far more balance, but you’re still much better off not using a flash at all. Luckily, most of the time you won’t have to.
+
+Click here for a gallery of sample images from the 5S
+
+The 5S basically works like a point-and-shoot, and most of the time takes pictures like one too. For many people, the 5S will be the best camera they own. It really is a remarkable advancement, even if it doesn’t feel like a total overhaul.
+People now buy phones the same way they do clothes: prioritizing looks, size, and brand over basic utility and functionality. That’s a problem for LG. The Korean company’s new flagship smartphone doesn’t look better than the HTC One, isn’t any smaller than the Sony Xperia Z2, and lacks the brand cachet of Samsung’s Galaxy S5. The G3 is the middle child of Android superphones. Unwilling to settle for averagely awesome, however, LG has done what LG usually does and gone wild with the specs.
+
+The 5.5-inch G3 is the first global smartphone to feature a Quad HD display and its camera is the first to use a laser autofocus system. Tons of processing power and memory are augmented with wireless charging, a removable battery, expandable storage, and even an IR blaster to convert the phone into a TV remote control. As such, the G3 is a hugely practical device with a pair of features that threaten to be more than mere gimmicks. But does pragmatism justify the price? LG is diving into a sea of very good Android devices and, without HTC’s style or Samsung’s swagger, will have to prove its worth the old-fashioned way: by just being better than everyone else.
+
+Z206-04_1147vs
+
+Before any sketches of the G3 were even committed to paper, LG had settled on its one key specification. The company’s flagship Android phone for 2014 would be built around a 5.5-inch Quad HD LCD display. With a resolution of 2,560 x 1,440, it’s only matched by a pair of phones for the Chinese market — the Vivo Xplay 3S and Oppo Find 7 — and comfortably outdoes its 1080p global competitors. I love this as a technical achievement and the G3 renders everything beautifully, but I cannot discern any advantage from the extra pixels. The only time I notice them is when I look at the resolution of screenshots from the G3.
+
+The most impressive thing about this screen is not its otherworldly 538ppi pixel density, but how efficient the designers have been with the space around it. 76.4 percent of the G3’s front is occupied by the display, allowing it to fit a larger panel into the same dimensions as the 5-inch HTC One and 5.2-inch Xperia Z2. LG’s phone is also significantly lighter than the others, making it feel much more streamlined.
+Lg-g3-330a Lg-330e "I just want to say one word to you. Just one word. Plastics."
+
+Color accuracy, contrast, and viewing angles are all very good. The black background behind the G3’s on-screen Android keys is dark enough to seem to melt away into the phone’s black frame. Additionally, unlike Sony’s Xperia Z2, which struggles outdoors, the G3’s IPS display is bright enough to remain useful on a sunny day.
+"The extra pixels don’t make a difference, but the thin bezels do"
+
+As laudable as the display may be, and as much as the other flagship Android phones validate the G3’s size, it does make for an uncomfortably big phone. A 5.5-inch smartphone, no matter how thin its bezels, presents ergonomic challenges that smaller devices don’t have to deal with. I can’t just whip the G3 out of a pocket and single-handedly snap and tweet a photo the same way I can with something like the Moto X. Closer in ergonomics to Samsung’s Galaxy Note 3, the G3’s sheer dimensions demand that it be used with two hands for safety. Unlike the 5.7-inch Note, however, LG’s latest has softer corners and a nicely curved back that can be cradled comfortably. Whereas the Note 3 feels like a small tablet, the G3 can still get away with calling itself a large smartphone.
+
+In a briefing ahead of the G3 launch event, LG’s chief designer Chul Bae Lee said that his "personal aspiration is to make the phone out of metal." But, he continued, that would have scuppered LG’s efforts to mitigate the G3’s larger screen size and he had to choose between the thin bezels or a metal construction; he couldn’t have both. Nevertheless, LG is trying to at least recreate the look and feel of aluminum phones like the HTC One with a new "metallic skin." It’s still plastic, only now it’s mixed with an added layer of anti-scratch and fingerprint-resistant material.
+
+I can attest to the scratch resistance (and the inherent awkwardness) of the G3 after dropping it a couple of times, but it’s the immunity to fingerprints that is most striking. No matter how oily my hands were, the G3 simply shrugged off contact with them and maintained an attractively clean appearance. That’s a complete reversal from the unpleasant feel of the G2’s glossy plastics, which would accumulate markings and smudges like they were going out of style.
+
+The G3’s design is an improvement over its predecessor, but it isn’t honest, because it’s trying to fake out the user. Using a similar brushed effect to the HTC One, this phone can definitely be mistaken for being made out of metal, and calling it metallic only exacerbates that confusion. The reality is that you get a phone halfway between the One and the Galaxy Note 3. The G3 reflects light and gleams as invitingly as a real aluminum handset, but retains the utilitarian feel of a plastic phone. The Note 3 showed that faux leather can still feel good in the hand (if not authentic), and LG is doing the same with its new faux metal. Initially I found this tradeoff acceptable, however I don’t trust the G3’s thin removable cover to maintain its sheen or refined appearance over the long term. Plastic’s more susceptible to warping and cracking than metal, and whereas the One promises to age gracefully, the G3 could start to look decidedly pedestrian after a few months of regular use.
+Z206-04_1216vs
+
+Still, plastic has its advantages, such as better antenna performance and a back cover that is removable and replaceable. Like Samsung with the S5, LG lets G3 users pop off its pseudo-metallic skin to access the battery, a microSD card slot, and the SIM card port. Qi wireless charging will also be integrated in variants of the handset sold outside the US and Korea.
+
+Not that you’ll be worrying too much about charging, given how big and long-lasting this phone’s battery is. At 3,000mAh, it’s a smidgen short of the Xperia Z2 and performs accordingly. My typical 24-hour cycle of checking Gmail and Twitter, browsing the web, and watching YouTube videos was no challenge for the G3, which consistently went from the morning of one day into the evening of the next. The Verge Battery Test confirmed these findings with a time of 7 ½ hours before reaching the 10 percent battery warning. It took 8 hours and 16 minutes to drain the phone completely. As with its screen, the G3’s battery life is akin to that of much bigger devices. Although large in itself, this phone actually does a lot to shrink the size of technology.
+Lg-330x "Good audio, good video, and a battery to keep them both going"
+
+The G3’s higher-resolution screen demands more power to handle the extra graphical detail it has to show, however, LG’s optimizations have been so good as to make that (mostly) a non-issue. The Korean company has tweaked the display driver, the processor speed, and the frame rate so that they adapt to the way you’re using it. As a result, tame web browsing such as on the Verge Battery Test renders comparable endurance to 1080p phones. You’ll still take a hit when playing 3D games or anything else that scales up to the full Quad HD resolution, though those scenarios would also be the ones where you’re most likely to notice the added resolution.
+
+I was pleasantly surprised by the G3’s loudspeaker. Having recently sung the praises of the front-facing speakers on the HTC One and Xperia Z2, I have to commend LG for coming very close to both of them with its more conventional, rear-mounted single speaker. Its clarity and volume are excellent for undemanding but common uses such as listening to podcasts and watching video streams. The bundled QuadBeat 2 earphones are unchanged from the G2 and for good reason: they’re significantly better than what you typically find in a smartphone box and make it superfluous to buy a new pair for listening to music on the move.
+
+Z206-04_1212vs
+
+Lasers.
+
+Okay, it’s just one laser, but the G3 uses it to focus when taking photos and that makes it infinitely cooler than any camera I’ve reviewed before. The moment I open the camera app, a cone-shaped laser beam starts emanating from a window next to the lens, constantly refocusing and preparing to take a lightning-quick photo. Working in concert with more conventional contrast-detection algorithms, the laser helps achieve faster and better focus in low light and when shooting subjects of uniform color.
+
+LG quotes a time of 276 milliseconds for the G3’s autofocus — quicker than the blink of an eye — and it is indeed very fast. Faster than a speeding iPhone or an HTC One? Not in any tangible way. The speed that a user experiences is a combination of how long the camera app takes to launch, the autofocus time, and the image-processing time, and taking those as a group places the LG G3 among the best, but definitely not in a clear-cut leadership position.
+Z205-29_1753vs
+
+The same is true of this 13-megapixel camera’s image quality. Better than most, but not an unequivocal champion. Approaching the performance of the standard-setting iPhone 5S and Nokia’s PureView cameras, the G3 is let down by LG’s excessive tampering with the photos. In the company’s phobic run away from image noise, it sometimes blots out detail that other cameras retain. That’s particularly noticeable in low-light images, where solid blocks of color tend to replace fine-grained detail. So it’s one of the lowest-noise cameras out there, but that occasionally comes at the cost of some signal as well.
+"LG throws some of the signal out with the noise"
+
+Still, poorly lit scenes are a challenge for any smartphone and this is just LG’s particular response to it. In better lighting, the G3 delivers reliable focus and a ton of detail. I find its default setting a little light on contrast, though that tends to help in capturing more nuanced details. There’s a full suite of adjustment options for the camera, hidden behind the most spartan interface yet seen on a smartphone. By default, LG gives you the full 5.5-inch display as a viewfinder and overlays only two buttons — the entire screen thus becomes your shutter release key. I like that: it’s a sign of a company confident in its imaging capabilities (even if there’s still room for improvement) and it makes for a very clean and simple user experience.
+Z205-29_1835vs_1
+Click here for a full gallery of sample images from the LG G3
+
+As with HTC’s new Sense 6 software, swiping to either side in the G3’s camera app switches between the rear and the front-facing camera. LG is rebranding the latter as its selfie shooter and actually uses larger pixels and a wider aperture than on its main imager. Don’t expect that to make the 2-megapixel photos any better, though. They’re as mediocre as on any other camera of this type. LG has also implemented new gesture recognition so that when a user waves a hand and then clenches it into a fist, the G3 automatically starts a three-second countdown to a photo. Young ladies in Korea are apparently in love with this feature, whereas I fear it might be one of the early signs of an oncoming apocalypse.
+
+Z206-04_1213vs
+
+Want to know why Google sold Motorola off to Lenovo? Because it already owns all the Android phone makers. LG, Sony, HTC, and even Samsung are all gradually falling in line and dancing to Google’s tune. Every one of their new phones this year boots up with the tagline "powered by Android," and their previously extravagant software customizations have been scaled way down. That’s a good trend for LG, whose software efforts have traditionally lagged far behind its hardware achievements. Just recall the Optimus 2X: it was officially the world’s first dual-core smartphone but it had more ways to crash than you’d find at a demolition derby.
+Lg-330qmeLg-330qw
+
+The G3 is a significant step forward for LG’s software team. It runs the latest version of Android 4.4 KitKat with an assured smoothness and stability. It emphasizes simplicity and doesn’t force its added features onto unwilling users. Swiping up from the home button brings up Google Now, just as it does with a Nexus phone. In fact, thanks to Google’s move to decouple Google apps and services from the Android OS and make them available in the Play Store, you can download your way to a very Nexus-like experience.
+"The fundamental user experience here is that of using Android 4.4, not of using an LG phone"
+
+I spend most of my time jumping between Chrome, Gmail, Google Keep, Twitter, and YouTube, so LG’s push to simplify the user interface and color-code each app hasn’t figured prominently in my use of the G3 at all. From among the company’s own apps, I use the phone dialer and the camera and that’s it. The fundamental user experience here is that of using Android 4.4, not of using an LG phone.
+
+LG asserts its influence in subtler ways. Its KnockOn feature — double-tapping the screen to wake the phone or to put it back to sleep — makes a welcome return and is this time enhanced with the addition of KnockCode. The new wrinkle allows you to unlock the phone by tapping out patterns without turning the screen on. It totally works. There’s also a Dual Window option for running two apps side by side and gesture recognition to silence the ringer when you flip the phone or automatically answer a call when you pick it up. New content locks will let you secure private photos and videos, or alternatively you can use the guest mode to share the G3 out with a limited list of accessible apps. If all that extra security fails, LG’s even added a kill switch to disable the phone permanently.
+
+I’m also a satisfied user of LG’s new Smart Keyboard. It can be scaled vertically to suit user preference, split into two clusters so it’s more thumb-friendly in landscape mode, or pushed to either side of the screen to make typing easier. The reason I like it, though, is that it functions as well as the Google Keyboard, including integrated Swype gesture typing and an added numbers row at the top. I make a point of downloading Google Keyboard to any new Android device I set up, however LG’s saving me the trouble with the G3.
+
+The LG G3 is, at its core, a thoroughly satisfying serving of Android KitKat. LG deserves credit for its implementation — this phone does the mundane tasks like picking up a signal and switching between Wi-Fi networks with great alacrity — and for keeping its features siloed enough to not get in the way of those who don’t want them. I haven’t found the new Smart Notice personal assistant any more useful than a basic weather widget, but neither has its presence on the phone frustrated or annoyed me. Like the slider controls for brightness and volume in the notifications menu, it’s something I quickly removed while setting up the phone. The G3 isn’t totally clutter-free, but can be made so with ease.
+
+Three years ago, Nokia shipped over 110 million smartphones worldwide. None had a display larger than 3.5 inches. Today the company moves far fewer smartphones, every single one of them with a display bigger than its largest option in 2010.
+
+These days things are different. It’s practically impossible to find a smartphone with a screen smaller than 4 inches, and the race to make a bigger smartphone gets more and more crowded every quarter. Samsung’s giant, crossover Note devices have sold in the tens of millions and Sony, HTC, and LG have launched their own giant smartphones in response. Nokia and Microsoft are evidently well aware of the demand for massive smartphones — and they're moving to grab a piece of that pie.
+
+The Lumia 1520 is Nokia’s first effort to conquer the big-smartphone world. The 1520 has a massive, 6-inch 1080p display and is the first Nokia device to use Qualcomm’s latest Snapdragon 800 processor. It will be available from AT&T for $199.99 starting on November 22nd in white, black, yellow, or red.
+
+Nokia’s other flagship smartphones in the US aren’t tiny: their 4.5-inch screens make them significantly larger than, say, an iPhone. But the 1520 is a different beast entirely — it dwarfs Nokia’s other devices, and even makes some oversized Android smartphones seem almost reasonable in size. It feels like a field test for Nokia: customers want big phones, but do they want big phones from Nokia?
+
+Under the magnifying glass
+
+Aesthetically, the Nokia Lumia 1520 looks very much like any other Nokia smartphone released this year. It’s so similar in appearance to the smaller Lumia 720 that it looks like Nokia just stretched the 720 out and called it a new phone.
+
+The 1520’s single-piece polycarbonate construction is solid and almost warm to the touch, unlike the cold finish of aluminum or the flimsy plastic Samsung prefers. My review unit is bright, glossy red. It can be a little more slippery than the matte white, yellow, and black models, but the glossy finish looks really nice in the fire-engine red, and it's certainly an eye-catcher and conversation starter. If there ever was a smartphone equivalent to bright-red lipstick, it's the red Lumia 1520.
+
+Lumia1520-300-2Lumia1520-300-4Lumia1520-300-5
+
+Of course, no matter what color 1520 you have, it’s not a particularly easy phone to handle. At 3.36 inches wide, 6.4 inches tall, and 0.33 inches thick, the 1520 always requires two hands to use. Its massive size makes it uncomfortable to put in either the front or back pockets of my jeans, and it can’t even fit in the American-size cupholder in my car. (In a twist of sheer irony, the 1520, the largest smartphone Nokia has ever made, is the first to use a nano-SIM card, the smallest SIM card ever introduced.)
+
+"The 1520 features one of the most beautiful smartphone displays ever"
+
+All of that size isn’t for nothing, however, because the 1520 features one of the most beautiful displays on any smartphone. The 6-inch, 1920 x 1080 pixel IPS LCD is bright, crisp, well saturated, and just really nice to look at. Blacks are inky and deep, colors pop with authority, and the vibrant, primary-color-based Windows Phone interface seems to almost leap right off the panel. The screen includes all of Nokia’s exclusive display features, including ClearBlack polarization for great outdoor visibility and super-sensitive touch response that works even through gloves. Companies use frivolous marketing names for various features all the time, so it’s refreshing when one actually relates to real-world improvements. The screen’s pixel density of 367ppi is not as high as other devices, but you can’t see pixels on the 1520 no matter how hard you look, and that’s really all that matters.
+
+The back is home to a new, 20-megapixel PureView camera with a Carl Zeiss lens, an external speaker, and contact pins for a charging case or dock. Oddly, the AT&T version of the 1520 doesn't have wireless charging built in, though it is available on the international model. The model I tested has 16GB of internal storage (with 14GB available out of the box), but you can expand it with a microSD card up to 64GB in capacity. AT&T says that a 32GB model will be offered at some point in the future.
+
+Making phone calls with the massive Lumia 1520 is possible, if not quite comfortable. Call quality is good and I was able to hear callers just fine on AT&T’s network, but holding such a massive phone up to the side of my head never felt right. It’s the same problem I have with making phone calls on a Galaxy Note 3 or other giant Android phone, only worse. As with the solid call-quality, LTE performance on AT&T’s network in New York was reliable and fast with the 1520.
+
+
+
+The Lumia 1520 runs the latest version of Windows Phone 8 and the latest Nokia-specific firmware, known as Lumia Black. It’s taking advantage of the update to Windows Phone 8 which supports both 1080p displays and the new processor, and it has gained a couple of minor enhancements along the way. It’s great to finally be able to close apps directly from the multitasking menu and toggle screen rotation, but this latest version is a minor update in the grand scheme of things — designed for more screen sizes, not more features.
+
+"Everything on the 1520 is just big, and the display isn't being used to its fullest"
+
+Wp_ss_20131117_0003
+
+The Lumia Black firmware on the 1520 includes all of the latest platform enhancements Nokia has developed, such as double-tap to wake, Glance notifications, and Bluetooth 4.0 LE. But Windows Phone still doesn’t have a proper notification center and other basic features that Android and iOS have had for years, which can still make it difficult to use.
+
+When designing a large, high-resolution device, there are two paths to take. Everything can be the same size as on smaller devices, therefore displaying much more content at once. Or the interface can be scaled up, displaying the same amount of content but with much larger icons, fonts, and interface elements. Microsoft chose to more or less just scale the Windows Phone 8 interface up, and I’m not sure that was the right thing to do.
+
+Everything with the 1520 is big, and it doesn’t feel like the giant display is really being used to its fullest. Fonts have grown to enormous proportions, there’s empty space all over the place, and the interface elements and icons feel as if they were designed for someone with very poor eyesight. The Windows Phone virtual keyboard is a joy to type on (with two hands, of course), but it still takes up half of the display, which is seriously excessive on such a large screen.
+
+The one area that Microsoft optimized Windows Phone 8 for big screens is with the new third column for Live Tiles on the Start screen. You can now fit more tiles across, so scrolling through your home screen is less work. Unfortunately, the largest tiles are still only two columns wide, and having so many Live Tiles flipping and dancing in a cacophony of animations can be overwhelming.
+
+Aside from the extra column of tiles, there isn’t much else in the way of optimization. I counted one more preview line for emails in my inbox, and one more visible email; two more contacts in the People hub; 1.5 more hours of appointments in the calendar app; and about four more apps in the app list before I had to scroll to see more. In the browser and third-party apps, the experience is virtually identical.
+
+Other big phone makers, namely Samsung, have implemented stylus support and special features that can take advantage of such a large screen. But Nokia isn’t going that route at all — reps said adding a stylus to the 1520 would mar the phone’s sleek design — and there isn’t really anything you can do on a 1520 that can’t be done on a Lumia 1020 or any other, smaller Windows Phone. Perhaps Microsoft and Nokia will refine Windows Phone for large screens in future revisions, but right now, it feels as if the bare minimum of effort was put into optimizing it for 6-inch displays.
+
+Nokia points out that the larger screen is great for gaming and watching video, and for the most part that’s true. High-definition video from Netflix, Vimeo, and Hulu looks amazing, though I really wish there was a proper YouTube app on the 1520 (third-party app MetroTube works in a pinch). But Google, Apple, and Amazon have also put a lot of effort into building vast content stores for their devices, which pays off when you have big, amazing screens to watch TV shows and movies on. Nokia and Microsoft haven’t yet done that (the Windows Phone Store offers music for sale, but no movies or TV shows), and I longed for the ability to purchase an episode of New Girl or rent The Fast & Furious to watch on the 1520’s display during my commute. Microsoft has promised to bring Xbox Video to Windows Phone 8 some time in the future, but it’s not here yet and as a result the experience is lacking. Without a great media store, Microsoft and Nokia aren’t taking full advantage of the 1520’s big, beautiful display, and that’s a crying shame.
+
+Update: As of December 18th, 2013, Microsoft has released the Xbox Video app for Windows Phone 8. It addresses one of our biggest complaints with the media options on the Lumia 1520, though unfortunately the video content is not available in high definition. You can download it from the Windows Phone Store now.
+
+Wp_20131115_18_26_44_pro-1024
+PureView for the people
+
+The Lumia 1520’s 20-megapixel camera is a scaled-down version of the 41-megapixel PureView camera included on the Lumia 1020. The sensor is a fairly large 1/2.5-inch in size, but it’s smaller than the 1/1.5-inch chip in the 1020, and the lens is a smaller f/2.4 aperture. The flash is a dual-LED unit as opposed to the Xenon flash on the 1020.
+
+The result of all of these changes is a slimmer, smaller camera module (the 1520 has a only slight hump for the camera) that is not nearly as capable in low light. The 1520 still has some of the 1020’s software tricks, including the ability to re-crop and reframe a photo after the fact and zoom in slightly without loss of quality, but it doesn’t come close to the same level of impressiveness as the 1020. In side-by-side low-light tests, the 1520 lost to the iPhone 5S repeatedly, and couldn’t hold a candle to the 1020.
+
+Despite its concessions in image quality, the 1520 unfortunately has many of the flaws of the 1020 camera, namely slow autofocus and slow shot time. Launching the camera from sleep can take one to two seconds, enough time to miss the moment, and then focusing can take another beat or two. The 1520 saves two versions of every image, a 5-megapixel one for sharing and a 19-megapixel image for cropping after the fact (the 1520 can also save a DNG file for RAW processing on a computer), which makes the phone pause for a second or two before letting you take the next picture. When I try to take photos of my fast-moving toddler, those extra seconds usually mean the difference between a treasured memory and a blurry image of my kid running out of the frame.
+
+Nokia Lumia 1520 sample pictures
+View full Gallery
+Previous
+
+
+Next
+
+That isn’t to say all pictures from the 1520 are terrible or that it is a bad camera at all. It’s just not nearly as impressive as the 1020 or even an iPhone 5S. Outdoors and in good lighting, and sometimes even in difficult lighting, the 1520 is capable of taking an acceptable picture. And Nokia’s litany of unique camera apps can make picture-taking pretty fun. The latest one, Refocus, lets you control the focus point of an image after it is taken, mimicking the Lytro light field camera. Nokia says that the new processor in the Lumia 1520 provides more power for photography, so I hold out hope that future software updates can improve the speed and performance of the camera.
+Wp_20131115_18_20_06_pro-300Wp_20131115_16_57_09_pro-300Wp_20131117_12_46_34_pro-300
+
+Lumia1520-1020-12
+Speed to spare
+
+The new 2.2GHz, quad-core Snapdragon 800 processor with 2GB of RAM (the same processor in the LG Nexus 5, LG G2, and Samsung Galaxy Note 3) is the most powerful chip ever used in a Windows Phone, and it lets the 1520 fly through everyday tasks. Windows Phone has always been an efficient and fast operating system, but the 1520 is a screamer. At this point, the phone operates so quickly that it feels like Windows Phone’s superfluous and sometimes excessive animations are what slow you down, not the processor.
+
+"The new Processor makes windows phone 8 feel even faster"
+
+The new processor’s power is evident when gaming, as well. The options for cutting-edge mobile games on Windows Phone still pale in comparison to what you can get on iOS or even Android, but recent titles such as Asphalt 8 and Halo: Spartan Assault look great and perform effortlessly on the 1520 (though the phone did get noticeably warm after a few minutes of intense gaming). Temple Run is great on the 1520 too, but it’s frustrating that I can’t play the sequel, which has been out on Android and iOS for a long time. Microsoft has huge potential with the Windows Phone Xbox integration for great mobile gaming, but it remains untapped and of no real benefit to users.
+
+Large phones usually have massive batteries, and the 1520 is no exception. The 3,400mAh cell is one of the largest on the market for any platform, and the big, bright display needs every last ounce of it. I was able to get through a full day of moderate use with the battery, but it didn’t last as long as I expected given its very large capacity. Standby time is great, but as usual, the display is the main culprit when it comes to battery use: using the 1520 to play games, watch video, or read for an extended amount of time will put a dent in the battery life quickly. Charging the 1520 using the included charger takes a considerable amount of time, as well.
+
+
+Nokia Lumia 1520
+7.4 Verge Score Write Review
+Good Stuff
+
+    Screen is beautiful
+    Solid build quality
+    Speedy performance
+
+Bad Stuff
+
+    Windows Phone doesn’t take advantage of the big screen
+    No HD content from Xbox Video
+    Slow camera
+
+The Lumia 1520 is a prime example of when bigger isn't always better
+
+When Nokia and Microsoft decided to go big with the Lumia 1520, they indeed did in some respects. The new display is tremendous and the faster processor makes the 1520 the speediest Windows Phone around. But the compromises you have to make for such a large screen aren’t rewarded with a significantly different or better experience than any other Windows Phone. The cumbersome size isn’t comfortable to use on the go or to keep in your pocket, and though the 1520 is nearly as big as a small tablet, it doesn’t offer any of the advantages that tablet software can bring to the table. Windows Phone needs more work to get the most out of such a big screen, and it desperately needs a proper media store to provide content for it.
+
+If you’re looking for a 1080p display on a Windows Phone, right now the 1520 is the only one you can get. But you can be sure that more Windows Phones with full HD displays are coming in the near future, and you likely won’t have to accept a massive 6-inch screen for them. Same goes for the faster processor: Microsoft’s updates to Windows Phone mean that quad-core chips are supported by it natively, so there will certainly be more phones coming with similarly powerful chips.
+
+Of course, if you are in the market for an oversized smartphone, there are a number of Android devices that provide better big screen experiences than the Lumia 1520. The Samsung Galaxy Note 3 packs a great-looking 5.7-inch display, and includes software and a stylus to take advantage of it. That’s not to mention the much larger Google Play Store for apps, games, and video content.
+
+Samsung and others have proven that there is a market for giant smartphones, warts and all. But that doesn’t mean that just any smartphone is better if it’s bigger, and the 1520 is a prime example of that. It’s bigger and faster than any other Windows Phone yet, but it’s not necessarily a better Windows Phone because of that. If all you’ve ever wanted in life is a Lumia 925 with a magnifying glass on top of it, the 1520 is exactly that. It’s a tour de force in resolution and speed, but it’s not a great smartphone or even a great replacement for a tablet.
+
+Nokia could capture the minds and wallets of big smartphone shoppers with its excellent hardware design and impressive camera technology. But it needs to do more to give people a reason to choose its devices over the Note 3 and other big smartphones, and the 1520 doesn’t quite do that.
+
+It’s difficult and perhaps dangerous to make a big deal out of a smartphone these days. Can one phone change an industry? Save a company? Create a market? Perhaps that was true in the days just following the original iPhone, but times have most certainly changed. Smartphones are the norm now. No longer a novelty. Not a luxury. Just what everyone has, in some iterative, similar, necessary form.
+
+The Moto X, a new phone from the Google-owned Motorola is supposed to be a big deal. A new way of thinking about a smartphone. When it becomes available on all four major US carriers at the end of August or early September, for roughly $199 with a two-year contract, this device will be one of the first modern, mass-market consumer electronics to be assembled (though not exactly “made”) in the USA. It’s the first smartphone that you can customize and have hand-built in a variety of configurations and colors. And it’s the first smartphone that is supposed to represent what the new Google-Motorola union is capable of.
+
+But that’s all — mostly — unimportant unless the phone is any good. It can match your outfit, sure, but do you actually want it in the pocket of your jeans?
+
+Locally crafted
+
+The Moto X is a good-looking phone; it’s a good-feeling phone too. As far as raw materials and build quality go, it ranks among the best smartphones I’ve tested. The device is a solid — if somewhat anonymous — slab of space-age plastics, soft-touch surfaces, and crystal clear Corning glass. Unlike the iPhone or HTC One, there’s no metal here, but I didn’t exactly miss it, and in some ways the lack of dent-able material makes it seem more rugged. To be fair, I dropped the device on concrete and nicked a small bit of plastic out of one of the corners — but everything else seems fine.
+
+"Good-looking, and good-feeling"
+
+The Moto X is terrific to hold and use, too. It’s a meaty device, thin enough to compete with its contemporaries, yet dense. Fully packed. The size is just about perfect for my hands, and I was able to reach across the 4.7-inch display to the upper-left corner with little difficulty. The curved back feels right on. The button placement is not only sensible, but the buttons seem built to last: clicky, punctual, tough.
+
+So, surprise — or maybe not. The Moto X is fantastic from a purely hardware-facing perspective. It’s a beautifully made phone, with the unique advantage of being highly cosmetically customizable.
+Made in America
+
+One of the most intriguing aspects of the Moto X is that Motorola is taking great pains to see that the devices are hand-assembled at a plant in Fort Worth, Texas, as opposed to in an overseas shop such as Foxconn. (Apple is making a similar move with its yet-to-be-released Mac Pro.) Presumably, that adds cost and difficulty for Motorola, but as company SVP Rick Osterloh tells The Verge, "It’s just the right thing to do." Personally I can’t quite figure out if this is a political move aimed at scoring points with consumers, dinging competitors, or holding some kind of higher ground as a US economy-focused company, but it’s an exciting move nonetheless. Hopefully it’s more than just a novelty.
+
+"Hopefully 'Made in America' is more than just a political move"
+
+The phones aren’t wholly made in the States, but even an assembly line of smartphones simply being pieced together in America is notable. Motorola seems to have its heart in the right place, and if the phone is any kind of success, it could be incentive for other manufacturers to consider the US workforce. Of course, that’s still a big "if."
+
+Ht_moto_x_smartphone_colors_thg_130801_16x9_992__1_
+Build-a-phone
+
+I would tell you that the device comes in one of two colors — black or white — and that’s true on some carriers. But on AT&T at first and others soon after, it will come in many more thanks to hardware customization options Motorola is offering for the phone. You’re able to select among the many available combinations using an online tool called Moto Maker, and your order is sent to an assembly line in Texas where the phone is hand-built and shipped to you in four days. By allowing you to select the color for several components of the phone, Motorola gives you up to 252 possible combinations: more than enough to please even the most demanding aesthetes.
+
+In that Texas factory, 2,000 or so American workers will be putting together phones based on your exact specifications. You can choose how much storage you want, 16GB or 32GB. You choose a front face, either black or white, then pick one of 18 backs, with colors like red and yellow, but also teal and plum, and about four different shades of white. Next, choose an accent color from seven options — it colors the buttons on the phone, and the ring around the lens of the camera.
+
+The colors look cool. They look fresh — of the moment. By comparison, the white and black (and even more colorful phones like Nokia’s Lumia line) seem drab and predictable. The monochromatic options look especially behind the times now, like a beige PC. Come to think of it, even aluminum computers come off as depressingly retro when you consider Motorola’s proposition. If these devices are our always-there accessories, shouldn’t we have some say over how they look? Don’t answer. The answer is yes.
+
+"Customization won't make or break the Moto X's appeal"
+
+The Moto Maker tool is simple, clean, and clearly a Google product — it looks vaguely like a Google+ page. Once you pick your phone, you can choose accessories to go with it (including color-matched headphones from Sol Republic), choose a wallpaper, and sign in to your Google account. Then as soon as your phone shows up, it’s already personalized and ready to go. If you don’t like what you picked, send it back within two weeks and try something else.
+
+The success of this phone won’t hinge on a user’s ability to order a made-to-measure version, but it could compel certain buyers to at least consider the Moto X when they might have simply passed over a black model on a shelf. The real question is if Motorola (and by proxy its carrier partners) can message this properly to users. It needs to be out there in big, bold type. If consumers don’t know they can get something special, they simply won’t.
+Dsc_6496-300pxDsc_6487-300pxDsc_6476-300pxDsc_6478-300px
+
+Dsc_6670-hero
+
+The on-screen experience
+Dsc_6515-300pxDsc_6651-300pxDsc_6486-300px
+
+I know what you’re thinking: a 720p AMOLED display on a high-end Motorola phone? No thanks!
+
+I was thinking the same thing when I got this device in my hands. And no, it’s not the best display on a smartphone that I’ve used. But it is far — far — from the worst. In fact, it’s slightly above average (certainly compared to Motorola’s past efforts in this area), though not a best-in-class performer like the HTC One’s Super LCD display. Even next to a Galaxy S4 — a phone with a truly improved AMOLED display — the Moto X screen seems acceptable. I did notice some slight color banding across the screen when solid colors (particularly grays) were visible in large areas, and as with most displays using this technology, colors are over-saturated, especially reds and oranges.
+
+"Not the best screen, but far from the worst"
+
+As far as resolution is concerned, text and graphics look plenty smooth on a 4.7-inch 720p display, but if you look closely, there’s a hint of pixelation compared with 1080p devices. I had to study them side by side to make out the difference, as it’s incredibly slight (keep in mind, the PPI of this phone is nearly the same as the iPhone 5’s Retina display). I expected to be bothered by the step backward in pixel density, but it wasn’t an issue.
+
+I was more annoyed by the fact that, like the Google Play Edition Galaxy S4 and One, I needed to install a brightness control app called Lux to moderate dimming on this display. In an attempt to conserve every possible drop of battery life in these new phones, the system-software brightness control seems to be over-attenuated to the point of making the screen unreadable at times.
+
+As with most Motorola phones, the speakers on the Moto X are excellent. They’re loud enough to use in the car hands-free (that’s sans Bluetooth), and generally clear for speakerphone use and even a little YouTube or music playback. I did notice some mild distortion at higher levels, but overall their performance puts them in a favorable light, especially compared to the speakers on Samsung’s latest flagship phone.
+
+Dsc_6607-hero
+
+Always watching, always listening
+
+The first thing that you should know about the software on this phone is that it is thankfully, mercifully, for all intents and purposes "stock" Android. The current version on the phone is 4.2.2, and it doesn't differ in any major way from the Galaxy S4 or One Google Play Edition. That's a big deal when you consider there's never really been a clean Android offering like this for all of the major US carriers.
+
+But Motorola has added something to the mix here. The company is intensely focused on how we interact with our phone when it’s not right in front of us. The company has come up with a new paradigm called "Touchless Controls," which allows you to operate the phone in a fashion not wildly dissimilar from Google Glass.
+
+Essentially, there’s a way to put your Moto X into an "always listening" mode, which responds to you speaking the phrase "Okay Google Now." After a short setup where you train the phone to understand your voice (and your voice alone), you can spark it to life with that phrase whether it’s awake or asleep. Setup went very smoothly, though the phone did have issues understanding me unless I spoke in a very similar tone and cadence all three times, and remembered how I’d said it going forward. Once I figured that out, it was off to the races.
+
+"Don't forget the exact way you said 'Okay Google Now'"
+
+It worked quite well for nearly every task I could think of — making a note, sending a text, making a phone call, or simply searching Google. As with most voice recognition, it’s prone to mishearing you (especially in a noisy environment), but when at home or work in a quiet setting, it did fine.
+
+But there’s a catch. The touchless controls are rendered nearly useless if you have any kind of security lock on your phone. You can still use it to make calls, but everything else requires that you unlock your phone, which requires that you pick it up and interact with it… meaning you just defeated the whole idea of "touchless controls." If the voice recognition was as good and as personalized as Motorola would like it to be, this wouldn’t be an issue. But it’s an issue right now, and a bit of a bummer if you care at all about your phone’s security (and let’s face it, you should).
+
+Dsc_6708-hero
+Active Notifications
+
+Another major addition to Android with the Moto X is a set of features Motorola calls "Active Notifications." It’s essentially a lock-screen replacement that alerts you to incoming messages, emails, or just about anything else with an icon and clock flashing in the center of the screen. Because the display of the Moto X is AMOLED, it can light only the portion of the screen it needs for these notifications, which make them low power (and low annoyance in darker rooms).
+
+Tap on a notification to see a preview of its contents, and swipe upward to unlock the phone directly into that application. If several notifications come in, it will collect them as icons and let you preview the most recent one.
+
+"Active Notifications are exactly what notifications should be"
+
+It took a little while to get used to how this concept works, but once I "got" the expected behavior, it was wildly useful. I like to know when I get an email so I have a notification sound every time one comes in — but they’re not all of equal value. Being able to preview the information before unlocking the phone has definitely saved me time.
+
+Still, Motorola can take this further. Right now, there’s no way to cycle through your notifications, so you can only take action on the most recent one. Having some gestural way to flip through your separate notifications — or at least types of notifications — would be really handy. But even in its present state it’s a welcome change from having to unlock the device and pull down the notification shade just to see who’s pinging.
+Screenshot_2013-08-05-09-48-45-300px
+Motorola Assist / Driving
+
+The Moto X’s most intriguing and maybe revelatory features reside in an application simply labeled "Assist." WIthin the app a suite of settings allow you to customize your phone for various scenarios — sort of like Apple’s "Do Not Disturb" on steroids. In a car.
+
+Assist does add a feature almost identical to "Do Not Disturb," which silences your phone for all but the most important callers at certain hours. It’s not unlike Motorola’s old Smart Actions app, which also let you set up macros to open Rdio when you plugged in your headphones, or turn on Bluetooth when you got home. Assist does fewer things better. It lets you quiet your phone when you have meetings scheduled (using your calendar as a guide), and one other option which took me by surprise — and kind of took my breath away.
+
+"Motorola Assist is enough by itself to make me want a Moto X"
+
+Assist senses when you’ve begun driving in your car, and immediately switches into an almost conversational, hands-free experience. I took a trip and forgot all about the feature, only to be shocked and pleasantly surprised when my phone told me I had an incoming message from my wife. Then the phone read me the message, as if I was having a conversation with an assistant — or, you know, Siri. More impressively, a moment later a call came through, and the phone asked if I’d like to answer. Of course I would, you beautiful machine. All of this would have been incredibly distracting and dangerous if I had to look at my phone, but here it was, painless.
+
+That was the moment with the Moto X when I started to seriously consider the phone. I’m not sure what impressed me more: the ease of this function, or the fact that I didn’t have to think about where I was and what mode I was in.
+Screenshot_2013-08-05-09-48-35-300px
+
+Dsc_6576-hero
+
+Point, and shoot
+
+I don’t understand the Moto X camera. It’s great, but it’s also terrible. The 10-megapixel rear camera is capable of snapping gorgeous pictures with fantastic bokeh. Thanks to a "clear pixel" that Motorola says lets in 75 percent more light, it’s good in dark situations too. Very good. Yet somehow the Moto X’s post-processing is so aggressive and so ubiquitous that it ruins as many shots as it saves. There’s terrible artifacting and noise even in well-lit photos — like you cranked the JPEG settings way down. I’ll take a noisy photo over a blurry photo any day, which is basically the same decision Motorola made here, but sometimes the phone goes overboard trying to improve your photos. Way overboard.
+
+Img_20130801_215000890-555px
+
+Motorola keeps getting the user interface right, though. Apparently the company found that most people never dig into the camera settings, so the app basically removes all of them. Just tap anywhere on the screen, and it automatically exposes, focuses, and shoots. It’s a bit annoying sometimes, because there’s no way to focus before you actually take the picture. I got a lot of bad shots this way, especially when I took a picture of someone with a bright background. But I got a lot of good, fast shots this way too. Shots I would have missed otherwise.
+"TOO OFTEN, THE CAMERA IS HIT, THEN MISS"
+
+Getting to the camera app is fast, too. The company has added a gesture to pop open your camera, which actually proved to be faster and more useful than just about any other "quick" camera option I’ve tested. Just twist the phone three times — right, right, right, sort of like shaking a drink — and no matter what you’re doing, or even if the screen is off, it jumps straight to the camera. It’s not a perfect gesture, and it’s not always easy to do right, but even when I had to do it a couple of times it was faster than turning the phone on, unlocking it, and finding the camera app icon.
+
+Dsc_6635-hero
+
+Redefining mid-range
+
+Motorola made the Moto X with mid-range specs, and isn’t at all ashamed of it. It shouldn’t be: the phone is fast and smooth. It’s more than sufficient for everyday use. I played games, watched movies, made calls; everything worked better than fine. The Epic Citadel demo ran at a near-constant 60 FPS with the highest graphics settings on. It’s not as fast as the GS4, but I only noticed the difference when I looked at them side by side. For now, our phone hardware is clearly more capable than it needs to be; mid-range seems to be just fine in this case.
+
+Mid-range is also supposed to help with battery life. Motorola could have built a monster of longevity like the RAZR Maxx — and it should have — but it didn’t. It definitely gets a full day of use: I used it heavily for 15 hours before it died, and if you use it like most people use their phones, you won’t need to charge it during the day. It lasted for 7 hours, 14 minutes on the Verge Battery Test, which loads popular websites and high-res images with brightness at 65 percent; that’s a very good score, far better than the HTC One and the GS4, but well below class leaders like the Maxx or the Galaxy Note II.
+I’m going to level with you: I was pretty underwhelmed by the Moto X based on what I heard and saw at the company’s product announcement. Even my first few hours with the phone left me scratching my head, wondering why I would want this device when wonderful, higher-end, stock devices like the One and S4 Google Play Editions were available. And frankly, I was wondering why anyone would want the device considering the relatively strong options out there if you’re in the market for a $199 Android phone right now.
+
+But once I used the phone heavily, I started to come around to the Moto X in a way I hadn’t expected. The additions to the software that Motorola has made are legitimately useful and really quite impressive. They add to the experience of Android without removing what is most vital in Google’s software, unlike the competition, which seems intent on obscuring what’s already a sophisticated and beautiful operating system. If Motorola ends up producing a Google Play Edition of this phone that retains the customizable hardware and software additions like Assist and Active Notifications — this could be as good an option as the S4 or One.
+
+And the phone is nice. I mean, really nice to use. It’s a reminder that the way something is built can be as important as what it’s made of.
+
+Combined with the ability to get a truly unique, customized device that’s as compelling as anything I’ve recently tested — one assembled in America — it begins to look like an awfully good option.
+
+The Moto X is not a perfect phone, but neither is any other phone on the market right now. What it is, however, is a pretty damn good phone — and one I can recommend.
+
+But good luck trying to pick a color.
+In this review of the Nexus 5, I will attempt to answer one simple question: is Google capable of making a flagship, best-in-class smartphone it can sell for $349 off-contract? And I don't just mean a nice, okay, swell, good, decent, better-than-the-last-one phone. I mean a phone that stacks up against the iPhone 5S, Galaxy S4, HTC One, or Lumia 1020. A phone that people want to buy. A phone that can win hearts and minds.
+
+I'm asking this question because I believe Google is asking the same one. The Nexus line of phones may have just started as developer editions, or platforms for the latest version of Android, but unless Google's marketing department and PR team are reading from different sheet music, it seems like Google wants its Nexus phones to be the kind of consumer facing devices that its Nexus 7 tablet clearly is.
+
+And why shouldn't it be? The Nexus 5 is stacked in the hardware department, touts a handful of future-facing improvements, and most importantly runs the latest version of Android — a visual and functional upgrade called KitKat (or 4.4, if you love numbers). It's a big deal.
+
+Google clearly wants you to see the Nexus 5 as the ultimate Android device. Hell, that’s what they’ll tell you if you ask them. This is supposed to be the best the platform can offer. The best hardware combined with the best software. But is it?
+
+Design within reach
+
+For all the focus put on a new Google phone, the Nexus 5 doesn't look like much. It's not a giant slab like the Galaxy Note 3, a sculpted piece of art like the Lumia 920, or a precious piece of "jewelry" like the iPhone 5S. It's an unassuming rectangle of a thing, available in black or white. At 5.42 inches tall and 2.7 inches wide, it's a big phone, and feels like a noticeable bump up from the Moto X or the iPhone. In some ways it’s a bit boring — especially next to the customizations offered by Motorola or the neon colors of the iPhone 5C. Plain isn't necessarily a problem — it can even be a strength, and I think it is here given what Google is trying to do. But still, the Nexus 5 is plain.
+
+The phone is shaped to feel smaller than it looks, with subtly curved edges and slightly sharpened corners that nestle perfectly into the palm of your hand. It's surprisingly light, at only 130 grams and 8.6 millimeters thick. It's made completely of plastic, and obviously doesn't feel as high-end as metal phones like the HTC One or iPhone 5S — but it’s solid, not slippery. I found myself running my fingers along the carved Nexus logo on the back, and feeling the edges of the ceramic buttons — it’s just nice to hold. Stylistically, it shares much in common with the new Nexus 7 and the original Chromebook, and that’s a good thing.
+
+The phone's a spiritual successor to LG's G2, but it's been improved in almost every way. The buttons are thankfully on the sides of the device, though the power control can sometimes feel like a stretch along the upper right corner of the phone. Two speaker grilles flank the recessed Micro USB port, but only one is an actual speaker; the other hides the Nexus 5's microphone. Left to fend for itself, the speaker is pretty quiet, and sometimes distorts at near-maximum volume.
+"The Nexus 5 is mostly just supposed to get out of the way"
+
+It makes only two bold, eye-catching design statements. One is the large ring around the camera lens, which glints in the light and feels almost jarring next to the subtlety of the rest of the phone; it sort of looks like a spare part, attached at the last minute. Friends I discussed the feature with either hated it or loved it; I kind of like it. On the white version of the phone, the earpiece grille is colored white, which is striking against the black, glass face of the phone — it’s like a beacon. Speaking of beacons, Google has once again produced another device with a multicolored LED light embedded at the bottom of the screen, but I couldn’t tell you why that is. The light only flashes white when you have a notification, meaning it’s always flashing, so it’s always meaningless. I use an app called LightFlow, which allows you to set different colored notifications for specific apps, and it makes the LED about a million times more useful. Unfortunately, I’ve grown to love the Moto X’s Active Notifications, and the LED still makes a poor substitute. But I digress.
+
+Being flashy or ostentatious was never Google's goal with the Nexus phones. The point is to let the hardware get out of the way so the software can do its thing. Android is the statement here, not the Nexus 5. That's why its 4.95-inch, 1080p screen is such a key tenet of the phone's appeal, and it more than gets the job done. It's not oversaturated like the Moto X's AMOLED display, though it can look a bit washed out and desaturated next to a device like the HTC One or the iPhone 5S. But those are relatively minor nitpicks. The screen overall is bright, beautiful, crisp, and accurate. At 445 pixels per inch, it's a fantastic device for reading, working, browsing the web, or watching movies — a perfect window into Android.
+
+Before this phone was even announced, leaked photos and information about the Nexus 5 made the camera a point of gossip and controversy. It's no secret that Android phones have a rough record with quality shooters (especially in comparison to the efforts of Apple and Nokia), and Google and LG's previous work on the Nexus 4 didn't leave a great taste in anyone's mouth. Rumors swirled that the Nexus 5 was going to be different.
+
+The truth is, it's a lot more of the same, at least right now. In a word: disappointing.
+
+Next
+
+The 8-megapixel camera on the back of the Nexus 5 is certainly capable of taking rather beautiful photos in the perfect setting. Unfortunately for us, life is not filled with perfect settings — and when you're faced with real-world picture taking, the camera underperforms constantly and consistently. The Nexus 5 takes photos and video with too little contrast, too little saturation, and too little color (or inconsistent color) — when you can get the camera to focus at all. Low light performance isn’t exactly poor, but getting it to snap the picture you want at the moment you want will drive you absolutely nuts. The camera app can be absurdly slow to focus and even slow to launch in the first place, which makes the Nexus 5 as a camera an exercise in frustration. It instills no confidence — and after a while I simply expected the phone to produce bad results. Side by side with almost any other flagship phone, its camera doesn’t hold up.
+
+Let me just reiterate this point: in the right light, with a steady hand and no moving (or slow-moving) subjects, the camera can take excellent photos. It’s actually really upsetting because it suggests the Nexus 5 is capable of so much more — particularly with macro shots. But, in situations where those three factors are not in play, you will struggle to take a good photo. That means that by the time the lazy autofocus captures your scene, your kid will have stopped making that face, your friends will have thrown back their Jäger shots, or your pet will no longer be doing whatever hilarious thing it was doing.
+"A "good enough" camera isn't good enough"
+
+I also don't agree (as some will argue) that a "good enough" camera is acceptable for Google's flagship smartphone, and I don't think the company feels that way either. Yes, the price point is low on this phone, but not low compared with on-contract phones (which the majority of consumers purchase), and nothing else about the Nexus 5 feels cheap. Google intends for this phone to be pitted against the best that Apple has to offer, and I doubt anyone at the company would tell you they’re pleased that the camera doesn’t stand out.
+
+There is a glimmer of hope, however. Representatives from the Android team say that software is to blame for the weak performance, not hardware, and reps tell me that a fix is coming to deal with the issues in the upcoming weeks. I've even seen an early build of the new software, and while it's only a minor improvement — autofocus is a hair faster, but still inconsistent, and picture quality hasn't changed — it's nice to see Google already at work.
+
+Of course, there's no set date for a fix at this point, and I don't know how much the camera can actually be improved through software, but if the Moto X is any kind of example, there might just be a solution to this very disheartening problem.
+
+Update: Google has issued a significant update to the camera software bundle of the Nexus 5 in the form of Android 4.4.1. The update improves upon many of the issues cited in this review, most significantly the camera's ability to focus on subjects consistently and reliably in a variety of lighting and environment settings. To read more about the changes, see our detailed review here.
+
+The crunchy core
+
+The design of the hardware is clean if simplistic, but that's probably okay for Google. The main focus of the Nexus devices has never been about hardware prowess — it's about finding the appropriate package for showcasing software innovation. And that's definitely true here, because the Nexus 5 is all about the latest version of Android — KitKat.
+
+It may just be a point update, but Android 4.4 is a significant change from the previous version of the software — with big tweaks both user-facing and under the hood.
+
+Google is moving away from the "holo" or more Tron-like elements we first saw in Honeycomb (3.0), and what's new actually seems to have more in common with recent efforts from HTC on the One than it does with previous versions of stock Android. If the old Android was a "night" theme, this is definitely "daytime." White is everywhere, from the backgrounds of folders to the pattern unlock grid. Things have been lightened, tightened, and flattened in all the right places, making this latest incarnation of the ever-evolving software feel very fresh.
+"If the old Android was a night theme, KitKat is definitely daytime"
+
+Some of the aesthetic changes in KitKat seem to be focused on getting user interface elements out of the way — for instance, the status bar up the top is now translucent, allowing apps or pictures to take up every single one of the Nexus 5’s pixels. Google is also employing a tighter, condensed version of its Roboto font on the home screen and in other areas around the OS, giving KitKat a more modern, sleek feel from a typographic perspective. Icons and other symbols seem starker, cleaner, and larger in the new operating system — but nothing is painfully flat here.
+
+Google search is all over KitKat — and some users may take a moment to adjust to how much that changes the OS. Google Now is a left-swipe away from your main home screen, accessible very much like HTC's BlinkFeed. That means people who've been using that left space for icons and widgets will have to rethink their home screen strategy. Google voice search is also now deeply integrated into KitKat; you need only utter "okay Google" to start searching. This is akin to the Moto X's implementation of an "always listening" mode, but it's only listening while you're in the launcher of the phone, so it's not nearly as useful (or invasive, some might argue). You can also now search keywords from within the phone dialer, which is a bit like having Google Maps business info integrated perfectly into the app. On that note, the dialer has actually been completely redesigned, but Google needs to wrangle the UI in that particular piece of the puzzle as it's now relatively confusing to use.
+
+
+Elsewhere in KitKat, there’s a new unified file picker, letting you attach files from Dropbox, Drive, Box, and more all in the same place, and (finally) a unified way to print from your phone. The widget drawer has been axed and combined with a contextual menu where you can also select wallpaper and open general Google settings — all of which are improvements. That means your main phone navigation is split between home screen, app drawer, and notifications — which are increasingly robust. In all, Android is tighter, simpler, and more unified everywhere; the general UI hasn’t changed dramatically, but the visual tweaks and functional additions continue Android down a very smart path.
+
+
+If there's a major shift in the software beyond interface cleanup and additional under-the-hood improvements, it might be the new version of Hangouts. The messaging app now fully integrates SMS and MMS, and replaces the "Messages" app from previous versions of the software. You can now send texts, instant messages, voice calls, and video calls all from the same place, giving it a feel much more akin to iMessage. It's a fantastic idea on paper, but a really clunky execution in KitKat. If you’re talking to someone via Hangouts, and then you text them via SMS, it starts an entirely new, separate conversation. Unlike iMessage, which combines everything into one stream whether you’re using SMS or not, Hangouts bifurcates those conversations, making communication actually more confusing and harder to navigate. Coupled with the fact that Google still doesn’t group separate accounts together in its apps, things are downright puzzling at times when trying to carry on a conversation. How can this be so hard? webOS got account linking and merged conversations right in 2009.
+
+It's odd. The phone knows that the person I'm texting with is the same person I'm chatting with in Hangouts (the user card is the same), but those two conversations sit apart from one another. Why can't those conversations be merged? Even if you had to hand-select what kind of message you wanted to send, it might be easier than switching between two completely different streams. My assumption is that Google knows this isn't a perfect execution — I only hope they deal with it sooner rather than later.
+"Getting messaging right can't be this hard"
+
+Hangout issues aside, KitKat really is a solid improvement over earlier versions of the software, and the Nexus 5 shows it off quite well.
+
+Short-term power
+
+The key feature of KitKat, its primary raison d'etre, is to make new versions of Android accessible to lower-memory phones. Phones that don't have the latest processor, or gigabytes of RAM, can still get all of Google's latest software. But none of that even comes close to mattering on the Nexus 5, which comes with a spec sheet as impressive as just about any phone on the market.
+
+It's powered by a Qualcomm Snapdragon 800 processor clocked at 2.26GHz, and it's hard to find a better smartphone chip on the market today. It also has 2GB of RAM (four times what KitKat needs), an Adreno 330 GPU, and either 16GB or 32GB of storage. Likely due to some combination of this class-leading hardware and the newly optimized software, the Nexus 5 is just astonishingly fast. Even processor- and graphics-intensive games like Asphalt 8: Airborne play smoothly, though like any device they still drop the occasional frame and stutter every once in a while — we're not entering truly new territory here, just improving on what we have.
+
+
+There can be minor scrolling issues when you’re trying to tear through a long page, but that seems more to do with buffering than it does actual graphics performance. In fact, a big deal has been made about the "Android scrolling" problem, but nine times out of ten, the Nexus 5 feels considerably faster than most devices I’ve used — even the iPhone 5S (pro-tip: turn off all of your animations using developer controls). General navigation and performance is buttery, and while Google still can’t match Apple’s best-in-class touch-response times, the difference is negligible as far as I’m concerned. With every device there are tradeoffs, but I don't feel for a moment that the touch performance or scrolling behavior on the Nexus 5 — or most modern Android phones — is a cause for concern.
+
+Perhaps even more important than its new software, or its improved screen over the Nexus 4, the Nexus 5 comes with LTE. It works on carriers and in countries around the world, and in our tests had solid reception and download speeds (though of course your carrier's more responsible for how that works than your phone). One of our review units had a bizarre problem: when the phone went to sleep while connected to Wi-Fi, it seemed to completely shut off its radios, and had trouble connecting when we woke it up. That was just one unit, though, and most seem to work as expected.
+
+There was one other inconsistency, more troubling this time. During our time with the Nexus 5, it's been hard to get a real grip on how its battery truly operates. One day, it lasts less than eight hours of only moderate use. The next, more than 16. It lasted 3 hours, 43 minutes on the Verge Battery Test, which is among the lowest scores we've seen on a high-end phone in some time, but it would occasionally surprise with its longevity. The screen is clearly the catalyst, in most cases responsible for 60 percent or more of the battery's drain — as ever, the more you use your phone the faster it'll die. Depending on how you use it, battery life seems to fall somewhere between "bad" and "okay," and neither of those is something to get excited about.
+Wrap-up
+Compare It Unnamed
+LG Nexus 5
+8.0 Verge Score 9.1 User Score Write Review
+Good Stuff
+
+    KitKat is a major and welcome update
+    Performance on the phone screams
+    Gorgeous display
+
+Bad Stuff
+
+    The camera is frustratingly hit or miss
+    Battery life was inconsistent
+    Hardware design is unexciting
+
+A killer package... once Google fixes this camera
+
+At the start of this review, I posed a question — can the Nexus 5 be the flagship phone Google wants it to be? The short answer is... maybe. Just not now.
+
+The Nexus 5 is an excellent phone in many ways. It's solidly built and feels great to use. It's got serious processing power which means it can handle pretty much anything you throw at it. The phone has an absolutely gorgeous display. The KitKat update is polished and refined, and cements my belief that not only is Android leading the charge in mobile OSs from a functionality and user interface standpoint, but from a design standpoint as well. The battery life, while not perfect, appears to be good enough to get you through a day of work — which is certainly on par with its competition.
+
+More importantly, Google is blazing a new path in the way we buy our phones. A device of this quality for $349 is something to take notice of. It's impressive, but more than that, it's a crucial step towards offering consumers more control over how and when they buy their phones and phone service. It's also just kind of a cool idea — a great phone, no strings attached.
+
+I would love to be able to recommend this device wholeheartedly, but I can't do that until Google sorts out the issues with the Nexus 5's camera. If the company can make software changes large enough to materially and noticeably improve the performance of its shooter — to make it competitive with other top-tier phones — then this becomes a different story. Even now, Google's working on fixing its issues, and someday we might see the Nexus 5's camera upgraded from problematic to usable, or even good. When that day comes, the Nexus 5 will be a killer package I'll happily recommend. But that's not today.
+
+Update: As stated in the camera section of this review, Google has taken rather immediate action to fix many of the problems I outline here. As a result, the Android 4.4.1 update which is rolling out to Nexus 5 handsets does greatly improve the performance of the camera — enough that I can happily recommend the phone as one of the best Android devices on the market. While the camera still isn't up to the standards of the iPhone 5S or the Lumia 1020 (mostly due to the realities of hardware limitations), the Nexus 5 proves to be a capable and at times excellent camera; one which you can feel a greater degree of confidence about thanks to software changes. There is still work to be done on the Nexus 5's camera, particularly in the user interface, but the device now has a fighting chance amongst its competition.
+
+My first car was a 1997 Saturn SL1, a tiny black box with headlights that were too close together and a 0-60 time in the neighborhood of three and a half hours. It had power nothing, automatic nothing, working-properly nothing — and I loved it. I thought I did, anyway, until the night I got to drive my girlfriend’s brother’s brand-new, black Audi A4. I’ll never forget it: it tore through corners and took off with the slightest tap of the pedal, its glowing dashboard of red lights all the while making me feel like I was at the helm of a dangerous weapon. I even loved the sound it made, the roar I’d never heard while putt-putting in my Saturn and praying that rattling sound wasn’t the muffler again. I don’t think I ever went more than 45, but I’ll never forget that night, that drive, or that car.
+
+That feeling is exactly what companies advertise, and ultimately what you pay for. As we learned to take horsepower and navigation systems and cup holders and high-end audio setups for granted, our cars became about something else. Something more instinctive.
+
+Something similar may be about to happen in the smartphone market. Our phones all have big screens, fast processors, and giant app stores; those are the table stakes. So HTC’s spent the last two years trying to build a phone so spectacularly well-made, so beautiful, so intimately personal that from the moment you see it there’s no way you’re not leaving together.
+
+It’s called the One. This year’s model is the One (M8), technically. The original One was a thing of beauty with some crippling performance flaws — the Alfa Romeo 8C of smartphones. This year’s model is supposed to be powerful, long-lasting, feature-rich, and still a work of art. Plus, unlike your average luxury car, it’s not overpriced — it’s the same $199 (or $249, depending on your carrier) as every other good smartphone out there. HTC wants to sell me an A4 for the price of a Camry.
+
+Smartphones are still marketed on what they do, not how they make us feel — and Samsung has that market locked up. But our phones are our most intimate, most personal devices, the ones we use all day every day. Maybe it’s time we start thinking about whether when we turn them on, they return the favor.
+
+
+We as a society and a marketplace seem to have agreed that the proper screen size for a flagship phone is somewhere between 5 and 5.2 inches. To the ranks of the Sony Xperia Z2, Nexus 5, and Samsung Galaxy S5 HTC now adds the One, and it slots in nicely. At 5.76 inches tall it’s slightly longer than last year’s One, but HTC did a nice job fitting a larger display in virtually the same body.
+
+"An excellent formula, further refined"
+
+The 5-inch screen that covers the device’s front is a gorgeous 1080p panel, with nearly perfect color representation and a measure of brightness and pop that even last year’s model can’t match. It’s actually slightly less pixel-dense than last year’s model, but I can’t tell the difference — this display is lovely to look at. And it’s flanked by two big BoomSound speakers, which are the loudest and best phone speakers I’ve ever heard — which is particularly impressive given how loud last year’s speakers were. Your average set of headphones still sounds better, but when it comes to my Saturday routine — wake up, prop the phone up next to me in bed, and catch up on Parks & Recreation — they’re a great addition. And they look good, too.
+
+The phone’s body is the real stunner here, though. It comes in silver and gold (gorgeous and avert-your-eyes ugly, respectively), along with a slightly more subdued brushed-metal gray. Pictures don’t do it justice: I only really understood how well-made the new One is when I held it in my hands. It’s not quite the stunning piece of angular art last year’s model was, but it’s a much more comfortable, accessible device. Its curved metal sides and softly rounded corners feel natural, where last year’s sharp angles and plastic sides felt so much more machined. The One is that wonderfully rare mix between the beauty of the old One and the unabashed utility of a phone like the Galaxy S4. It’s made to be looked at, to be ogled and admired, but it’s also made to be used. I’ve dropped it twice now, too, and the metal body doesn’t have so much as a scratch — though I know a few people who haven’t have such good luck.
+
+Even the cases are cool. I’ve only had a chance to play with the Lite Brite-like Dot View case for a few minutes, but I love the idea: it shows notifications, the time, and the weather through the many-holed case itself, and looks awesomely retro doing it. You can answer calls, or swipe away notifications without ever having to open your case. HTC’s design head Scott Croyle told me as many as 90 percent of people put a case on their phone, and while that seems like kind of a waste of the One, at least HTC made a case worthy of the device.
+
+I don’t care if it’s the standard size for a flagship Android phone, this phone is big. At 9.35 millimeters thick and 5.6 ounces, I feel it in my jeans pockets the way I never feel my iPhone or the Moto X. But HTC’s found small, subtle ways to make a huge phone not feel so unwieldy. The power button sits on top of the phone, as annoyingly unreachable as ever, but I can’t remember the last time I pressed it. Far more often, I’d just double-tap on the screen to turn it on. Or I’d swipe to the right on the blank screen, and open straight to BlinkFeed. If it's ringing, I just pick it up and it answers automatically. One swipe down opens HTC’s weird-but-effective voice dialing, and there’s even a slightly over-complicated motion to go straight to the camera. HTC took LG’s KnockOn feature and built on it, and it’s so useful I already miss it on other Android phones.
+
+HTC’s design and manufacturing abilities give it an appeal few can match — I’ll gladly accept the compromises of a huge phone to get one this striking. But HTC’s long been the bar for Android phone design, and it’s never been enough to take down Samsung and its massive feature list and marketing budget.
+
+(Note: don't miss our exclusive report on how HTC designed the new One.)
+
+Samsung doesn’t sell phones, it sells features. Its ads show people waving their hand over their phone to answer it, or tapping their Galaxy S4 to someone else’s to share a picture. It touts the camera and wireless charging, or it promises the translator app will totally get you laid.
+
+With the One, HTC apparently endeavored to find features it too can make commercials about. The most obvious candidate is BlinkFeed, a personalized newsreading app that lives one screen to the left of your home screen and presents a never-ending stream of things for you to read when you’ve got a minute or two to kill. It’s a useful app, though it’s really no different from a Flipboard home screen widget. The universal remote app is cooler, a great mix of simple controls and lots of hyper-visual ways to find things to watch, along with corresponding social feeds, scores, stats, and more.
+
+"HTC needs hit features as much as a hit phone"
+
+To the right of that BlinkFeed screen is HTC’s sixth version of Sense (which it’s calling "Sixth Sense," because of course it is), the word I once considered synonymous with hideous, pointless changes to Android. That’s no longer the case: yes, HTC has changed nearly every pixel of Android 4.4.2; and yes, I’d rather most of the icons and setting menus be left unchanged thankyouverymuch. But Sense 6 has a flat, friendly design that isn’t even necessarily worse than Google’s stock vision for Android – it’s just different. (There is a Google Play Edition model of the One coming, if you’re so inclined.) All you really need to do is swap the keyboard for SwiftKey or something, because the built-in HTC keyboard is horrendous.
+
+With Qualcomm’s brand-new Snapdragon 801 processor and 2GB of RAM inside, the One flies whether I’m playing games, watching movies, or furiously typing text messages. Even scrolling is smoother than I’m used to on just about any Android device. I’ve had exactly zero performance issues with the One — I can’t say that very often.
+
+And it lasts awhile, too. I get 30 hours without much effort, and I’ve gotten through two full days with only a little babying. In this case, "babying" really just means turning on Extreme Power Saver mode, which essentially disables everything but the phone, texting, and manual email refreshes, and in my experience can last an entire evening on only a few battery percentage points. You won’t want to use it often, but it’s a life-saver in a pinch.
+
+The One really only has one major flaw left, and it’s a big one: its camera is still pretty bad. It’s the same UltraPixel camera HTC debuted last year, which trades resolution for pixel size so as to collect more light at a time. The idea is certainly sound, but the execution was wrong then and it’s wrong now. And the changes it did make are either niche features or interface changes attempting to disguise the device’s basic shortcomings.
+
+There’s a new simple icon-based settings menu that lets you switch between Selfie mode, Camera mode, and HTC’s cool-but-pointless Zoe mode, which makes a sort of hacky animated GIF out of your photos. Manual settings like white balance and ISO are only one tap away, and there are filters and effects galore; there’s even a surprisingly powerful image editor, which let me either fix photos or do truly terrifying things to my own face.
+
+Most of its camera features are gimmicks, but the coolest one, the one we’re sure to see in a commercial before long, is UFocus. It uses the second lens on the back of the new One as a depth sensor, recording data alongside the image you shoot. Put together, they let you refocus your photos after you shoot them, Lytro-style, and even play with a slight 3D perspective shift. The effect isn’t perfect and requires some real staging, but it’s endlessly fun to refocus a shot in the gallery app.
+
+"HTC improved everything but the image quality"
+
+I love the One’s camera interface, I love what it lets me do with my photos. I just don’t like most of the photos I take. The UltraPixel sensor sees remarkably well in the dark, able to capture a usable picture in virtually any situation, but my praise for the One’s pictures rarely goes beyond "usable" in any situation. Photos are mushy and soft, as if nothing’s ever quite in focus. Even the 5-megapixel front-facing camera, the ultimate selfie machine, is better in a lot of situations. And it has higher resolution than the rear camera, which makes no sense to me. The new One does do far better than last year’s camera, which took almost hilariously bad photos in spots — color depth is particularly improved — but this is not a good camera. I’d rather use the iPhone 5S, any of a number of Nokia phones, or even the Galaxy S4 or Nexus 5. They don’t do as many wacky things (well, the S4 does), but they take good pictures. I’m in the business of taking good pictures.
+
+
+There are a lot of great Android phones on the market right now, but two stand out: the Nexus 5 and the new HTC One. The Nexus 5 is Google’s purest vision for Android, the One the platform's most mature and developed form. I desperately wish it took better pictures, and I’m reluctant to buy or recommend it until it does, but I like absolutely everything else. It’s fast, long-lasting, does everything a phone should, and does it all with totally unparalleled class and style. From motion gestures to the Dot View case, it has genuinely new, genuinely useful features.
+
+It may not outsell Samsung and the relentless marketing sure to follow the feature-rich Galaxy S5, but HTC executives say they don’t care. They say they just want to build a phone for people who like nice things.
+
+I can still remember sitting at a red light, revving the A4’s engine and just listening to the car purr. I felt powerful. Invincible. I don’t know if my smartphone can ever make me feel quite that way, but the One’s a full step closer than any other Android phone out there.
+
+I can't wait for next year's model.
+“It’s all in the little things.” It’s a common axiom in sports, in design, and in life. Inches make champions; big things have small beginnings; a small leak can sink a giant ship. It’s a tired cliché, but it’s true. It’s even true in smartphones. Apple’s greatest success isn’t the iPhone’s camera or its software or its battery life — it’s the scrolling and drawing animations, the obvious care put into even the smallest parts of the user experience. They’re things you might never even notice or name, but the small things add up to something important. Details matter.
+
+That’s never been Samsung’s strong suit. Samsung is big. It makes big phones with big screens with big ideas intended to push the boundaries of what a smartphone could or would or should ever do. But this year, Samsung’s trying something a little bit different. With the new Galaxy S5, the Korean company says it focused on the things that matter, not the gimmicky, overbearing features that have unfortunately become its calling card. It’s back to basics, back to what really makes a great smartphone.
+
+The result is on sale now, for $199 or $249 on virtually every major carrier. It’s a big phone made up of a lot of little things.
+
+
+A year ago, I wondered if HTC's gorgeous, metallic One would inspire or challenge Samsung to leave behind its cheap, plasticky ways and build a smartphone as beautiful as it is feature-rich. The Galaxy S5 is not that phone: it's every bit as utilitarian and function-first as its predecessors. It has a slightly larger display than last year's model, and the phone is thus slightly taller and wider, but it's still light (5.1 ounces) and thin (8.1 millimeters), and really feels no different than the S4 or any other phone this size.
+
+"Samsung's phones are still commodities, made to be sold but not loved"
+
+It's plastic everywhere you touch. It comes in black, white, gold, or blue, each with a ribbed chrome edge that sticks slightly above the front face of the phone. It's Samsung's best use of plastic ever, with a soft, stippled back that doesn't collect grease or shine the way the S4 does. It's far more pleasant both to look at and hold than the S4, or even the fake-leather Note 3. Samsung is slowly learning how to make premium plastic, though it could stand to learn a lot more from Nokia and Apple on the subject.
+
+The real feat was taking that thin, light, plastic shell and somehow making it waterproof. The S5 is rated IP 67, which means it can be submerged in up to a meter of water for up to 30 minutes. You can't use it underwater, of course — the touchscreen goes haywire when it's wet — but it means you can spill coffee on your phone (which I did), get caught in a rainstorm (check), or drop your phone in the urinal (twice), and it'll live to see another day. I've had one phone ruined by rain and another by a random beer spill, so it's nice to let my paranoia go for a change.
+
+But the S5 is still creaky and cheap. It doesn’t feel thoughtfully crafted the way the One or the iPhone 5S does. The carrier and manufacturer logos aren't integrated into the back's dimpled design, just slapped on like rectangular stickers. The capacitive keys next to the phone's home button bleed an ugly circle of white light. Every time the phone vibrates, its back rattles. These are small things, but they betray the fact that Samsung believes a phone that works is good enough, that it needn't be something we love or care about. That leaves me cold, underwhelmed — I can't imagine anyone walking into a store, picking up the S5 and the new One, and not immediately feeling the difference.
+
+Even in hardware, Samsung touts capability rather than quality. One of the S5's flagship features is its fingerprint sensor, which lets you unlock your phone and even pay for things with one swipe of your finger. It does work, as long as you hold the phone in two hands and oh-so-carefully swipe your finger down the exact center of the home button, at the perfect angle and speed. If you get it wrong, it falls back on a pointlessly complex alphanumeric password. It's impossible to do in one hand, and I could type the world's longest, most secure password in less time than it typically took me to get the sensor to work. Next to Samsung's implementation, Apple's TouchID suddenly feels easy and consistent. (It's not.) I'll never actually use the S5’s fingerprint security, and I can't imagine anyone else will either.
+
+"A great display makes everything better"
+
+Build quality may not matter to Samsung, but luckily display quality does, and it shows. The S5's 5.1-inch, 1080p AMOLED display is simply gorgeous. It's a little more intense and vibrant than the LCD screens I'm used to, but the effect is now much more subtle than on previous devices. The screen has near-perfect viewing angles, gorgeous color reproduction, and appears almost to be perched above the phone, games and movies leaping out toward me. Beautiful displays are non-negotiable in a great smartphone, and Samsung delivers.
+
+It's one of three things Samsung tells me it paid particular attention to this year. The second is battery life, and once again the Korean giant proves that it can do whatever it sets its mind to. The S5 never lasted me less than a full day (though I’m told connecting a Gear Fit can kill the battery fast), and unless I'm watching Netflix all day I can use the phone well into the next afternoon before I need to charge it again. Thanks to a fast quad-core processor and 2GB of RAM, the S5 is both powerful and long-lasting.
+
+Samsung Galaxy S5 sample pictures
+View full Gallery
+Previous
+
+The third thing, the last of the must-haves for the Galaxy S5, is the camera. And the S5's new 16-megapixel rear-facing camera is often very good: I took a lot of sharp, bright, detailed photos. (I also took too many of them at a 16:9 aspect ratio, different from every other camera ever made — take the megapixel hit and change that setting.) The camera has a tendency to slightly over-saturate colors, but rarely to anything more than a vaguely artistic effect. Samsung claims the S5's autofocus is faster than the S4’s, thanks to a second sensor that enables phase-detect focus, but it's still occasionally inconsistent and imperfect. It also touts a Lytro-like refocusing mode, but that almost never works and is hilariously basic when it does. The new Real Time HDR mode, on the other hand, is awesome: it makes it far easier to preview and shoot photos with a dark subject and bright background, and it saved a lot of shots for me.
+"The GS5 can take very good pictures, but it doesn't always deliver"
+
+Low light's a problem, though. Where HTC opted to use fewer but larger pixels, which leads to brighter but softer images, Samsung picked sharpness and darkness. That makes photos better in good light, but in dark situations the phone has to rely on its software processing. A good low-light shot on the S5 is a bit soft; a bad one is an impressionist painting. I've never had particularly high hopes for low-light photography on my smartphone, though, and most of the shots I took were at least usable. And I'll take Samsung's sharp outdoor shots over HTC's mushy ones any day, though the iPhone 5S still offers a far better mix of sharpness and versatility than either one.
+
+The camera used to be the most obvious canvas for Samsung's impulsive feature creep, but it's been scaled back a lot this year. Sort of, anyway: there are still dozens of options and filters, plus "Beauty Face" and all the fun dual-camera modes, they're all just a little better hidden. The new "Shot and More" mode lumps them all into one, telling you after your shot which you can apply. That's not a shooting mode, though, that's an editing tool, and it doesn't really make sense in the S5’s workflow.
+
+"There's still too much going on, it's just a little harder to find"Screenshot_2014-04-14-10-39-17
+
+This is a theme with the S5. Samsung says it refined its focus, but that's not really true: there are still too many features, too many options, too many weird ideas about how we want to use our phones. It's just all been tossed in a pile, thrown under a blanket, and swept into the corner where we hopefully won't notice. The S5's settings menu is 61 items long, and shows by default a grid of all-but-identical circular icons. Good luck with that.
+
+The notification pull-down menu has 20 different options, from Airplane Mode to Toolbox (which toggles a button that toggles a list of apps you might want to open, which is not to be confused with the multitasking view or the multi-window view or the app drawer). And for all the "simplification," there are still 27 options in the camera menu. Samsung's latest version of TouchWiz is layered on top of Android 4.4.2, and it's a lot more cohesive in appearance than before, but it's still little more than a junkyard full of 11 ways to do the same thing you’ll never ever want to do. Samsung says all the right things about cleaning up and simplifying the experience, but the S5 bears few of the fruits of those promises.
+
+The S5's built-in and pre-loaded apps are a similar mix: a number of useful, effective additions that are all too easily missed in the ocean of icons on the phone. S Health is in theory a good idea, a full-featured fitness app that lets you track everything from steps to calories. But it’s no more useful than, say, Fitbit, except that it integrates with Samsung's other devices like the Gear and Gear Fit, and with the heart-rate monitor that carves a divot out of the phone's backside. The monitor does work, but it's an odd feature to devote Samsung's time and attention to. The most fitness-conscious S5 buyers are likely to also buy a Gear Fit — which also has a heart-rate monitor — or a device like it, and Samsung would be better served by offloading these ancillary features onto companion devices. Most S5 buyers will never use the heart-rate monitor, so why make it such a central part of the device?
+
+
+
+It's back to basics, Samsung says about the Galaxy S5. Time to focus on what matters — displays, batteries, and cameras — and to start to let the rest go. That's the approach Samsung needed to take, but all it was was lip service.
+
+Make no mistake: this is a very good phone. And Samsung did nearly all the important things well. With a great screen, great battery life, and a good camera, the S5 leaves me with few reasons not to recommend it — and the waterproof body is a fantastic bonus. But I don't love anything about this device. It's not beautiful like the One, not polished like the iPhone, not full of cool new software like the Moto X. The S5 is a very good phone, but it leaves me wanting more. I want Samsung to care about design, to believe that its customers have good taste and that there's more to building brand loyalty than beating customers over the head with clever commercials. I want it to give me something, anything, that's both truly different and truly great. But that's not what Samsung does.
+
+I like the Galaxy S5. I do. Millions of people will buy it, and very few will have problems with it. Yet I can't help but hope that one day we all decide "good enough" isn't good enough anymore. That we demand devices that are different, interesting, special. Samsung's proved that it can do anything it sets its mind to — I can't wait to see what happens if it decides to really, truly care.

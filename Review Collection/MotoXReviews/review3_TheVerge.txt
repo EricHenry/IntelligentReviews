@@ -1,0 +1,130 @@
+It’s difficult and perhaps dangerous to make a big deal out of a smartphone these days. Can one phone change an industry? Save a company? Create a market? Perhaps that was true in the days just following the original iPhone, but times have most certainly changed. Smartphones are the norm now. No longer a novelty. Not a luxury. Just what everyone has, in some iterative, similar, necessary form.
+
+The Moto X, a new phone from the Google-owned Motorola is supposed to be a big deal. A new way of thinking about a smartphone. When it becomes available on all four major US carriers at the end of August or early September, for roughly $199 with a two-year contract, this device will be one of the first modern, mass-market consumer electronics to be assembled (though not exactly “made”) in the USA. It’s the first smartphone that you can customize and have hand-built in a variety of configurations and colors. And it’s the first smartphone that is supposed to represent what the new Google-Motorola union is capable of.
+
+But that’s all — mostly — unimportant unless the phone is any good. It can match your outfit, sure, but do you actually want it in the pocket of your jeans?
+
+Locally crafted
+
+The Moto X is a good-looking phone; it’s a good-feeling phone too. As far as raw materials and build quality go, it ranks among the best smartphones I’ve tested. The device is a solid — if somewhat anonymous — slab of space-age plastics, soft-touch surfaces, and crystal clear Corning glass. Unlike the iPhone or HTC One, there’s no metal here, but I didn’t exactly miss it, and in some ways the lack of dent-able material makes it seem more rugged. To be fair, I dropped the device on concrete and nicked a small bit of plastic out of one of the corners — but everything else seems fine.
+
+"Good-looking, and good-feeling"
+
+The Moto X is terrific to hold and use, too. It’s a meaty device, thin enough to compete with its contemporaries, yet dense. Fully packed. The size is just about perfect for my hands, and I was able to reach across the 4.7-inch display to the upper-left corner with little difficulty. The curved back feels right on. The button placement is not only sensible, but the buttons seem built to last: clicky, punctual, tough.
+
+So, surprise — or maybe not. The Moto X is fantastic from a purely hardware-facing perspective. It’s a beautifully made phone, with the unique advantage of being highly cosmetically customizable.
+Made in America
+
+One of the most intriguing aspects of the Moto X is that Motorola is taking great pains to see that the devices are hand-assembled at a plant in Fort Worth, Texas, as opposed to in an overseas shop such as Foxconn. (Apple is making a similar move with its yet-to-be-released Mac Pro.) Presumably, that adds cost and difficulty for Motorola, but as company SVP Rick Osterloh tells The Verge, "It’s just the right thing to do." Personally I can’t quite figure out if this is a political move aimed at scoring points with consumers, dinging competitors, or holding some kind of higher ground as a US economy-focused company, but it’s an exciting move nonetheless. Hopefully it’s more than just a novelty.
+
+"Hopefully 'Made in America' is more than just a political move"
+
+The phones aren’t wholly made in the States, but even an assembly line of smartphones simply being pieced together in America is notable. Motorola seems to have its heart in the right place, and if the phone is any kind of success, it could be incentive for other manufacturers to consider the US workforce. Of course, that’s still a big "if."
+
+Ht_moto_x_smartphone_colors_thg_130801_16x9_992__1_
+Build-a-phone
+
+I would tell you that the device comes in one of two colors — black or white — and that’s true on some carriers. But on AT&T at first and others soon after, it will come in many more thanks to hardware customization options Motorola is offering for the phone. You’re able to select among the many available combinations using an online tool called Moto Maker, and your order is sent to an assembly line in Texas where the phone is hand-built and shipped to you in four days. By allowing you to select the color for several components of the phone, Motorola gives you up to 252 possible combinations: more than enough to please even the most demanding aesthetes.
+
+In that Texas factory, 2,000 or so American workers will be putting together phones based on your exact specifications. You can choose how much storage you want, 16GB or 32GB. You choose a front face, either black or white, then pick one of 18 backs, with colors like red and yellow, but also teal and plum, and about four different shades of white. Next, choose an accent color from seven options — it colors the buttons on the phone, and the ring around the lens of the camera.
+
+The colors look cool. They look fresh — of the moment. By comparison, the white and black (and even more colorful phones like Nokia’s Lumia line) seem drab and predictable. The monochromatic options look especially behind the times now, like a beige PC. Come to think of it, even aluminum computers come off as depressingly retro when you consider Motorola’s proposition. If these devices are our always-there accessories, shouldn’t we have some say over how they look? Don’t answer. The answer is yes.
+
+"Customization won't make or break the Moto X's appeal"
+
+The Moto Maker tool is simple, clean, and clearly a Google product — it looks vaguely like a Google+ page. Once you pick your phone, you can choose accessories to go with it (including color-matched headphones from Sol Republic), choose a wallpaper, and sign in to your Google account. Then as soon as your phone shows up, it’s already personalized and ready to go. If you don’t like what you picked, send it back within two weeks and try something else.
+
+The success of this phone won’t hinge on a user’s ability to order a made-to-measure version, but it could compel certain buyers to at least consider the Moto X when they might have simply passed over a black model on a shelf. The real question is if Motorola (and by proxy its carrier partners) can message this properly to users. It needs to be out there in big, bold type. If consumers don’t know they can get something special, they simply won’t.
+Dsc_6496-300pxDsc_6487-300pxDsc_6476-300pxDsc_6478-300px
+
+Dsc_6670-hero
+
+The on-screen experience
+Dsc_6515-300pxDsc_6651-300pxDsc_6486-300px
+
+I know what you’re thinking: a 720p AMOLED display on a high-end Motorola phone? No thanks!
+
+I was thinking the same thing when I got this device in my hands. And no, it’s not the best display on a smartphone that I’ve used. But it is far — far — from the worst. In fact, it’s slightly above average (certainly compared to Motorola’s past efforts in this area), though not a best-in-class performer like the HTC One’s Super LCD display. Even next to a Galaxy S4 — a phone with a truly improved AMOLED display — the Moto X screen seems acceptable. I did notice some slight color banding across the screen when solid colors (particularly grays) were visible in large areas, and as with most displays using this technology, colors are over-saturated, especially reds and oranges.
+
+"Not the best screen, but far from the worst"
+
+As far as resolution is concerned, text and graphics look plenty smooth on a 4.7-inch 720p display, but if you look closely, there’s a hint of pixelation compared with 1080p devices. I had to study them side by side to make out the difference, as it’s incredibly slight (keep in mind, the PPI of this phone is nearly the same as the iPhone 5’s Retina display). I expected to be bothered by the step backward in pixel density, but it wasn’t an issue.
+
+I was more annoyed by the fact that, like the Google Play Edition Galaxy S4 and One, I needed to install a brightness control app called Lux to moderate dimming on this display. In an attempt to conserve every possible drop of battery life in these new phones, the system-software brightness control seems to be over-attenuated to the point of making the screen unreadable at times.
+
+As with most Motorola phones, the speakers on the Moto X are excellent. They’re loud enough to use in the car hands-free (that’s sans Bluetooth), and generally clear for speakerphone use and even a little YouTube or music playback. I did notice some mild distortion at higher levels, but overall their performance puts them in a favorable light, especially compared to the speakers on Samsung’s latest flagship phone.
+
+Dsc_6607-hero
+
+Always watching, always listening
+
+The first thing that you should know about the software on this phone is that it is thankfully, mercifully, for all intents and purposes "stock" Android. The current version on the phone is 4.2.2, and it doesn't differ in any major way from the Galaxy S4 or One Google Play Edition. That's a big deal when you consider there's never really been a clean Android offering like this for all of the major US carriers.
+
+But Motorola has added something to the mix here. The company is intensely focused on how we interact with our phone when it’s not right in front of us. The company has come up with a new paradigm called "Touchless Controls," which allows you to operate the phone in a fashion not wildly dissimilar from Google Glass.
+
+Essentially, there’s a way to put your Moto X into an "always listening" mode, which responds to you speaking the phrase "Okay Google Now." After a short setup where you train the phone to understand your voice (and your voice alone), you can spark it to life with that phrase whether it’s awake or asleep. Setup went very smoothly, though the phone did have issues understanding me unless I spoke in a very similar tone and cadence all three times, and remembered how I’d said it going forward. Once I figured that out, it was off to the races.
+
+"Don't forget the exact way you said 'Okay Google Now'"
+
+It worked quite well for nearly every task I could think of — making a note, sending a text, making a phone call, or simply searching Google. As with most voice recognition, it’s prone to mishearing you (especially in a noisy environment), but when at home or work in a quiet setting, it did fine.
+
+But there’s a catch. The touchless controls are rendered nearly useless if you have any kind of security lock on your phone. You can still use it to make calls, but everything else requires that you unlock your phone, which requires that you pick it up and interact with it… meaning you just defeated the whole idea of "touchless controls." If the voice recognition was as good and as personalized as Motorola would like it to be, this wouldn’t be an issue. But it’s an issue right now, and a bit of a bummer if you care at all about your phone’s security (and let’s face it, you should).
+
+Dsc_6708-hero
+Active Notifications
+
+Another major addition to Android with the Moto X is a set of features Motorola calls "Active Notifications." It’s essentially a lock-screen replacement that alerts you to incoming messages, emails, or just about anything else with an icon and clock flashing in the center of the screen. Because the display of the Moto X is AMOLED, it can light only the portion of the screen it needs for these notifications, which make them low power (and low annoyance in darker rooms).
+
+Tap on a notification to see a preview of its contents, and swipe upward to unlock the phone directly into that application. If several notifications come in, it will collect them as icons and let you preview the most recent one.
+
+"Active Notifications are exactly what notifications should be"
+
+It took a little while to get used to how this concept works, but once I "got" the expected behavior, it was wildly useful. I like to know when I get an email so I have a notification sound every time one comes in — but they’re not all of equal value. Being able to preview the information before unlocking the phone has definitely saved me time.
+
+Still, Motorola can take this further. Right now, there’s no way to cycle through your notifications, so you can only take action on the most recent one. Having some gestural way to flip through your separate notifications — or at least types of notifications — would be really handy. But even in its present state it’s a welcome change from having to unlock the device and pull down the notification shade just to see who’s pinging.
+Screenshot_2013-08-05-09-48-45-300px
+Motorola Assist / Driving
+
+The Moto X’s most intriguing and maybe revelatory features reside in an application simply labeled "Assist." WIthin the app a suite of settings allow you to customize your phone for various scenarios — sort of like Apple’s "Do Not Disturb" on steroids. In a car.
+
+Assist does add a feature almost identical to "Do Not Disturb," which silences your phone for all but the most important callers at certain hours. It’s not unlike Motorola’s old Smart Actions app, which also let you set up macros to open Rdio when you plugged in your headphones, or turn on Bluetooth when you got home. Assist does fewer things better. It lets you quiet your phone when you have meetings scheduled (using your calendar as a guide), and one other option which took me by surprise — and kind of took my breath away.
+
+"Motorola Assist is enough by itself to make me want a Moto X"
+
+Assist senses when you’ve begun driving in your car, and immediately switches into an almost conversational, hands-free experience. I took a trip and forgot all about the feature, only to be shocked and pleasantly surprised when my phone told me I had an incoming message from my wife. Then the phone read me the message, as if I was having a conversation with an assistant — or, you know, Siri. More impressively, a moment later a call came through, and the phone asked if I’d like to answer. Of course I would, you beautiful machine. All of this would have been incredibly distracting and dangerous if I had to look at my phone, but here it was, painless.
+
+That was the moment with the Moto X when I started to seriously consider the phone. I’m not sure what impressed me more: the ease of this function, or the fact that I didn’t have to think about where I was and what mode I was in.
+Screenshot_2013-08-05-09-48-35-300px
+
+Dsc_6576-hero
+
+Point, and shoot
+
+I don’t understand the Moto X camera. It’s great, but it’s also terrible. The 10-megapixel rear camera is capable of snapping gorgeous pictures with fantastic bokeh. Thanks to a "clear pixel" that Motorola says lets in 75 percent more light, it’s good in dark situations too. Very good. Yet somehow the Moto X’s post-processing is so aggressive and so ubiquitous that it ruins as many shots as it saves. There’s terrible artifacting and noise even in well-lit photos — like you cranked the JPEG settings way down. I’ll take a noisy photo over a blurry photo any day, which is basically the same decision Motorola made here, but sometimes the phone goes overboard trying to improve your photos. Way overboard.
+
+Img_20130801_215000890-555px
+
+Motorola keeps getting the user interface right, though. Apparently the company found that most people never dig into the camera settings, so the app basically removes all of them. Just tap anywhere on the screen, and it automatically exposes, focuses, and shoots. It’s a bit annoying sometimes, because there’s no way to focus before you actually take the picture. I got a lot of bad shots this way, especially when I took a picture of someone with a bright background. But I got a lot of good, fast shots this way too. Shots I would have missed otherwise.
+"TOO OFTEN, THE CAMERA IS HIT, THEN MISS"
+
+Getting to the camera app is fast, too. The company has added a gesture to pop open your camera, which actually proved to be faster and more useful than just about any other "quick" camera option I’ve tested. Just twist the phone three times — right, right, right, sort of like shaking a drink — and no matter what you’re doing, or even if the screen is off, it jumps straight to the camera. It’s not a perfect gesture, and it’s not always easy to do right, but even when I had to do it a couple of times it was faster than turning the phone on, unlocking it, and finding the camera app icon.
+
+Dsc_6635-hero
+
+Redefining mid-range
+
+Motorola made the Moto X with mid-range specs, and isn’t at all ashamed of it. It shouldn’t be: the phone is fast and smooth. It’s more than sufficient for everyday use. I played games, watched movies, made calls; everything worked better than fine. The Epic Citadel demo ran at a near-constant 60 FPS with the highest graphics settings on. It’s not as fast as the GS4, but I only noticed the difference when I looked at them side by side. For now, our phone hardware is clearly more capable than it needs to be; mid-range seems to be just fine in this case.
+
+Mid-range is also supposed to help with battery life. Motorola could have built a monster of longevity like the RAZR Maxx — and it should have — but it didn’t. It definitely gets a full day of use: I used it heavily for 15 hours before it died, and if you use it like most people use their phones, you won’t need to charge it during the day. It lasted for 7 hours, 14 minutes on the Verge Battery Test, which loads popular websites and high-res images with brightness at 65 percent; that’s a very good score, far better than the HTC One and the GS4, but well below class leaders like the Maxx or the Galaxy Note II.
+I’m going to level with you: I was pretty underwhelmed by the Moto X based on what I heard and saw at the company’s product announcement. Even my first few hours with the phone left me scratching my head, wondering why I would want this device when wonderful, higher-end, stock devices like the One and S4 Google Play Editions were available. And frankly, I was wondering why anyone would want the device considering the relatively strong options out there if you’re in the market for a $199 Android phone right now.
+
+But once I used the phone heavily, I started to come around to the Moto X in a way I hadn’t expected. The additions to the software that Motorola has made are legitimately useful and really quite impressive. They add to the experience of Android without removing what is most vital in Google’s software, unlike the competition, which seems intent on obscuring what’s already a sophisticated and beautiful operating system. If Motorola ends up producing a Google Play Edition of this phone that retains the customizable hardware and software additions like Assist and Active Notifications — this could be as good an option as the S4 or One.
+
+And the phone is nice. I mean, really nice to use. It’s a reminder that the way something is built can be as important as what it’s made of.
+
+Combined with the ability to get a truly unique, customized device that’s as compelling as anything I’ve recently tested — one assembled in America — it begins to look like an awfully good option.
+
+The Moto X is not a perfect phone, but neither is any other phone on the market right now. What it is, however, is a pretty damn good phone — and one I can recommend.
+
+But good luck trying to pick a color.
+
