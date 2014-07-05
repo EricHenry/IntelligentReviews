@@ -26,5 +26,18 @@ namespace IRController
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ReviewCleaner tester = new ReviewCleaner();
+            tester.cleanReviews();
+
+        }
+
+        private void startCleaning_Click(object sender, EventArgs e)
+        {
+            ReviewCleaner tester = new ReviewCleaner();
+            tester.cleanReviews();
+        }
     }
 }
