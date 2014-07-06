@@ -9,7 +9,7 @@ namespace IRController
 {
     public class ReviewCleaner
     {
-        private static String[] wordFilter = {"a", "then", "that", "when", "of", "the", "and", "there", "where", "what", 
+        private static string[] wordFilter = {"a", "then", "that", "when", "of", "the", "and", "there", "where", "what", 
 											"or", " ", "\n", " to", "from", "your", "not", "get", "you", "this", "", 
 											"it", "to", "is", "in", "as", "for", "its", "but", "on", "than", "at", "an",
 											"i", "my", "if", "with", "can", "Samsung", "s5", "S5", "Galaxy", "galaxy", "more", 
@@ -18,8 +18,10 @@ namespace IRController
 											 "look", "so", "were", "any", "we", "which", "are", "iOS", "all", "Apple", "now", "have",
 											 "Moto", "X", "Moto X", "MotoX", "Droid", "Motorola", "Motorolas", "S4", "Jelly", "Bean",
 											 "Android", "Xs", "youll", "out", "Nexus", "5", "KitKat", "Google", "GS4", "Now", "Microsoft", "Microsofts", 
-											 "Nokia", "Lumia", "1520", "Windows", "by"};
+											 "Nokia", "Lumia", "1520", "Windows", "by", "has", "", " "};
 
+        private static string[] punctuationFilter = { "(", ")", ",", "\"", "&", "^", "", "?", "!", ".", "", };
+        
         private int wordCount;
         private StreamReader inputReview;
         private List<string> sentenceList;
@@ -58,8 +60,8 @@ namespace IRController
         }
 
         /**
-         * TODO -> comment
-         * 
+         * place all sentences in a file into a list
+         * each node in that list will be one sentence
          */
         public List<string> getSentences(StreamReader review)
         {
@@ -74,11 +76,12 @@ namespace IRController
                 {
                     //multiple sentences can be in a line, split each one
                     string[] splitSentences = Regex.Split(line, @"(?<=[\.!\?])\s");
-                    Console.WriteLine("ADD SENTENCE");
+                   
                     //store each senetence in a list
                     foreach (string sentence in splitSentences)
                     {
-                        Console.WriteLine(sentence);
+                        //sentence.Replace
+                     // Console.WriteLine(sentence);
                         list.Add(sentence);
                     }
                 }
@@ -106,16 +109,20 @@ namespace IRController
                 //for each word in current sentence
                 for (int i = 0; i < wordCollection.Length; i++)
                 {
-                    string currentWord = wordCollection[i];
+                    string currentWord = wordCollection[i];           
+
                     //check if the current word should be filtered.
                     if (keepWord(currentWord))
                     {
+                        currentWord = clearPunctuation(currentWord);
+     
                         //check to see if at the last word of sentence
                         if (i != (wordCollection.Length - 1))
                             currentWord += ", ";
 
                         //add each word into a sentence
-                        commaSeparatedSentence += currentWord;
+                        if (!currentWord.Equals(" ,", StringComparison.OrdinalIgnoreCase))
+                            commaSeparatedSentence += currentWord;
                     }
 
                 }
@@ -144,6 +151,29 @@ namespace IRController
             }
 
             return true;
+        }
+
+        /**
+         * Remove punctuation from the word.
+         */
+        private string clearPunctuation(string toBeCleaned)
+        {
+            //checks to see if the current word contains a hyphen or a forward slash
+            //replaces them with a space character
+            if (toBeCleaned.Contains("-"))
+                return toBeCleaned = toBeCleaned.Replace("-", ", ");
+
+            if (toBeCleaned.Contains("/"))
+                return toBeCleaned = toBeCleaned.Replace("/", ", ");
+
+            //checks if the current word does not contain a period followed by a number. 
+            //for cases ex:"4.4.2"
+            if (!toBeCleaned.Contains(@"(?<=\.)\d\b"))
+            {
+                toBeCleaned = Regex.Replace(toBeCleaned, @"[^\w\s]", "");
+            }
+
+            return toBeCleaned;
         }
 
     }
