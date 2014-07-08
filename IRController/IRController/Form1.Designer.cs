@@ -83,6 +83,7 @@
             this.button2.TabIndex = 4;
             this.button2.Text = "...";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // textBox2
             // 
@@ -90,6 +91,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(137, 20);
             this.textBox2.TabIndex = 3;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // startCleaning
             // 
@@ -99,6 +101,7 @@
             this.startCleaning.TabIndex = 6;
             this.startCleaning.Text = "Clean Review";
             this.startCleaning.UseVisualStyleBackColor = true;
+            this.startCleaning.Click += new System.EventHandler(this.startCleaning_Click_1);
             // 
             // reviewCleaningBox
             // 

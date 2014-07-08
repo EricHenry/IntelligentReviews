@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text.RegularExpressions;
+using System.Windows.Forms;
+
 /// <summary>
 /// Summary description for Class1
 /// </summary>
@@ -39,24 +41,32 @@ namespace IRController
          * Controller method envokes other methods to clean reviews
          */
         //public void cleanReviews(string inputFile, string outputFile)
-        public void cleanReviews()
+        public void cleanReviews(String input, String output)
         {
             // get text file
-            inputReview = new StreamReader(@"C:\Users\Eric Henry\Documents\GitHub\IntelligentReviews\IRController\IRController\resources\Review Collection\5S_reviews\review2_TheVerge.txt");
+            try
+            {
+                inputReview = new StreamReader(@input);
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Invalid Input File");
+            }
 
-            Console.WriteLine("got review");
-
+            //maniplulate data
             sentenceList = getSentences(inputReview);
-
-            Console.WriteLine("got sentence list");
-
             cleanedSentenceList = convertToCommaSeparated(sentenceList);
 
-            Console.WriteLine("got cleaned list");
-
-            System.IO.File.WriteAllLines(@"C:\Users\Eric Henry\Documents\GitHub\IntelligentReviews\IRController\IRController\resources\CleanTester.basket", cleanedSentenceList);
-
-            Console.WriteLine("write to file");
+            //write to new file
+            try
+            {
+                System.IO.File.WriteAllLines(@output, cleanedSentenceList);
+            }
+            catch(Exception e)
+            {
+                MessageBox.Show("Could Not Save");
+            }
+            MessageBox.Show("Review converted to CSV!");
         }
 
         /**
