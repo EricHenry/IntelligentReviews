@@ -125,14 +125,18 @@ namespace IRController
                     if (keepWord(currentWord))
                     {
                         currentWord = clearPunctuation(currentWord);
-     
+                        
                         //check to see if at the last word of sentence
                         if (i != (wordCollection.Length - 1))
                             currentWord += ", ";
 
+                        //Console.WriteLine(currentWord);
+
                         //add each word into a sentence
-                        if (!currentWord.Equals(" ,", StringComparison.OrdinalIgnoreCase))
+                        if (!currentWord.Equals(", ", StringComparison.OrdinalIgnoreCase))
                             commaSeparatedSentence += currentWord;
+
+                        Console.WriteLine(currentWord);
                     }
 
                 }

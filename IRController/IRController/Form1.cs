@@ -71,7 +71,7 @@ namespace IRController
             saveFileDialog1.InitialDirectory = Convert.ToString(Environment.SpecialFolder.MyDocuments);
             
             // Set filter options and filter index.
-            saveFileDialog1.Filter = "Basket Files(*.basket)|*.ext|All Files (*.*)|*.*";
+            saveFileDialog1.Filter = "Basket Files(*.basket)|*.basket|All Files (*.*)|*.*";
             saveFileDialog1.FilterIndex = 1;
 
             // Call the ShowDialog method to show the dialog box.
