@@ -12,9 +12,14 @@ namespace IRController
 {
     public partial class Form1 : Form
     {
+        //flags to see if a file was chosen to clean
+        //  and a location to save
         private bool input = false, 
                     output = false;
+
         private ReviewCleaner tester;
+
+        //Paths to file locations
         private string inputFileName;
         private string outputFileName;
   
@@ -92,12 +97,11 @@ namespace IRController
             //Check to see if there is a file to open and a file name to save results.
             if (input && output)
             {
-  
                 tester.cleanReviews(inputFileName, outputFileName);
-
             }
             else
             {
+                //give a correct message depending on what the user has done
                 if (!(input && output))
                 {
                     MessageBox.Show("Please enter in a Review and a location to save to");
