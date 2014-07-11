@@ -2,8 +2,6 @@ The Samsung Galaxy S5 can be defined by one word: evolution.
 The camera has evolved to give clearer, faster snaps. The fitness-tracking abilities of the S5 are enhanced over the Galaxy S4 by packing in a more powerful S Health app and a dedicated heart rate monitor on the rear. A fingerprint scanner adds to the most secure Galaxy phone ever made.
 The battery is larger, the screen bigger and brighter, the processor quicker and the design altered.
 The spec sheet certainly doesn't let it down: a 2.5GHz quad-core CPU, 2GB of RAM, a 2800mAh (removable) battery, 16/32GB of memory (with up to 128GB extra through microSD), one of the world's most vibrant screens that's been extended to 5.1-inches and added biometrics.
-Samsung Galaxy S5 review
-Mud still penetrated the casing
 However, it's hard to point to one stand out feature that will grab the prospective user when they handle the Galaxy S5 for the first time.
 To many, that won't matter, as Samsung's built a fan-base that only Apple can rival, and a number will be picking up the new Galaxy without a second thought over whether it competes adequately with its rivals.
 Price-wise, if you're shocked by the cost of the Samsung Galaxy S5 then you've not really been paying attention to the previous flagship models. It's actually a little cheaper than previous years, coming in at around $650.
@@ -11,59 +9,41 @@ As you can imagine contract offers are flying all over the place at the moment, 
 The messaging around the launch of the Galaxy S5 was that Samsung had listened to the consumers and dialed down the gimmicks, focusing instead on what makes a phone special to the consumer.
 It promised a "fashionable" and "glam" design, a camera that works in the way you'd want it to and strength through being water resistant.
 So let's look at one of the key questions that Samsung needed to answer with the Galaxy S5: Is it good enough in a market that's becoming saturated with decent high-end handsets?
-Samsung Galaxy S5 review
 The simple answer, from the second you hold it in the hand, is no: The design simply isn't up to the same level as the likes of Apple and HTC. That's only a small part of the story though, and underneath the hood Samsung has continued its play of stuffing all the latest specs in and optimizing them in a way that doesn't suck down oodles of battery.
 Is this phone good enough to keep Samsung fighting with Apple at the top of the sales charts? Yes, but that's mostly through the impressive marketing machine that rolls out in every territory. Samsung needs this to be the last phone that rolls with such design language - the Galaxy S6 needs to be the dawn of a new age for the South Korean company, something to give consumers real lust for the way it looks.
 Critically, it feels like there's very little to shout about with the Galaxy S5 – but perhaps that's no bad thing for a brand that was accused of bringing pointless innovation with last year's model.
-
-Design
-
 I've always played it safe when talking about the design of a Samsung phone. The Galaxy S2, the brand's first big hitter, was made mostly of plastic and still was one of our very few five star phones, after all.
 That said, year after year, Samsung has failed to bring out something that wows where the rest of the competition has seen this as a key battleground.
 HTC is the frontrunner here with the metal unibody design of the One M8, and Apple has maintained its position at the sharp end of design ever since the launch of the iPhone 4.
-Samsung Galaxy S5 review
-Happy as a phone in mud
 Sony's efforts with its Z range have culminated in the industrially designed Xperia Z2, and even Nokia has been toying with aluminum to make things feel a little more premium.
 All of this makes me curious: Why is Samsung refusing to give the consumers what they want…namely, a metal chassis?
-Samsung Galaxy S5 review
-It's plastic, not metal
 There are a few possible reasons: cost of manufacture could be too high, especially at the volume Samsung spits them out at; Samsung likes to keep things lighter; waterproofing with a metal shell could have been trickier.
 However, none of these arguments really holds water, given Apple does the same with a metallic phone, balanced handsets are better than lighter ones and Sony's Xperia Z range has combined metal and water without a problem.
-Samsung Galaxy S5 review
-A bright and clear screen
 The Samsung Galaxy S5 is a more solid phone than the Galaxy S4, that's for sure, and looks more well-packaged thanks to the wider back and the grippier, pock-marked battery cover.
 However, it doesn't look like a cutting edge smartphone. It seems more akin to the product of a Galaxy Note 3 and the S4, with the metal-effect band around the outside subconsciously making me search for an S Pen.
 The rear of the phone isn't something that wows either. While I think the comparisons to a sticking plaster are a little cruel, it does share a more "medical" feel, especially in the white color.
-Samsung Galaxy S5 review
-Gold, white, black and blue
 The blue and copper options are more attractive, but still don't have anywhere near the appeal of the likes of the HTC One M8.
-Samsung Galaxy S5 review
 White is particularly uninspiring, looking quite medical
 With the larger screen on board, Samsung's still managed to keep things well in proportion. Although the chassis is larger, it's not unmanageably so, although if you're coming from an iPhone, you might find it a little tricky to move up.
 Those that have previously been fans of the Samsung Galaxy range before will find a lot to like here though. The home button – which now houses the fingerprint scanner, remember – is solid and easy to press, and the power key remains on the right-hand side of the phone, raised slightly and very easy to hit.
-Samsung Galaxy S5 review
 The screen is clear even in daylight
 The same can be said of the volume key on the right, although as the handset has increased in height I found it a little harder to get to this area when I wanted to change the level on music when walking along.
 One of the key changes to the Galaxy S5 is the fact that it's now water-resistant, with IP67 rating meaning you can dunk it in water for a short while, although going swimming with it isn't advised.
 It's also dust resistant too, which makes the uncovered headphone port all the more impressive as it makes the S5 much easier to use without having to pull open a flap to listen to some tunes.
-Samsung Galaxy S5 review
 The water and dust cover is tricky to open
 The USB 3.0 connection – which will look odd to some, but is the same used in the Galaxy Note 3 to give more power quickly while still allowing standard microUSB cables to be used – is covered to facilitate this IP rating, and it's a little stiff to get off.
 The groove to get your nail in to open it is quite small, and might be the only thing that irks those looking to get their hands on the best Galaxy phone and don't care much about it being waterproof.
 The capacitive buttons still flank the home key as before, but are slightly different now. Gone is the menu key, replaced by the multi-tasking button that seems to be Google's new favorite in Android 4.4.
-Samsung Galaxy S5 review
 The capacitive buttons have been tweaked
 You can still use this as the menu key with a long press, but it doesn't work intuitively and the distance from the right-hand side, where the right-handed will predominantly have their digits, is a little too far.
 It's not a bad system though, and the presence of a physical home button, while less necessary than before, still provides welcome tactility.
 The other big design win Samsung still maintains with the Galaxy S5 is a removable battery. This is mostly for peace of mind nowadays, given that the battery life is so good on the S5, but if you're worried about failure then this is a good option.
 It also means the ugly FCC regulation stamp can be hidden from view, and you won't need a SIM tool to get your card out – plus it's easier to pop in a microSD card too.
-Samsung Galaxy S5 review
 Muddy water still got in under the cover, but not into the port
 The cover does give me slight cause for concern when you consider it from a water-resistant point of view, as it can be hard to make sure all the clips are securely fastened when snapping it back on.
 A warning message does come up on the screen to remind you of this, but it can take a couple of passes to make sure it's completely fixed on.
 If you look under the battery cover, you'll see that the battery is protected by a tight ring of rubber - if you've just dunked it in water, it's a little disconcerting to see how much fluid is in the phone already...but this seems to be fine.
 I did worryingly notice some grit got into the home key, but after an hour or two it seemed to dislodge itself, although it doesn't make me think this phone is really that dustproof.
-Samsung Galaxy S5 review
 Put it on stones, drizzle it in water. It'll be fine.
 Overall, the design of the Samsung Galaxy S5 is likely to be the area that receives the most criticism, and for good reason.
 It doesn't command a premium feel in the hand like so many other high-end phones on the market, and while some will point to how strong and high-quality the polycarbonate used is, it still pales in comparison to the competition.

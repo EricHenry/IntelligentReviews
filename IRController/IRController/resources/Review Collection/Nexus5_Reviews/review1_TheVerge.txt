@@ -1,104 +1,39 @@
 In this review of the Nexus 5, I will attempt to answer one simple question: is Google capable of making a flagship, best-in-class smartphone it can sell for $349 off-contract? And I don't just mean a nice, okay, swell, good, decent, better-than-the-last-one phone. I mean a phone that stacks up against the iPhone 5S, Galaxy S4, HTC One, or Lumia 1020. A phone that people want to buy. A phone that can win hearts and minds.
-
 I'm asking this question because I believe Google is asking the same one. The Nexus line of phones may have just started as developer editions, or platforms for the latest version of Android, but unless Google's marketing department and PR team are reading from different sheet music, it seems like Google wants its Nexus phones to be the kind of consumer facing devices that its Nexus 7 tablet clearly is.
-
 And why shouldn't it be? The Nexus 5 is stacked in the hardware department, touts a handful of future-facing improvements, and most importantly runs the latest version of Android — a visual and functional upgrade called KitKat (or 4.4, if you love numbers). It's a big deal.
-
 Google clearly wants you to see the Nexus 5 as the ultimate Android device. Hell, that’s what they’ll tell you if you ask them. This is supposed to be the best the platform can offer. The best hardware combined with the best software. But is it?
-
-Design within reach
-
 For all the focus put on a new Google phone, the Nexus 5 doesn't look like much. It's not a giant slab like the Galaxy Note 3, a sculpted piece of art like the Lumia 920, or a precious piece of "jewelry" like the iPhone 5S. It's an unassuming rectangle of a thing, available in black or white. At 5.42 inches tall and 2.7 inches wide, it's a big phone, and feels like a noticeable bump up from the Moto X or the iPhone. In some ways it’s a bit boring — especially next to the customizations offered by Motorola or the neon colors of the iPhone 5C. Plain isn't necessarily a problem — it can even be a strength, and I think it is here given what Google is trying to do. But still, the Nexus 5 is plain.
-
 The phone is shaped to feel smaller than it looks, with subtly curved edges and slightly sharpened corners that nestle perfectly into the palm of your hand. It's surprisingly light, at only 130 grams and 8.6 millimeters thick. It's made completely of plastic, and obviously doesn't feel as high-end as metal phones like the HTC One or iPhone 5S — but it’s solid, not slippery. I found myself running my fingers along the carved Nexus logo on the back, and feeling the edges of the ceramic buttons — it’s just nice to hold. Stylistically, it shares much in common with the new Nexus 7 and the original Chromebook, and that’s a good thing.
-
 The phone's a spiritual successor to LG's G2, but it's been improved in almost every way. The buttons are thankfully on the sides of the device, though the power control can sometimes feel like a stretch along the upper right corner of the phone. Two speaker grilles flank the recessed Micro USB port, but only one is an actual speaker; the other hides the Nexus 5's microphone. Left to fend for itself, the speaker is pretty quiet, and sometimes distorts at near-maximum volume.
 "The Nexus 5 is mostly just supposed to get out of the way"
-
 It makes only two bold, eye-catching design statements. One is the large ring around the camera lens, which glints in the light and feels almost jarring next to the subtlety of the rest of the phone; it sort of looks like a spare part, attached at the last minute. Friends I discussed the feature with either hated it or loved it; I kind of like it. On the white version of the phone, the earpiece grille is colored white, which is striking against the black, glass face of the phone — it’s like a beacon. Speaking of beacons, Google has once again produced another device with a multicolored LED light embedded at the bottom of the screen, but I couldn’t tell you why that is. The light only flashes white when you have a notification, meaning it’s always flashing, so it’s always meaningless. I use an app called LightFlow, which allows you to set different colored notifications for specific apps, and it makes the LED about a million times more useful. Unfortunately, I’ve grown to love the Moto X’s Active Notifications, and the LED still makes a poor substitute. But I digress.
-
 Being flashy or ostentatious was never Google's goal with the Nexus phones. The point is to let the hardware get out of the way so the software can do its thing. Android is the statement here, not the Nexus 5. That's why its 4.95-inch, 1080p screen is such a key tenet of the phone's appeal, and it more than gets the job done. It's not oversaturated like the Moto X's AMOLED display, though it can look a bit washed out and desaturated next to a device like the HTC One or the iPhone 5S. But those are relatively minor nitpicks. The screen overall is bright, beautiful, crisp, and accurate. At 445 pixels per inch, it's a fantastic device for reading, working, browsing the web, or watching movies — a perfect window into Android.
-
 Before this phone was even announced, leaked photos and information about the Nexus 5 made the camera a point of gossip and controversy. It's no secret that Android phones have a rough record with quality shooters (especially in comparison to the efforts of Apple and Nokia), and Google and LG's previous work on the Nexus 4 didn't leave a great taste in anyone's mouth. Rumors swirled that the Nexus 5 was going to be different.
-
 The truth is, it's a lot more of the same, at least right now. In a word: disappointing.
-
-Next
-
 The 8-megapixel camera on the back of the Nexus 5 is certainly capable of taking rather beautiful photos in the perfect setting. Unfortunately for us, life is not filled with perfect settings — and when you're faced with real-world picture taking, the camera underperforms constantly and consistently. The Nexus 5 takes photos and video with too little contrast, too little saturation, and too little color (or inconsistent color) — when you can get the camera to focus at all. Low light performance isn’t exactly poor, but getting it to snap the picture you want at the moment you want will drive you absolutely nuts. The camera app can be absurdly slow to focus and even slow to launch in the first place, which makes the Nexus 5 as a camera an exercise in frustration. It instills no confidence — and after a while I simply expected the phone to produce bad results. Side by side with almost any other flagship phone, its camera doesn’t hold up.
-
 Let me just reiterate this point: in the right light, with a steady hand and no moving (or slow-moving) subjects, the camera can take excellent photos. It’s actually really upsetting because it suggests the Nexus 5 is capable of so much more — particularly with macro shots. But, in situations where those three factors are not in play, you will struggle to take a good photo. That means that by the time the lazy autofocus captures your scene, your kid will have stopped making that face, your friends will have thrown back their Jäger shots, or your pet will no longer be doing whatever hilarious thing it was doing.
-"A "good enough" camera isn't good enough"
-
 I also don't agree (as some will argue) that a "good enough" camera is acceptable for Google's flagship smartphone, and I don't think the company feels that way either. Yes, the price point is low on this phone, but not low compared with on-contract phones (which the majority of consumers purchase), and nothing else about the Nexus 5 feels cheap. Google intends for this phone to be pitted against the best that Apple has to offer, and I doubt anyone at the company would tell you they’re pleased that the camera doesn’t stand out.
-
 There is a glimmer of hope, however. Representatives from the Android team say that software is to blame for the weak performance, not hardware, and reps tell me that a fix is coming to deal with the issues in the upcoming weeks. I've even seen an early build of the new software, and while it's only a minor improvement — autofocus is a hair faster, but still inconsistent, and picture quality hasn't changed — it's nice to see Google already at work.
-
 Of course, there's no set date for a fix at this point, and I don't know how much the camera can actually be improved through software, but if the Moto X is any kind of example, there might just be a solution to this very disheartening problem.
-
 Update: Google has issued a significant update to the camera software bundle of the Nexus 5 in the form of Android 4.4.1. The update improves upon many of the issues cited in this review, most significantly the camera's ability to focus on subjects consistently and reliably in a variety of lighting and environment settings. To read more about the changes, see our detailed review here.
-
-The crunchy core
-
 The design of the hardware is clean if simplistic, but that's probably okay for Google. The main focus of the Nexus devices has never been about hardware prowess — it's about finding the appropriate package for showcasing software innovation. And that's definitely true here, because the Nexus 5 is all about the latest version of Android — KitKat.
-
 It may just be a point update, but Android 4.4 is a significant change from the previous version of the software — with big tweaks both user-facing and under the hood.
-
 Google is moving away from the "holo" or more Tron-like elements we first saw in Honeycomb (3.0), and what's new actually seems to have more in common with recent efforts from HTC on the One than it does with previous versions of stock Android. If the old Android was a "night" theme, this is definitely "daytime." White is everywhere, from the backgrounds of folders to the pattern unlock grid. Things have been lightened, tightened, and flattened in all the right places, making this latest incarnation of the ever-evolving software feel very fresh.
 "If the old Android was a night theme, KitKat is definitely daytime"
-
 Some of the aesthetic changes in KitKat seem to be focused on getting user interface elements out of the way — for instance, the status bar up the top is now translucent, allowing apps or pictures to take up every single one of the Nexus 5’s pixels. Google is also employing a tighter, condensed version of its Roboto font on the home screen and in other areas around the OS, giving KitKat a more modern, sleek feel from a typographic perspective. Icons and other symbols seem starker, cleaner, and larger in the new operating system — but nothing is painfully flat here.
-
 Google search is all over KitKat — and some users may take a moment to adjust to how much that changes the OS. Google Now is a left-swipe away from your main home screen, accessible very much like HTC's BlinkFeed. That means people who've been using that left space for icons and widgets will have to rethink their home screen strategy. Google voice search is also now deeply integrated into KitKat; you need only utter "okay Google" to start searching. This is akin to the Moto X's implementation of an "always listening" mode, but it's only listening while you're in the launcher of the phone, so it's not nearly as useful (or invasive, some might argue). You can also now search keywords from within the phone dialer, which is a bit like having Google Maps business info integrated perfectly into the app. On that note, the dialer has actually been completely redesigned, but Google needs to wrangle the UI in that particular piece of the puzzle as it's now relatively confusing to use.
-
-
 Elsewhere in KitKat, there’s a new unified file picker, letting you attach files from Dropbox, Drive, Box, and more all in the same place, and (finally) a unified way to print from your phone. The widget drawer has been axed and combined with a contextual menu where you can also select wallpaper and open general Google settings — all of which are improvements. That means your main phone navigation is split between home screen, app drawer, and notifications — which are increasingly robust. In all, Android is tighter, simpler, and more unified everywhere; the general UI hasn’t changed dramatically, but the visual tweaks and functional additions continue Android down a very smart path.
-
-
 If there's a major shift in the software beyond interface cleanup and additional under-the-hood improvements, it might be the new version of Hangouts. The messaging app now fully integrates SMS and MMS, and replaces the "Messages" app from previous versions of the software. You can now send texts, instant messages, voice calls, and video calls all from the same place, giving it a feel much more akin to iMessage. It's a fantastic idea on paper, but a really clunky execution in KitKat. If you’re talking to someone via Hangouts, and then you text them via SMS, it starts an entirely new, separate conversation. Unlike iMessage, which combines everything into one stream whether you’re using SMS or not, Hangouts bifurcates those conversations, making communication actually more confusing and harder to navigate. Coupled with the fact that Google still doesn’t group separate accounts together in its apps, things are downright puzzling at times when trying to carry on a conversation. How can this be so hard? webOS got account linking and merged conversations right in 2009.
-
 It's odd. The phone knows that the person I'm texting with is the same person I'm chatting with in Hangouts (the user card is the same), but those two conversations sit apart from one another. Why can't those conversations be merged? Even if you had to hand-select what kind of message you wanted to send, it might be easier than switching between two completely different streams. My assumption is that Google knows this isn't a perfect execution — I only hope they deal with it sooner rather than later.
 "Getting messaging right can't be this hard"
-
 Hangout issues aside, KitKat really is a solid improvement over earlier versions of the software, and the Nexus 5 shows it off quite well.
-
-Short-term power
-
 The key feature of KitKat, its primary raison d'etre, is to make new versions of Android accessible to lower-memory phones. Phones that don't have the latest processor, or gigabytes of RAM, can still get all of Google's latest software. But none of that even comes close to mattering on the Nexus 5, which comes with a spec sheet as impressive as just about any phone on the market.
-
 It's powered by a Qualcomm Snapdragon 800 processor clocked at 2.26GHz, and it's hard to find a better smartphone chip on the market today. It also has 2GB of RAM (four times what KitKat needs), an Adreno 330 GPU, and either 16GB or 32GB of storage. Likely due to some combination of this class-leading hardware and the newly optimized software, the Nexus 5 is just astonishingly fast. Even processor- and graphics-intensive games like Asphalt 8: Airborne play smoothly, though like any device they still drop the occasional frame and stutter every once in a while — we're not entering truly new territory here, just improving on what we have.
-
-
 There can be minor scrolling issues when you’re trying to tear through a long page, but that seems more to do with buffering than it does actual graphics performance. In fact, a big deal has been made about the "Android scrolling" problem, but nine times out of ten, the Nexus 5 feels considerably faster than most devices I’ve used — even the iPhone 5S (pro-tip: turn off all of your animations using developer controls). General navigation and performance is buttery, and while Google still can’t match Apple’s best-in-class touch-response times, the difference is negligible as far as I’m concerned. With every device there are tradeoffs, but I don't feel for a moment that the touch performance or scrolling behavior on the Nexus 5 — or most modern Android phones — is a cause for concern.
-
 Perhaps even more important than its new software, or its improved screen over the Nexus 4, the Nexus 5 comes with LTE. It works on carriers and in countries around the world, and in our tests had solid reception and download speeds (though of course your carrier's more responsible for how that works than your phone). One of our review units had a bizarre problem: when the phone went to sleep while connected to Wi-Fi, it seemed to completely shut off its radios, and had trouble connecting when we woke it up. That was just one unit, though, and most seem to work as expected.
-
 There was one other inconsistency, more troubling this time. During our time with the Nexus 5, it's been hard to get a real grip on how its battery truly operates. One day, it lasts less than eight hours of only moderate use. The next, more than 16. It lasted 3 hours, 43 minutes on the Verge Battery Test, which is among the lowest scores we've seen on a high-end phone in some time, but it would occasionally surprise with its longevity. The screen is clearly the catalyst, in most cases responsible for 60 percent or more of the battery's drain — as ever, the more you use your phone the faster it'll die. Depending on how you use it, battery life seems to fall somewhere between "bad" and "okay," and neither of those is something to get excited about.
-Wrap-up
-Compare It Unnamed
-LG Nexus 5
-8.0 Verge Score 9.1 User Score Write Review
-Good Stuff
-
-    KitKat is a major and welcome update
-    Performance on the phone screams
-    Gorgeous display
-
-Bad Stuff
-
-    The camera is frustratingly hit or miss
-    Battery life was inconsistent
-    Hardware design is unexciting
-
-A killer package... once Google fixes this camera
-
 At the start of this review, I posed a question — can the Nexus 5 be the flagship phone Google wants it to be? The short answer is... maybe. Just not now.
-
 The Nexus 5 is an excellent phone in many ways. It's solidly built and feels great to use. It's got serious processing power which means it can handle pretty much anything you throw at it. The phone has an absolutely gorgeous display. The KitKat update is polished and refined, and cements my belief that not only is Android leading the charge in mobile OSs from a functionality and user interface standpoint, but from a design standpoint as well. The battery life, while not perfect, appears to be good enough to get you through a day of work — which is certainly on par with its competition.
-
 More importantly, Google is blazing a new path in the way we buy our phones. A device of this quality for $349 is something to take notice of. It's impressive, but more than that, it's a crucial step towards offering consumers more control over how and when they buy their phones and phone service. It's also just kind of a cool idea — a great phone, no strings attached.
-
 I would love to be able to recommend this device wholeheartedly, but I can't do that until Google sorts out the issues with the Nexus 5's camera. If the company can make software changes large enough to materially and noticeably improve the performance of its shooter — to make it competitive with other top-tier phones — then this becomes a different story. Even now, Google's working on fixing its issues, and someday we might see the Nexus 5's camera upgraded from problematic to usable, or even good. When that day comes, the Nexus 5 will be a killer package I'll happily recommend. But that's not today.
-
 Update: As stated in the camera section of this review, Google has taken rather immediate action to fix many of the problems I outline here. As a result, the Android 4.4.1 update which is rolling out to Nexus 5 handsets does greatly improve the performance of the camera — enough that I can happily recommend the phone as one of the best Android devices on the market. While the camera still isn't up to the standards of the iPhone 5S or the Lumia 1020 (mostly due to the realities of hardware limitations), the Nexus 5 proves to be a capable and at times excellent camera; one which you can feel a greater degree of confidence about thanks to software changes. There is still work to be done on the Nexus 5's camera, particularly in the user interface, but the device now has a fighting chance amongst its competition.
-

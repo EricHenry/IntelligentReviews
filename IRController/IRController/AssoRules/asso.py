@@ -1,12 +1,17 @@
 __author__ = 'Eric Henry'
 
 import Orange
+import sys
 
+#garbage function just testing
 def clean():
     print
 
+commandArgs = sys.argv;
+
 try:
-    data = Orange.data.Table("results3.basket")
+    data = Orange.data.Table(commandArgs[1])
+    print commandArgs[1]
 except IOError:
     print "Error can\'t find file or read data"
 
@@ -21,9 +26,9 @@ while supportToLow:
     except:
         minimumSupport += 0.001
 
-
 try:
-    resultsFile = open('test1.txt', 'w')
+    print commandArgs[2]
+    resultsFile = open(commandArgs[2], 'w')
 except IOError:
     print "Error can\'t find file or read data"
 

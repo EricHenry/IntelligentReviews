@@ -10,12 +10,13 @@ using System.Windows.Forms;
 
 namespace IRController
 {
-    public partial class Form1 : Form
+    public partial class ControllerGUI : Form
     {
         //flags to see if a file was chosen to clean
         //  and a location to save
-        private bool input = false, 
-                    output = false;
+        private bool input, output, assoInput, assoOutput = false;
+
+        private int maxAssoOutput;
 
         private ReviewCleaner tester;
         private AssociationRunner assoRunner;
@@ -26,7 +27,7 @@ namespace IRController
         private string assoInputFileName;
         private string assoOutputFileName;
 
-        public Form1()
+        public ControllerGUI()
         {
             InitializeComponent();
             //Instantiate Object to clean Reviews
@@ -68,8 +69,7 @@ namespace IRController
 
                 //when file is chosen display it in the text box
                 textBox1.Text = ofd.FileName;
-            }
-            
+            }  
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -92,7 +92,6 @@ namespace IRController
                 textBox2.Text = saveFileDialog1.FileName;
 
             } 
-
         }
 
         private void startCleaning_Click_1(object sender, EventArgs e)
@@ -119,23 +118,95 @@ namespace IRController
         private void assoInputSearch_Click(object sender, EventArgs e)
         {
             // Create an instance of the open file dialog box.
-            OpenFileDialog ofd = new OpenFileDialog();
-            ofd.InitialDirectory = Convert.ToString(Environment.SpecialFolder.MyDocuments);
+            OpenFileDialog assoOpenFileDialog = new OpenFileDialog();
+            assoOpenFileDialog.InitialDirectory = Convert.ToString(Environment.SpecialFolder.MyDocuments);
 
             // Set filter options and filter index.
-            ofd.Filter = "Basket Files (.basket)|*.basket|All Files (*.*)|*.*";
-            ofd.Multiselect = false;
+            assoOpenFileDialog.Filter = "Basket Files (.basket)|*.basket|All Files (*.*)|*.*";
+            assoOpenFileDialog.Multiselect = false;
 
             // Call the ShowDialog method to show the dialog box.
-            if (ofd.ShowDialog() == DialogResult.OK)
+            if (assoOpenFileDialog.ShowDialog() == DialogResult.OK)
             {
                 //save the chosen path
-                inputFileName = ofd.FileName;
+                assoInputFileName = assoOpenFileDialog.FileName;
 
                 //when file is chosen display it in the text box
-                textBox1.Text = ofd.FileName;
+                assoInputTextBox.Text = assoOpenFileDialog.FileName;
             }
         }
+
+        private void assoOutputSearch_Click(object sender, EventArgs e)
+        {
+            // Create an instance of the open file dialog box.
+            SaveFileDialog assoSaveFileDialog = new SaveFileDialog();
+            assoSaveFileDialog.InitialDirectory = Convert.ToString(Environment.SpecialFolder.MyDocuments);
+
+            // Set filter options and filter index.
+            assoSaveFileDialog.Filter = "Text Files(*.txt)|*.txt|All Files (*.*)|*.*";
+            assoSaveFileDialog.FilterIndex = 1;
+
+            // Call the ShowDialog method to show the dialog box.
+            if (assoSaveFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                //save the chosen path
+                assoOutputFileName = assoSaveFileDialog.FileName;
+
+                //when file is chosen display it in the text box
+                assoOutputTextBox.Text = assoSaveFileDialog.FileName;
+
+            } 
+        }
+
+
+        private void runAssoRules_Click(object sender, EventArgs e)
+        {
+            //Check to see if there is a file to open and a file name to save results.
+            if (assoInput && assoOutput)
+            {
+                MessageBox.Show(assoInputFileName + ", " + assoOutputFileName);
+                assoRunner = new AssociationRunner(assoInputFileName, assoOutputFileName);
+                assoRunner.execute();
+                MessageBox.Show("Association rules Complete!");
+            }
+            else
+            {
+                //give a correct message depending on what the user has done
+                if (!(assoInput && assoOutput))
+                {
+                    MessageBox.Show("Please enter in a basket and a location to save to");
+                }
+                else if (!assoInput)
+                    MessageBox.Show("Please Enter in a Basket");
+                else if (!assoOutput)
+                    MessageBox.Show("Please Enter in a location to save the file");
+            }
+        }
+
+        private void assoInputTextBox_TextChanged(object sender, EventArgs e)
+        {
+            assoInputFileName = assoInputTextBox.Text;
+            assoInput = true;
+        }
+
+        private void assoOutputTextBox_TextChanged(object sender, EventArgs e)
+        {
+            assoOutputFileName = assoOutputTextBox.Text;
+            assoOutput = true;
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                maxAssoOutput = int.Parse(textBox3.Text);
+            }
+            catch (Exception x)
+            {
+                MessageBox.Show("Please enter an integer as a max value!");
+            }
+        }
+
 
     }
 }

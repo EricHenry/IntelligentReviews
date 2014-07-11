@@ -1,6 +1,6 @@
 ﻿namespace IRController
 {
-    partial class Form1
+    partial class ControllerGUI
     {
         /// <summary>
         /// Required designer variable.
@@ -163,6 +163,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(28, 20);
             this.textBox3.TabIndex = 7;
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // runAssoRules
             // 
@@ -172,6 +173,7 @@
             this.runAssoRules.TabIndex = 6;
             this.runAssoRules.Text = "Run Association Rules";
             this.runAssoRules.UseVisualStyleBackColor = true;
+            this.runAssoRules.Click += new System.EventHandler(this.runAssoRules_Click);
             // 
             // label3
             // 
@@ -190,6 +192,7 @@
             this.assoOutputSearch.TabIndex = 4;
             this.assoOutputSearch.Text = "...";
             this.assoOutputSearch.UseVisualStyleBackColor = true;
+            this.assoOutputSearch.Click += new System.EventHandler(this.assoOutputSearch_Click);
             // 
             // assoOutputTextBox
             // 
@@ -197,6 +200,7 @@
             this.assoOutputTextBox.Name = "assoOutputTextBox";
             this.assoOutputTextBox.Size = new System.Drawing.Size(137, 20);
             this.assoOutputTextBox.TabIndex = 3;
+            this.assoOutputTextBox.TextChanged += new System.EventHandler(this.assoOutputTextBox_TextChanged);
             // 
             // label4
             // 
@@ -223,16 +227,17 @@
             this.assoInputTextBox.Name = "assoInputTextBox";
             this.assoInputTextBox.Size = new System.Drawing.Size(137, 20);
             this.assoInputTextBox.TabIndex = 0;
+            this.assoInputTextBox.TextChanged += new System.EventHandler(this.assoInputTextBox_TextChanged);
             // 
-            // Form1
+            // ControllerGUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(417, 349);
             this.Controls.Add(this.AssoRulesGroup);
             this.Controls.Add(this.reviewCleaningBox);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "ControllerGUI";
+            this.Text = "Intelligent Reviews";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.reviewCleaningBox.ResumeLayout(false);
             this.reviewCleaningBox.PerformLayout();

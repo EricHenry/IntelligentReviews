@@ -1,191 +1,74 @@
 The Motorola Moto X looks very similar to the Moto G. It’s a curvy phone with a plastic shell that has a clear seam where the rear battery plate connects with its frame.
-
 In the US, people buying a Moto X get to choose from thousands of different style variations, including a wood finish. However, this has been dropped for the UK. You can pick between ‘woven’ white and black finishes, designed to look like they are made out of something fancier than plastic. The smooth, soft finish feels better than a basic plastic shell, but it’s still a polycarbonate case. And unlike the Moto G, the back is non-removable.
-
 Where the Motorola Moto X design excels is in fitting in quite a large screen into what feels like a small body. There’s very little screen bezel, particularly towards the bottom of the phone. You get the same 4.7 inches as the HTC One with a Moto X, but this is a significantly smaller mobile.
-
 It’s the height of the phone that is most notable. The Moto X is 129mm tall – petite compared to the 137mm HTC One, 138mm Nexus 5 and 136mm Galaxy S4. This is the least obtrusive, least showy ‘high-end’ phone you can get.
-
 You pocket will thank you for buying a Moto X, but it means this is likely to be confused for a lesser phone by many people.
-
 Squashing down the footprint of the phone has also ensured that it’s not all that thin. At 10.4mm it’s quite chunky for a £400 phone – at least 1mm thicker than the phones it competes with. However, the curvy back is most similar to the top-notch HTC One’s, giving a smooth and easy grip.
-
-SEE ALSO: 10 Best Android Phones
-
-
-
 Another comparison you can’t help but make here is with the Moto G, a phone that looks the same but costs a third of the price. While they look similar, the Moto X is finished more gracefully in a number of places. The most obvious is the screen surround. Where the plastic juts out beyond the screen a fraction in the Moto G, it curves around to form a much tighter join in the Moto X, avoiding the rough feel of its cheaper brother.
-
 Its backplate is also glued on, for a zero-creak body, and it’s significantly slimmer. The Moto X also uses a pop-out SIM tray on its side, rather than a slot hidden under its battery cover. It’s the unusual nano SIM type, used in the iPhone 5S.
-
 A final little hardware improvement, the Moto X also has superior, tighter vibration feedback motors. That the Moto X and Moto G are brothers is unmistakable, but those claiming the Moto X is merely a Moto G with some upgraded insides are wrong. It’s at least five per cent classier. And it has the 4G and NFC connections missing from that budget phone.
-
-SEE ALSO: 5 best cheap mobile phones
-Moto X rear
-Motorola Moto X – Connectivity
 The Moto X comes with either 16GB or 32GB of internal memory and, like many top-end Androids, there’s so memory card slot to let you add to it. Its USB port is MHL-compatible, though, letting you plug the phone directly into a TV if you have the right adapter. One does not come included but they are available for as little as £10 online. 
 One of the more impressive elements of the Moto X is quite how much of its front is taken up by the screen – most of it. Having just a couple of millimetres to each side of the screen and less than an inch below gives the Moto X a greater screen-to-everything-else ratio than the vast majority of phones.
-
 The display itself is less notable. It’s a 4.7-inch OLED screen of 720p resolution. That’s the same resolution as the Moto G, and a good deal lower-resolution than the 1080p HTC One and Samsung Galaxy S4 – both of which cost a similar amount if you search enough online. It’s the first serious red light indicator that Motorola may be asking for a bit too much cash for the Moto X.
-
 Its screen is still sharp, but you don’t get the immaculate, smooth curves in text that you’ll see in a 1080p mobile phone screen. You need to get reasonably close, but you can tell the difference.
-
-ROUNDUP: iPhone 6 release date, news, rumours, specs and price
-
-
 This situation could have been a lot worse, though. The Moto X uses an RGB subpixel array, where many other OLED screens uses arrays with ‘shared’ subpixels or those with a more irregular pattern. These screen types further reduce sharpness, and that would have been a killer for the Moto X.
-
 Image quality is largely what we’ve come to expect from an OLED screen. Contrast is great, with deep blacks that are only spoilt in use by screen reflections. However, colours are significantly oversaturated. As usual, this shows up most clearly in the reds, which appear very ‘hot’ and overexcited. The screens of LCD rivals like the LG G2 and HTC One look more natural. We’re disappointed Motorola hasn’t added a way to cool down these colours. Because if we could, we would.  
-
 White levels aren’t quite on par with the top LCD screens either, being slightly less pure white than some of the competition. However, given how few people actually run their phone at maximum brightness, it’s a total non-issue.
-
-ROUNDUP: Samsung Galaxy S5 release date, news, rumours, specs and price
-
-Motorola Moto X: Active Display
-
 There’s one reason why the Moto X has to use an OLED screen instead of the LCD type seen in the Moto G, and the HTC One. It’s the phone’s Active Display feature, which shows flashing monochrome alerts on-screen when the phone is on standby. This feature would kill the battery of an LCD screen because of those displays’ use of a backlight, but as OLED displays use light-emitting pixels, only a tiny portion of the screen has to be ‘activated’ to make this feature work.
-
 Active Display is one of the Moto X's top features -- if you don't care about it at all, maybe you'd be better off with something else. It fades notifications in and out while the phone is in your pocket, so you don't need to fully activate the phone to see what's new.
-
 Perhaps the best bit is that when you put a thumb (or finger) on the unlock button of the Active Display screen, you can see the subject lines of your latest emails -- handy if you inbox is a spam magnet. It takes a bit of getting used to, but Active Display can save you time day-to-day. Active Display
-
-Motorola Moto X – Android 4.4 Kit Kat
 The Motorola Moto X is one of the first phones to launch with Android 4.4 KitKat. However, it doesn’t have the same Google Experience interface as the Nexus 5 – the phone that introduced the software. Instead, it has the more pedestrian Android interface found on older Jelly Bean phones. You get five homescreens as standard, a customisable app launcher bar, and a universal search that sits on all five homescreens.
-
 The Motorola Moto X look is almost entirely vanilla Android 4.4 KitKat, and that makes using the phone a low-fuss experience that’s free of the features bloat you get with something like the Galaxy S4. It also helps to leave you with a reasonable amount of free storage – you get 12GB to play with from the original 16GB. It’s not great, but it could be worse.
-
 The core apps arsenal of the Motorola Moto X is supplied entirely by Google. There’s Maps, Calendar, Hangouts for chat, the Chrome browser, Google Drive, the Quickoffice suite and the various Play books/movie/apps portals. It’s a great starting point for any Android phone, and each part of this Google app family is great. Every Android phone has these, but few let them take as much of the spotlight as the Motorola Moto X.
-
 Motorola’s contributions amount to two apps that don’t try to be anything more than side features – Motorola Assist and Motorola Migrate.
-
-SEE ALSO: MWC 2014 news, rumours and what to expect
-
-Motorola Assist
-
 Motorola Migrate is an app you install on your old phone to help transfer all your content to the Moto X. It’ll then give you a QR code that you scan-in using Migrate on the X, and all your old stuff (contacts, media, texts and so on) will be downloaded to the new phone. Google already does the basics in this sense by attaching contacts to your Google account, but if you want more, it’s on offer here.
-
 Motorola Assist is, to us at least, more useful. It stops you from getting alerts at certain times of the day. Its primary function is to stop the Moto X from disturbing you when you’re trying to sleep. However, it can also hook into Google Calendar and stop you from getting poked while you’re in meetings, and read out text messages using a synthesised voice while you’re on the road.
-
 You can also make the phone automatically reply to messages while you’re driving if keeping connected is particularly important. Assist uses the Moto X’s GPS to determine when you’re driving, which is pretty smart.
 There’s no provision for social networks built into the Motorola Moto X, beyond the Google Hangouts app. This hooks into Google Talk chat, and can even be used as an all-in one messenger – when you first run it, it asks if you want to use it to read SMS messages as well as online chats.
-
 To get online with Facebook, Twitter and any other networks you dip into, you’ll need to download separate apps from Google Play. Some of you may prefer to have everything in place from square one but the Moto X’s acceptance that it can’t do everything itself is refreshing. And it means the phone is almost entirely bloat-free.
-
 Motorola’s contribution to how the Moto X functions is seen more in how you interact with the phone than in its apps library. It’s about the Active notifications screen -- an alternative to a simpler LED notification -- the way you can flick the phone twice to launch the camera and how you can talk to the phone to make it work (admittedly a Google addition that, as with the Nexus 5, we couldn’t get to work properly).
-Moto X Facebook
-Motorola Moto X: Performance
 Keeping its software simple is a way for the Moto X to ensure good performance. It’s fast, it’s responsive – more so than the Motorola Moto G, and even the Samsung Galaxy S4, which at times is slowed-down by its TouchWiz interface.
-
 However, in pure hardware terms the Moto X is not impressive. It uses the 1.7GHz dual-core Snapdragon S4 Pro CPU and has 2GB of RAM.
-
 The S4 Pro chipset is a few steps behind the competition. From late 2012 to the end of 2013, phones at first moved from the S4 Pro to the Snapdragon 600 chip, and then on to the Snapdragon 800, which is now the most popular high-end Android chipset. The ageing Snapdragon S4 Pro is behind the times, especially given how much you are paying here. You won’t notice the difference if you don’t know the spec figures, but it makes the Moto X a tougher sell. The Geekbench 3 scores tell it all as the Moto X comes out with 1,200 points, the Galaxy S4 around 1,650 and the Snapdragon 800-using Nexus 5 around 2,700.
-
 We didn't find any top-end 3D games, including our usual benchmark Real Racing 3, a problem though. This may be in part down to having a 720p resolution screen instead of a 1080p one. Fewer pixels to render means less stress on the CPU/GPU.
-
-Moto X Real Racing 3
 Raw Power doesn't impress but the phone can easily handle Real Racing 3
-Motorola Moto X – Keyboard and Browsing
 The Motorola Moto X is a fantastic web browsing phone for a number of different reasons. First, it has 4G for even faster web trawling than a lower-cost mobile. Second, its relatively narrow frame makes the screen easy to scale with a thumb than a larger 5-plus inch phone. The Moto X hits a sweet spot in this regard.
-
 It also has the power and the software for great browsing. It uses the Chrome browser rather than the ‘stock’ Android browser – missing out on text reflow but otherwise offering a good browsing experience.
-
 The phone uses the standard Android keyboard, which offers a simple but solid layout. As we noted in our Moto G tips and tricks article, we recommend switching to the Google keyboard (available for free from Google Play). It’s almost identical, but supports gesture typing. This is where you draw a line over letters rather than tapping on them. It’s faster, and often more accurate for speed typing.
 The Motorola Moto X has quite an unusual camera. It’s a 10-megapixel sensor, where most rivals have either eight megapixels or thirteen. The resolution isn’t the only odd thing about it – it’s a 16:9 image sensor where mobile camera sensors tend to be 4:3 in aspect. When you shoot at 16:9 with other phone cameras, you’re normally doing so at reduced resolution – not using the full sensor.
-
 For the techheads among you, the sensor is the OmniVision OV10820. It’s a 1/2.6-inch sensor, much larger than the 1/3.2 sensors you get in most phones. It uses an RGBC pixel array, featuring an additional clear subpixel in its colour filter to provide better low-light performance. For all these reasons we were quite intrigued to find out how Motorola's approach performed in real world use. 
-Moto X camera
-Motorola Moto X – Image Quality, Detail and Colour
 With a 10-megapixel sensor you would expect detail capture to sit somewhere between the Samsung Galaxy S4 and the Nexus 5, which have 13-megapixel and 8-megapixel sensors respectively. However, sharpness is slightly disappointing at the resolution, with less fine detail in evidence than the best 8-megapixel phones.
-
 You do get a lot more fine detail than with an HTC One, though.
-Motorola Moto X 9
-
-Motorola Moto X 10
 The Moto X lacks some of the pop and sharpness of some rivals
-
-Motorola Moto X – Speed/Shooting Performance
 Motorola tries to make the Moto X as fast as possible as a camera. The first way it does this is with a ‘two flicks’ of the wrist gesture that launches the camera app, whatever you're doing with the phone. And it’s fast – it’s ready to go in about 1.5 seconds, and signals it’s doing so with a vibration crescendo.
-
 Shooting speed is reasonably good, too. Shot-to-shot speed including focusing in normal shooting is about one second, but you can burst shoot by holding a finger on the screen. Like this, the Moto X shoots at about 3fps. When shooting in this mode, though, focusing is locked so it’s only useful for shooting at a consistent focal distance. It’s a good mode for shooting kids running about, though – standard shooting is a little slow for this purpose.
-
-Motorola Moto X – Camera App interface
 The Moto X features the same camera interface as the Moto G (it was actually debuted as part of the Moto X’s US launch, though). It’s a very simple interface that takes away most of the control from you in favour of making shooting simple and quick.
-
 You summon the control wheel by flicking left-to-right on the edge of the screen and it offers the following options -
-
-    HDR on/off/auto
-    Flash on/off/auto
-    Focus full auto/subject select
-    Slo-mo video on/off
-    Panorama
-    Geotagging on/off
-    Sound on/off
-    Camera app gesture on/off
-
 There are no scene modes, no control over things like ISO and none of the frothy modes you get with rivals like the Galaxy S4. The latter is no great loss.
-
 What the app does lack, though, is a true low-light mode that ramps-up the sensitivity of both the on-screen preview and the sensor itself to deal with flat-out poor lighting conditions. In these sorts of situations, the Moto X does not fare well at all.
-
 It also does not allow traditional touch focusing. Instead, you have to drag a reticule, used to determine both the focus and exposure. It’s slower to use than the sort of touch focusing you get with most phones, but at least it is there. When the Moto X first launched in the US, even this mode was missing.  
-
-Motorola Moto X – Low-light shooting and flash
 Specs-wise the Moto X should be a low-light winner. It has a larger sensor than most, and its colour filter is meant to increase low-light performance.
-
 In reality, the Moto X does not perform very well in flat-out poor conditions. Without a super high sensitivity mode dedicated to rubbish lighting, the camera often fails to pick out a scene properly at all – where the iPhone 5S and Sony Xperia Z1 would have no problem. Motorola has not put in place the necessary software in place to really make use of the interesting sensor in this phone.
-
 Performance with the flash engaged isn’t great either. Despite using the LED flash as a focusing aid when the flash is switched on, focusing reliability in low-light when shooting subjects close-up is pretty poor. The results are better when your subjects are further away, but when the specs suggest the Moto X should be a low-light outlier, we’re disappointed.
-Motorola Moto X
-Motorola Moto X – Dynamic Range and HDR
 One benefit of the larger-than-average 1.4-micron sensor pixels is that the Moto X has fairly good dynamic range, when shooting without HDR mode, which boosts dynamic range by merging exposures. Dynamic range determines the detail visible in the darkest and brightest areas of a photo, and this shot shows fairly well what the Moto X is capable of.
-
 Exposure is fairly well-judged – if a little dull-looking – and the level of detail maintained in the shadow areas of the building under construction is good.
-Motorola Moto X 1
 However, any dynamic range skills are put into shade (no pun intended) by the excellent HDR mode. If you want your photos to pop, you need to use this mode. It’s wonderfully effective, and produces the sort of shots that are likely to impress people on social networks without having to use any more filters.
-
 As well as featuring more detail in cloud cover and dark areas, HDR photos are also much more contrasty, giving the liveliness that’s often missing from the Moto X’s normal shots.
-
-Here are a few demo shots:
-Motorola Moto X 5
-
-Motorola Moto X 6
-
-Motorola Moto X 7
-
-Motorola Moto X 8
 The HDR comparison above is a good example of how the mode can improve colour, which is bled out of the scene in the 'non HDR' shot. You could almost assume they were taken on different days.
-
 Here's an example of the magic the HDR mode is capable of. In a non-HDR shot the sun flare would overpower the image below. But with HDR engaged, it's a relatively minor influence.
-
-Motorola Moto X 2
-Motorola Moto X – Macro
 The phone’s camera app is not great for macro shots, though. There’s no macro mode to enable, and while this never gives a camera extra abilities as such (focusing range will depend largely on the lens), we did find it tricky to lock onto close subjects.
-
 The focus reticule does not let you pick subjects with enough specificity, and will often mis-report being in focus when it’s actually a background element that the Moto X has honed in on. Minimum focal distance is about 10cm, but when out shooting objects in real life we found it frequently tricky to get a hold on anything closer than 20cm.
-Motorola Moto X 4
-
-1:1 pixel crop -
-Motorola Moto X 3
-Motorola Moto X – Video Capture
 Video capture is dead easy with the Moto X, as there’s a dedicated video button on the camera app screen. However, you have almost zero control beyond choosing whether you want to shoot in slo-mo or at normal speed.
-
 There’s no manual mid-capture refocusing (tapping on the screen takes a still rather than refocusing) and the phone only shoots video at 1080p MP4.  However, the actual output is decent. It re-focuses automatically during shooting, and does so quickly, and its changing of exposure settings is fairly smooth. There’s no optical image stabilisation and no dramatic software stabilisation measures, but the Moto X can produce solid video.
-
 It gives its slo-mo video mode much more limelight that most other phones too, with a coveted spot on the camera app menu. It shoots at 720p, 60fps – which is not as pronounced an effect as the 120fps you get with an iPhone 5S, but it's still good fun.
 There’s a 2200mAh battery in the Motorola Moto X, and it’s designed to fit the phone’s curved rear. That’s just a little below the 2300mAh of the HTC One. The non-removable back means you can't take it out, and you can't carry around a spare.
-
 Factoring in the lower-power processor and the lower resolution screen, you might expect stamina to be strong. However, it is unremarkable.
-
 The Motorola Moto X will not last for two days of moderate use. We found the battery level getting low by the evening each day, necessitating a daily charge for the majority of people. In fact, stamina is worse than the Moto G, which is pretty disappointing given it's the more expensive of the two. Motorola has clearly stepped away from its previous focus on battery life.
-
-Motorola Moto X – Call Quality and Sound Quality
 Speaker quality is better, however. The call speaker is much better than average, with a louder, clearer and more powerful sound than most. Its ability to actually relay bass in particular is unusually good.
-
 The main rear speaker, which fires mono sound out of a grille just to the right of the camera lens housing, is also a cut above in some respects. Sound quality isn’t particularly remarkable, but pure volume is. It is louder, and distorts less, than the Moto G speaker. And while it doesn’t have the bulk of the HTC One or quite the top-end sweetness of an iPhone 5S, it isn’t bad at all.
 Should I Buy the Motorola Moto X?
 The Motorola Moto X gets a lot of things right. It’s halfway to becoming a Nexus-style 'Google' phone, with an interface that’s almost entirely vanilla – although you still won’t get updates as soon as you would with a Nexus device. It’s also quite small for a phone that sits at the top of a company’s range. It has the same size screen as an HTC One, but is a good deal smaller. This is a phone that is tremendously easy to get on with in almost every respect.
-
 However, its SIM-free price does seem a little expensive when the HTC One and Galaxy S4 are available for the same price – and offer higher specs. And it is also shown up by the aggressively-priced LG G2 -- it sells for the same price but has a more impressive screen and a faster CPU. After the bargain-tastic Moto G, the Moto X is a minor disappointment, especially as its camera doesn’t quite perform as well as we had hoped. However, as an alternative to the HTC One Mini and Galaxy S4 Mini, it’s a strong contender. It's all about the price you can buy it at.
-Verdict
 The Motorola Moto X is not a bargain like the Moto G. And it doesn’t have the specs to be a true top-end phone. However, the streamlined approach it takes to Android is exceptionally easy to get on with.
 
 
