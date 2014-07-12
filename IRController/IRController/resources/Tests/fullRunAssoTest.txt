@@ -1,0 +1,75 @@
+ supp     conf     Rule
+0.02941   1.00000   video -> new
+0.02941   0.17647   new -> video
+0.02941   0.60000   light -> low
+0.02941   1.00000   low -> light
+0.02941   0.60000   light -> better
+0.02941   0.25000   better -> light
+0.02941   0.75000   using -> new
+0.02941   0.17647   new -> using
+0.02941   1.00000   picked -> up
+0.02941   0.33333   up -> picked
+0.02941   1.00000   life -> battery
+0.02941   0.60000   battery -> life
+0.02941   1.00000   take -> its
+0.02941   0.25000   its -> take
+0.02941   1.00000   stores -> Touch
+0.02941   0.27273   Touch -> stores
+0.02941   1.00000   stores -> Touch Apples
+0.02941   1.00000   stores Touch -> Apples
+0.02941   1.00000   stores Apples -> Touch
+0.02941   0.27273   Touch -> stores Apples
+0.02941   0.60000   Touch Apples -> stores
+0.02941   0.23077   Apples -> stores Touch
+0.02941   1.00000   stores -> Apples
+0.02941   0.23077   Apples -> stores
+0.02941   0.60000   youre -> new
+0.02941   0.17647   new -> youre
+0.02941   0.27273   Touch -> things
+0.02941   0.60000   things -> Touch
+0.02941   0.27273   Touch -> things Apples
+0.02941   1.00000   Touch things -> Apples
+0.02941   0.60000   Touch Apples -> things
+0.02941   0.60000   things -> Touch Apples
+0.02941   0.75000   things Apples -> Touch
+0.02941   0.23077   Apples -> Touch things
+0.04902   0.45455   Touch -> Apples
+0.04902   0.38462   Apples -> Touch
+0.02941   0.75000   button -> home
+0.02941   0.75000   home -> button
+0.02941   0.33333   up -> always
+0.02941   0.50000   always -> up
+0.02941   0.25000   its -> 7
+0.02941   0.42857   7 -> its
+0.04902   0.29412   new -> processor
+0.04902   0.83333   processor -> new
+0.02941   0.17647   new -> processor A7
+0.02941   0.60000   new processor -> A7
+0.02941   1.00000   new A7 -> processor
+0.02941   0.50000   processor -> new A7
+0.02941   1.00000   processor A7 -> new
+0.02941   0.50000   A7 -> new processor
+0.02941   0.17647   new -> A7
+0.02941   0.50000   A7 -> new
+0.02941   0.17647   new -> theres
+0.02941   1.00000   theres -> new
+0.02941   0.17647   new -> camera
+0.02941   0.27273   camera -> new
+0.03922   0.23529   new -> better
+0.03922   0.33333   better -> new
+0.02941   0.17647   new -> Apples
+0.02941   0.23077   Apples -> new
+0.02941   0.50000   processor -> A7
+0.02941   0.50000   A7 -> processor
+0.03922   0.36364   camera -> better
+0.03922   0.33333   better -> camera
+0.02941   0.27273   camera -> Apples
+0.02941   0.23077   Apples -> camera
+0.02941   0.25000   better -> Apples
+0.02941   0.23077   Apples -> better
+0.03922   0.80000   things -> Apples
+0.03922   0.30769   Apples -> things
+0.02941   1.00000   smartphone -> best
+0.02941   0.42857   best -> smartphone
+0.02941   0.42857   ever -> just
+0.02941   0.25000   just -> ever

@@ -136,7 +136,7 @@ namespace IRController
                         if (!currentWord.Equals(", ", StringComparison.OrdinalIgnoreCase))
                             commaSeparatedSentence += currentWord;
 
-                        Console.WriteLine(currentWord);
+                       // Console.WriteLine(currentWord);
                     }
 
                 }

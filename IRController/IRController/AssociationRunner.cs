@@ -1,12 +1,15 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Windows.Forms;
 
 /// <summary>
 /// Summary description for Class1
 /// </summary>
 public class AssociationRunner
 {
-    private const string SCRIPT_PATH = "C:\\Users\\Eric Henry\\Documents\\GitHub\\IntelligentReviews\\IRController\\IRController\\AssoRules\\asso.py";
+    //Location of the python script within the project folder
+    private const string SCRIPT_PATH = "AssoRules\\asso.py";
+
     private string inputPath;
     private string outputPath;
     private int maxAssociationOutput;
@@ -25,18 +28,31 @@ public class AssociationRunner
         inputPath = iPath;
         outputPath = oPath;
         //maxAssociationOutput = 100;
-        runCommand = "/C C:\\Python27\\python.exe \"" + SCRIPT_PATH + "\" \"" + inputPath + "\" \"" + outputPath;
+        
+        //change directory to IRController to run appropriate files
+        runCommand = "/C cd.. & cd.. & ";
+        
+        //full python command 
+        runCommand += "AssoRules\\python.exe \"" + SCRIPT_PATH + "\" \"" + inputPath + "\" \"" + outputPath;
     }
 
     public void execute()
     {
+        //craete a process and its starting info
         Process process = new System.Diagnostics.Process();
         ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
 
+        //hide cmd
+        startInfo.WindowStyle = ProcessWindowStyle.Hidden;
+
+        //run the command prompt
         startInfo.FileName ="cmd.exe";
+
+        //feed arguements to cmd
         startInfo.Arguments = runCommand;
 
+        //give the process the info to run and start
         process.StartInfo = startInfo;
-         process.Start();
+        process.Start();
     }
 }

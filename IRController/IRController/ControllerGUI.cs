@@ -164,7 +164,6 @@ namespace IRController
             //Check to see if there is a file to open and a file name to save results.
             if (assoInput && assoOutput)
             {
-                MessageBox.Show(assoInputFileName + ", " + assoOutputFileName);
                 assoRunner = new AssociationRunner(assoInputFileName, assoOutputFileName);
                 assoRunner.execute();
                 MessageBox.Show("Association rules Complete!");
