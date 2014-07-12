@@ -6,7 +6,7 @@ using System.Diagnostics;
 /// </summary>
 public class AssociationRunner
 {
-    private const string SCRIPT_PATH = "\\AssoRules\\asso.py";
+    private const string SCRIPT_PATH = "C:\\Users\\Eric\\Documents\\GitHub\\IntelligentReviews\\IRController\\IRController\\AssoRules\\asso.py";
     private string inputPath;
     private string outputPath;
     private int maxAssociationOutput;
@@ -25,7 +25,7 @@ public class AssociationRunner
         inputPath = iPath;
         outputPath = oPath;
         //maxAssociationOutput = 100;
-        runCommand = "/C python " + SCRIPT_PATH + " " + inputPath + " " + outputPath;
+        runCommand = "/C " + SCRIPT_PATH + " " + inputPath + " " + outputPath;
     }
 
     public void execute()
@@ -34,10 +34,12 @@ public class AssociationRunner
         ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
 
        // startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
-        startInfo.FileName = "cmd.exe";
+        startInfo.FileName = "C:\\Python27\\python.exe";
         startInfo.Arguments = runCommand;
+        startInfo.RedirectStandardOutput = true;
+        startInfo.UseShellExecute = false;
 
         process.StartInfo = startInfo;
-        process.Start();
+         process.Start();
     }
 }

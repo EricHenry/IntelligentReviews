@@ -7,11 +7,11 @@ import sys
 def clean():
     print
 
-commandArgs = sys.argv;
+commandArgs = sys.argv
 
 try:
     data = Orange.data.Table(commandArgs[1])
-    print commandArgs[1]
+   # print commandArgs[1]
 except IOError:
     print "Error can\'t find file or read data"
 
@@ -27,7 +27,7 @@ while supportToLow:
         minimumSupport += 0.001
 
 try:
-    print commandArgs[2]
+   # print commandArgs[2]
     resultsFile = open(commandArgs[2], 'w')
 except IOError:
     print "Error can\'t find file or read data"
