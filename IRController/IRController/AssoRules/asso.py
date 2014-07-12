@@ -3,7 +3,7 @@ __author__ = 'Eric Henry'
 import Orange
 import sys
 
-#garbage function just testing
+#garbage function, just testing
 def clean():
     print
 
