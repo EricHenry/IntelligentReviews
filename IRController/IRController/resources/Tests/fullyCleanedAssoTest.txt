@@ -1,0 +1,31 @@
+ supp     conf     Rule
+0.01786   0.90000   life -> battery
+0.01786   0.60000   battery -> life
+0.02183   0.55000   support -> 64
+0.02183   0.57895   64 -> support
+0.02183   0.55000   support -> 64 bit
+0.02183   1.00000   support 64 -> bit
+0.02183   0.91667   support bit -> 64
+0.02183   0.57895   64 -> support bit
+0.02183   0.57895   64 bit -> support
+0.02183   0.44000   bit -> support 64
+0.02381   0.60000   support -> bit
+0.02381   0.48000   bit -> support
+0.01786   1.00000   mo -> slow
+0.01786   0.69231   slow -> mo
+0.01587   1.00000   low -> light
+0.01587   0.50000   light -> low
+0.01786   0.56250   M7 -> coprocessor
+0.01786   1.00000   coprocessor -> M7
+0.03770   1.00000   64 -> bit
+0.03770   0.76000   bit -> 64
+0.01587   0.57143   processor -> new
+0.01587   0.13333   new -> processor
+0.01587   0.20000   also -> new
+0.01587   0.13333   new -> also
+0.01587   0.50000   sensor -> fingerprint
+0.01587   0.50000   fingerprint -> sensor
+0.01786   0.81818   home -> button
+0.01786   0.40909   button -> home
+0.01587   0.13333   new -> Apples
+0.01587   0.25000   Apples -> new

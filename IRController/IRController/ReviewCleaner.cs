@@ -57,6 +57,9 @@ namespace IRController
             sentenceList = getSentences(inputReview);
             cleanedSentenceList = convertToCommaSeparated(sentenceList);
 
+            //final check before writing to file
+            finalCheck();
+
             //write to new file
             try
             {
@@ -188,6 +191,25 @@ namespace IRController
             }
 
             return toBeCleaned;
+        }
+
+        private void finalCheck()
+        {
+            String currentSentence;
+            for (int i = 0; i < cleanedSentenceList.Count; i++)
+            {
+                currentSentence = cleanedSentenceList[i];
+                if (currentSentence.Contains(",,") || currentSentence.Contains(" ,"))
+                {
+                    Console.WriteLine(currentSentence);
+                    currentSentence = currentSentence.Replace(",,", ",");
+                    currentSentence = currentSentence.Replace(" ,", "");
+                    cleanedSentenceList.RemoveAt(i);
+                    cleanedSentenceList.Insert(i, currentSentence);
+                    Console.WriteLine(currentSentence);
+
+                }
+            }
         }
 
     }
