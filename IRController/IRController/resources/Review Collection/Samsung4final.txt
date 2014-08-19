@@ -1,0 +1,7 @@
+ supp     conf     Rule
+0.01813   0.85714   View -> Air
+0.01813   1.00000   Air -> View
+0.02115   0.87500   lock -> screen
+0.02115   0.18919   screen -> lock
+0.01813   0.17143   up -> also
+0.01813   0.15385   also -> up
