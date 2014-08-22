@@ -8,7 +8,7 @@ public class EvaluateRunner
 {
 	public static void main(String... args)
 	{
-		Path location = Constants.APP_DATA.resolve("review1_Engadget.treebank");
+		Path location = Constants.APP_DATA.resolve("Samsung_review_3.treebank");
 
 		evaluate("-model",
 				"edu/stanford/nlp/models/sentiment/sentiment.ser.gz",

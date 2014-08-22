@@ -10,6 +10,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.SimpleFileVisitor;
 import java.nio.file.attribute.BasicFileAttributes;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Enumeration;
 import java.util.HashMap;
@@ -17,6 +18,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+
+import org.springframework.core.io.ClassPathResource;
 
 import edu.stanford.nlp.sentiment.SentimentPipeline;
 
@@ -48,7 +51,9 @@ public class SentimentRunner
 
 		Map<Path, Path> filesToTreebank = new HashMap<>();
 
-		for (Path source : walker.getFiles())
+		// for (Path source : walker.getFiles())
+		for (Path source : Arrays.asList(new ClassPathResource(
+				"SamsungReviews/Samsung_review_3.txt").getFile().toPath()))
 		{
 			Path treebank = createTreebankFile(source);
 			filesToTreebank.put(source, treebank);
@@ -57,7 +62,6 @@ public class SentimentRunner
 
 			createTreebank("-file", source.toString(), "-output", "PENNTREES");
 		}
-
 	}
 
 	private static Path createTreebankFile(Path file)

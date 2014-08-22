@@ -3,6 +3,7 @@ sourceSets{
 }
 
 dependencies {
+	compile("org.jasypt:jasypt:+")
 	compile("edu.stanford.nlp:stanford-corenlp:3.4")
 	compile("edu.stanford.nlp:stanford-corenlp:3.4:models")
 }
