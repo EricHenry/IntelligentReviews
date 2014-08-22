@@ -6,9 +6,11 @@
 *.user
 *.sln.docstates
 
-/gradle-app.setting
-
-.gradle/*
+.project
+.classpath
+/.gradle
+/ui
+gradle-app.setting
 
 # Build results
 
@@ -158,4 +160,3 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
-/ui
