@@ -1,0 +1,17 @@
+ supp     conf     Rule
+0.02381   0.57143   shot -> mode
+0.02381   0.36364   mode -> shot
+0.02381   0.44444   options -> settings
+0.02381   0.40000   settings -> options
+0.02381   0.66667   battery -> screen
+0.02381   0.21053   screen -> battery
+0.02381   0.50000   off -> screen
+0.02381   0.21053   screen -> off
+0.02381   0.50000   phones -> screen
+0.02381   0.21053   screen -> phones
+0.02381   0.80000   lock -> screen
+0.02381   0.21053   screen -> lock
+0.02381   0.22222   also -> screen
+0.02381   0.21053   screen -> also
+0.02381   0.50000   features -> camera
+0.02381   0.25000   camera -> features

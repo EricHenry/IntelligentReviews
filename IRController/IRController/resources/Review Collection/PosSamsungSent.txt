@@ -1,0 +1,165 @@
+The supercharged Android 4.2 Jelly Bean device may look like a toy compared with the stunning HTC One and the dapper iPhone 5.
+But taken together, its blazing quad-core processor, colorful 5-inch HD screen, sharp-shooting 13-megapixel camera, and mile-high stack of software extras make the Galaxy S4 the most powerful superphone anywhere in the world.
+What does the Galaxy S4 have? A better question is: what doesn't it have? There's the 1080p screen, zippy processing speeds that are ideal for gaming, and an IR blaster that can control your TV.
+It's true: most of the GS4's featurettes aren't essential -- and some aren't even very useful, like the camera's Eraser mode, which I never got to work, a subpar optical reader, and a translation tool that just duplicates what Google Translate already does.
+But if you're looking for a superphone that surpasses all other handsets on the features front, then you'll find in this deserving all-around flagship a strong mix of extremely competent hardware and aspirational software with very few major drawbacks.
+No, Samsung sticks by plastic, and points to only a handful of Android enthusiasts who really care about vaunted materials like aluminum and glass.
+Yet the phone maker has also made an effort to add more "refined" touches to the Galaxy S4.
+Its volume and power/lock buttons are metallic-looking polycarbonate, and tooled to have slanted sides and a flat top.
+At 5.4 inches tall by 2.8 inches by 0.3 inch thick, the Galaxy S4 is actually 0.7 millimeter thinner than GS3, and at 4.6 ounces, it's 0.7 ounce lighter as well.
+The naked eye doesn't calibrate numbers, but it does understand if an image looks rich and sharp and detailed, versus dull and blurred.
+Carrying on its fine tradition, the Galaxy S4's HD AMOLED display nails it with color saturation and contrast, sharply defined edges and details.
+Articles are easy to read, gameplay looks good, and photos and videos look terrific.
+In a new display setting, Samsung attempts to correct an old complaint about certain colors, like green, looking too saturated.
+As on the Galaxy Note 2, you can also manually select from dynamic, professional photo, and movie presets, the latter of which CNET display guru David Katzmaier says yields the most accurate colors.
+There are a few other important things to note about the Galaxy S4's display besides color and sharpness.
+As with the GS3, this year's model is highly reflective indoors and out, and even at its full brightness, it can seem dim outside when fighting bright light.
+Outdoor readability in strong sunlight is really tough; when taking photos, I very often couldn't tell that my finger covered the lens until I got back inside, a plight that ruined several pictures.
+Now would have been the time for Samsung to follow Nokia's lead with its excellent polarized screen filter on phones like the Nokia Lumia 920.
+At least Samsung did mimic another terrific Nokia implementation, giving the S4 a sensitive screen you can navigate with a gloved hand in addition to the naked finger.
+On top of possessing a sensitive screen, the Galaxy S4 is also the first commercially available device to feature the thinner, stronger Gorilla Glass 3 cover glass.
+The phone's screen is a big deal, no doubt, but in my opinion, the other most interesting new real estate lies north of its display.
+There's also an LED indicator at the top left corner.
+This will glow or blink green, red, or blue to indicate certain activities.
+Sharing the top edge with the phone's 3.5-millimeter headset jack is the Galaxy S4's brand-new IR blaster, which you'll use in conjunction with the Watch On app as a TV remote (it works!) All things being equal, I prefer how HTC integrated its IR blaster in the One's power button.
+You'll adjust volume on the left spine, charge the phone from the bottom, and turn the phone on and off from the right spine.
+On the back, you'll see the 13-megapixel shooter and LED flash just below.
+So do I like the new design? I do.
+Its sharper edges do make it look like a more premium device than its predecessor, but it won't ever be as eye-popping as the gorgeous HTC One or as understatedly elegant as the iPhone 5.
+Still, it's pleasant to look at and, in my opinion, more comfortable to hold than the other two.
+The only thing I don't like is how Samsung's power/lock screen seems to easily light up the phone while it's tossed around in my purse.
+Over the years, this has been a constant personal annoyance, not only to find a phone turned on that I had clearly turned off, but more importantly, to see my handset's battery level low because I hadn't realized the screen was sucking it down.
+I'd probably prefer this button up top.
+Argue the pluses and minuses of stock Android versus overlay all you want -- Touch Wiz has long looked outdated and stale (especially compared with HTC's fresh new UI,) but Samsung's pile of software lets the GS4 go places that a stock Android phone can't even dream about without rooting and mods.
+Take my favorite new interface addition, for example.
+Tap a new button in the upper right corner to expand the list to 15 icons you'll no longer have to dig through settings menus to find.
+This is very cool and extremely useful for finding and toggling settings.
+This is where a tremendous range of editing and advanced settings options live for apps as diverse as the home screen, the browser, the keyboard, and so on.
+In an attempt to simplify the settings menu, the GS4's gets a makeover that breaks up topics into separate screens for connections, device items like the lock screen, gestures, and keyboard settings, an accounts pane, and the More category for battery, storage, and security concerns.
+Punctuation always takes too long to insert and autocorrect rarely seems smart enough.
+I still became aggravated with mistakes and a slower typing flow than I wanted, but I did like the multiple Samsung keyboard options to introduce handwriting or insert images from the clipboard -- not that I can see myself using either.
+For example, you choose if you'd like to see the clock or a personal message on the screen, and if you'd like to swipe to open a list of favorite apps or launch the camera (I chose the camera and clock).
+Getting the camera to open from the lock screen isn't all that intuitive.
+The trick is to swipe right to left near the top of the widget.
+There's also a nice new lock screen effect: Light.
+Around in Samsung products since the Galaxy Note 2, easy mode, which you can start during the setup process or find later in the settings, replaces your home screens and reskins some critical apps (calendar, browser, contact list, and so on) to pare down the quantity of confusing options.
+You'll still get access to core apps and features, even some extra camera modes.
+The settings menu, however, remains the same, and it's easy to toggle back and forth from the "light" interface to full-on Touch Wiz.
+The phone supports 4G LTE here in the U.S.
+There's support for NFC and Samsung's S Beam version of Android Beam, which can send files like photo and video as well as documents and URLs.
+You'll also find Bluetooth 4.0, and although Samsung doesn't advertise it, there's sometimes wireless charging support as well, if you swap in a different back cover, which isn't available for the U.S.
+Wi-Fi is 802.11 a/b/g/n/ac (5GHz), and the handset can serve as a mobile hot spot for up to 10 devices.
+Wi-Fi Direct and DLNA support are a go, and a renamed feature that used to be known as AllShare Cast, can mirror the contents of your phone's screen with another device.
+Between Samsung and T-Mobile, there are plenty of apps to get you started, beyond essentials like a calculator, calendar, and music player, and Google services like turn-by-turn navigation and Gmail.
+T-Mobile's app posse includes titles like the T-Mobile hot spot, account manager, visual voice mail, and T-Mobile TV.
+Meanwhile, Samsung piles on with its chat app and the S Memo app, which I keep trying to like and which keeps disappointing me with overcomplication.
+It's the GS3's All Share Play, renamed, and it, too, shares content across "smart" devices.
+A special version of Flipboard is installed; this build takes advantage of Samsung's Air View functionality to preview content when you hover over it.
+The Story Album app is new as well.
+I'm generally a fan of Blurb and of anything that makes it easy to put those camera photos to practical use.
+However, I didn't appreciate the app popping up notifications to "suggest" albums for me to create and books to buy.
+Eye-tracking software sounds like a cool, futuristic power for controlling your phone with your peepers, but that's really only partway true.
+Smart Pause and Smart Scroll are two features that build off the Galaxy S3's optional Smart Stay feature, which kept the screen from dimming when you looked at it.
+As a daily commuter with one hand on the phone and one on a hand strap, I think this could be a more convenient way to catch up with news while on the train or bus.
+I really like the idea of Smart Pause, which halts a video you're watching when your eyes dart away, then resumes when you start paying attention again.
+Smart Pause was more responsive and easier to control than the scrolling, which experienced some abrupt motions and a short lag time.
+As I mentioned above, Flipboard has built a customized app to work with Air View that lets you hover over a tile to see which articles lie beneath.
+The feature was a little jerky and jumpy when I tried it, but it did work.
+Luckily, air gestures are sensitive up to 3 or 4 inches off the top of the phone, so you have a little latitude...or altitude, as it were.
+Likewise, passing your hand over the sensor to advance music titles works best when your phone is docked on your desk.
+Like HTC's One, you can program the Galaxy S4 to command your TV, DVR, Blu-ray player, home theater setup, and streaming set-top box.
+Although I set it up with a Samsung TV, it should work with pretty much any TV on the planet.
+To use it, fire up the Watch On app -- which, also like the HTC One's app, is powered by Peel behind the scenes -- and go through the reasonable setup process.
+Once you're good to go, you'll be able to pull up remotes for your TV and DVR, plus a universal remote.
+There's a Netflix tie-in as well, but I was also able to use my usual Netflix setup through the TV's extra tools.
+I found Watch On easy to use, and within a few minutes I was flipping through live TV listings, playing shows through Netflix, and setting up new DVR recordings using my phone.
+If there's one area of the controller that could use some work, it's the visual cue that you can scroll down the remote's interface for even more button options.
+I'd love icons on the results page to display at a glance what kind of content it is without first having to click on the result for more details.
+If you have the right kind of Samsung TV from 2012 or 2013, you can also use DLNA sharing features to swap content between your phone and TV.
+In addition to browsing, Watch On bundles a recommendation engine that churns up suggestions as you use it.
+Filter by categories like new, comedy, or drama, or pull up the context menu for a universal search -- this includes live listings and Samsung/Peel's premium video library.
+If you're feeling social, you can give on-demand shows a thumbs-up or thumbs-down and recommend listings on Facebook and Peel.
+This neat feature first came onboard with the Galaxy Note 2 and available on the Galaxy S3 as a premium suite add-on.
+I like it, but a small number of vetted apps limits its functionality.
+Music and games-sharing works with GS4 phones for now, but you can broadcast the other content to Galaxy S3s.
+A much more streamlined setup process makes it worth trying out for multiplayer gaming and surround sound through the phones' speakers.
+S Translator: Speak or type into this extremely handy translation tool to get verbal or written assistance in one of 10 languages.
+It worked mostly well in my tests, though translation wasn't perfect.
+It's a cool app that absolutely mimics Google Translate with no additional benefit I can immediately see, apart from not having to download Google Translate.
+Optical reader: Optical character recognition readers (OCR) have been in the works on mobile for years, and while they're getting better, most are still pretty bad.
+It's nice that Samsung's built-in OCR tool reads business cards and adds them to your contact book, includes a QR code scanner, and uses S Translator's back-end to read signs and menus in other languages.
+This one didn't work as well as I wanted.
+S Health is a pretty app that logs your exercise and calories.
+More dedicated fitness buffs can pair it with Samsung's new S Band wrist accessory, heart rate monitor, and body scale to sync data.
+Samsung Hub: The redesigned marketplace for music, video, and games incorporates Air View to pop up contextual info, like rental price.
+Now, all your purchases show up in your media gallery alongside all your other content, a significant improvement.
+In a nutshell, Knox gives you easy access to your personal and corporate profiles so you can use your own phone in a business capacity.
+Samsung has absolutely packed its camera full of new and existing features, and I'll admit that I had more fun testing them all out than I imagined I would.
+I want to whip open the camera app and take a really good picture or video, fast.
+Toss aside all the fancy modes and the Galaxy S4's 13-megapixel sensor is good.
+Very good.
+No, not every photo came out perfectly when I took picture after test picture in full automatic mode, whether because of off-target photo rendering for a shot or because sometimes you just can't overcome bad lighting.
+Overwhelmingly, though, I was happy with the pictures I took, and the excellent image quality inspired me to snap and share even more photos.
+I was lucky that there was a lot of natural sunlight during my test period; it boosted the color and liveliness of my shots.
+I also noticed that images I had perfectly focused still looked terrific after I cropped them, and after they had resized to fit the phone's screen.
+I have similar compliments about the GS4's 2-megapixel front-facing shooter, which took adequate photos, both as part of a full self-shot and as part of one of the specialized camera modes.
+One weakness I did notice is that even when holding the phone as far from my face as possible, the objects behind me emerged in much clearer, sharper focus than my noggin.
+Incorporating burst mode into the onscreen camera button is one great trick Samsung borrowed from HTC.
+You'll get your picture, but when taken like this, there's no time to readjust the focal point for each.
+I don't like to evaluate top cameras in a vacuum.
+Come back later for the results of a photo shootout among top contenders, including the iPhone 5 and HTC One.
+Videos looked crisp and gorgeous when shot and played back in 1080p HD quality.
+I tested out video capture in both a quiet indoor spot and also on a busy downtown San Francisco street.
+Outside, the microphone picked up San Francisco's famous wind, but also the sounds of a street singer and passersby, in addition to my own much closer and louder voice.
+Samsung incorporated interface elements from its 16-megapixel Samsung Galaxy Camera, like the onscreen menu options at the top of the screen for dual-shot mode and for settings that include night mode and flash.
+Press the GS4's capacitive Menu button for even more options to edit your quick onscreen choices, and to go deeper into the settings to pick things like a time, voice control, and shutter sound, as well as your photo and video resolution sizes.
+Of all of the Galaxy S4's five kooky new camera settings and modes -- out of 13 total modes including auto -- dual-shot mode is my surprise favorite.
+Like the same feature on the LG Optimus G Pro, dual-shot mode uses both the front- and rear-facing cameras to create a composite photo or video.
+I wouldn't recommend swapping the cameras, but you can.
+Also seen on the HTC One, Drama is the mode you want when you have a well-planned out action sequence you'd like to take from a distance.
+If you position the camera right and keep it still, it compiles a series of still images into a single frame, keeping the background the same.
+You can check the box to add or remove which frames you'd like to include.
+I had the same trouble making the Eraser mode work.
+Again, an HTC One option as well, this mode compares five pictures and plays the game of "which of these things is not like the other." If a person or object clutters a few frames, but not all, the GS4 camera offers to help you remove the offender.
+As with Drama mode, Eraser mode requires a certain amount of premeditation to successfully use, and as of this review, I still haven't been able to make it work in real-world tests, even if someone deliberately walked through the frame.
+If you keep your camera steady, as I did in a video of waving flags, the tool suggests areas to animate.
+It looked cool and worked pretty well.
+If you're going for a humorous or stylized video, you can play around with high-speed or slow-motion video settings.
+In addition to these newbie features, best photo for a group, burst shot, HDR, and panorama (Tip: try it vertically to take in a tall building) are other camera options, too.
+Whether Samsung originated the extra camera feature or introduced it after a competitor, there's one Google Android goody that's conspicuously missing, and that's Photo Sphere, which lets you take a 360-degree panoramic image.
+Volume was a little low, even when I spoke from within a fairly quiet office building with the volume clicked up to the maximum output.
+Voices weren't fuzzy, but also weren't clear, and a layer of white noise crackled whenever my calling partner spoke.
+Now, Samsung is well aware of the volume ceiling on its phones.
+To counteract it, its high-end handsets include a software audio boost button you can press to amplify sound.
+My calling partner and I tested clear and boost modes thoroughly, seeing if we could reduce the white noise I heard whenever my caller spoke.
+He repeated the same sentence over and over again in regular, audio boost, and clear modes.
+Clear seemed to make voices a little sharper, also stripping out a tiny bit of vocal warmth, but it did not abolish the background haze.
+When used indoors or someplace quiet, the extra volume boost button does increase sound, but also all the flaws.
+I sounded comfortably loud, he said, and didn't crackle.
+It was pretty loud and not too echoey.
+Voices still sounded pretty natural, not hollow.
+I'd say there's been some smartphone speakerphone progress in this line.
+Rival manufacturers like Nokia still do a better job on the whole, but at the end of the day, I felt comfortable holding a speakerphone conversation in my relatively quiet office.
+My test partner agreed that the GS4 has a pretty good speakerphone.
+A 4G LTE device with a 1.9GHz quad-core Qualcomm Snapdragon 600 processor (APQ8064T processor and the MDM9215 modem to be really specific), the Galaxy S4 is one of the fastest handheld machines available anywhere.
+In the real world, Web sites like CNET's and others opened pretty quickly, and faster if they were optimized for mobile use.
+Apps downloaded easily as well.
+Qualcomm makes some terrifically rapid-fire processors, and this is top of the line.
+As I explained before, a higher number of cores doesn't guarantee higher performance, and the same principles apply to the jump from four cores to eight as it does from two to four.
+Gameplay was swift and responsive, and videos were completely immersive.
+At 2,600mAh, the GS4's battery is 20 percent larger than the Galaxy S3's 2,100mAh ticker, on a phone that's also thinner.
+Playing games and video, streaming music, and using S Voice and S Voice Drive will draw power quicker than other activities, so keep that in mind, too.
+Keep in mind that battery capacity diminishes after extended use, and that most of these units were pretty new and relatively unused compared to later in their lifetime.
+Carriers will gravitate to the 16 and 32GB options, especially since the handset also has a microSD expansion slot capable of holding up to 64GB.
+The main difference between this and other flip covers is the big carved-out window that lets you see incoming calls and notifications in a specialized visual format that, happily, is prominent and easy to read.
+The cover also turns off the screen when you slap the cover on, a really useful and Apple-inspired benefit that saves on battery power, and there's a rainbow of color options.
+When you flip the cover back behind the battery cover to to use the phone, it quickly stops laying flat over the phone face and you'll likely have to smooth it down to get it to turn off the screen.
+I feel like Samsung could have anticipated what for me felt like a natural user behavior.
+Android is the most feature-advanced OS by far, and the Galaxy S4 has the most diverse software extras, making it an exciting handset for intrepid smartphone users ready to dive into it all.
+However, a darn long feature list doesn't make it better for everyone.
+HTC's premium One is the far more impressive phone physically, and has a much fresher interface design to boot.
+The One's camera features, including the "Zoe" tools, are interesting in their own right, and HTC has invested tremendously in audio.
+The One's built-in speakers sound fantastic, and although there's no expandable storage slot, the phone starts you off at 32GB, which is plenty for most people, and double the GS4's storage at the same starting price.
+As cool as some of the Galaxy S4's add-ons seem, their multitude makes them easy to miss, and there's a good chance most people will only use a fraction of them.
+When it comes down to core features, the Galaxy S4 still mightily handles all the essentials, and I really enjoyed using the phone.
+However, without all the armor of its feature minions, it might not necessarily be your top pick.

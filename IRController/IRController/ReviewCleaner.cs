@@ -201,12 +201,12 @@ namespace IRController
                 currentSentence = cleanedSentenceList[i];
                 if (currentSentence.Contains(",,") || currentSentence.Contains(" ,"))
                 {
-                    Console.WriteLine(currentSentence);
+                    //Console.WriteLine(currentSentence);
                     currentSentence = currentSentence.Replace(",,", ",");
                     currentSentence = currentSentence.Replace(" ,", "");
                     cleanedSentenceList.RemoveAt(i);
                     cleanedSentenceList.Insert(i, currentSentence);
-                    Console.WriteLine(currentSentence);
+                   // Console.WriteLine(currentSentence);
 
                 }
             }
