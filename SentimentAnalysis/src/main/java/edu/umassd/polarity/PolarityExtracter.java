@@ -2,9 +2,8 @@ package edu.umassd.polarity;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
-import java.util.Map;
 
 /**
  * 
@@ -16,49 +15,39 @@ public class PolarityExtracter
 	private List<String> sentence;
 	private List<String> polarizedWords;
 
-	private Map<String, Integer> occurences = new HashMap<String, Integer>();
-
 	public List<String> extract()
 	{
-		for (String polarizedWord : polarizedWords)
-		{
-			occurences.put(polarizedWord, 0);
-		}
-
 		List<String> content = new ArrayList<>();
-		for (String polarizedWord : polarizedWords)
-		{
-			Integer count = occurences.get(polarizedWord);
 
-			String next = findNextOccurence(count, polarizedWord);
-			content.add(next);
-
-			occurences.put(polarizedWord, count + 1);
-		}
-
-		return content;
-	}
-
-	private String findNextOccurence(Integer count, String polarizedWord)
-	{
 		for (int i = 0; i < sentence.size(); i++)
 		{
-			String word = sentence.get(i);
+			String word = sentence.get(i).toLowerCase();
+			word = word.replaceAll("[,.():;?!\"]", "");
 
-			if (word.contains(polarizedWord))
+			Iterator<String> pIter = polarizedWords.iterator();
+
+			while (pIter.hasNext())
 			{
-				if (count == 0)
+				String polarizedWord = pIter.next();
+
+				if (word.equals(polarizedWord))
 				{
-					return extractGrouping(4, i, 2);
-				}
-				else
-				{
-					count--;
+					String grouping = extractGrouping(4, i, 2);
+
+					content.add(extractGrouping(4, i, 2));
+					pIter.remove();
+					break;
 				}
 			}
 		}
 
-		throw new IllegalStateException("Count not find word: " + polarizedWord);
+		if (polarizedWords.size() > 0)
+		{
+			throw new IllegalStateException("Missed some polarized words: "
+					+ polarizedWords);
+		}
+
+		return content;
 	}
 
 	private String extractGrouping(int wordsBefore, int index, int wordsAfter)
@@ -75,7 +64,7 @@ public class PolarityExtracter
 					builder.append(" ");
 				}
 
-				builder.append(sentence.get(i));
+				builder.append(word(i, index));
 				count++;
 			}
 			catch (IndexOutOfBoundsException e)
@@ -85,6 +74,28 @@ public class PolarityExtracter
 		}
 
 		return builder.toString();
+	}
+
+	private String word(int index, int primaryIndex)
+	{
+		String word = sentence.get(index);
+
+		if (index == primaryIndex)
+		{
+			return word;
+		}
+
+		String caseInsenstiveWord = word.toLowerCase();
+
+		for (String polarizedWord : polarizedWords)
+		{
+			if (caseInsenstiveWord.contains(polarizedWord))
+			{
+				return "NEUTRAL";
+			}
+		}
+
+		return word;
 	}
 
 	public static PolarityExtracter create(String sentence, String posWords,
