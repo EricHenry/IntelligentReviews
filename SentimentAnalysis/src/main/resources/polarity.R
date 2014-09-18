@@ -13,34 +13,49 @@
 
 # Simple script that runs 
 
-export <- function(wordVector, fileName) {
-	# Output to the given file.
-	sink(fileName, append = FALSE)
-	
-	for(wordGroup in wordVector){
-		
-		size = length(wordGroup)
-		
-		for(i in 1:size){
-		
-			if(i > 1) { cat(",") }
-			cat(wordGroup[i])
-		}
-		
-		cat("\n")
-	}
-	
-	sink()
-}
-
 # Load the qdap package
 library("qdap", character.only=TRUE)
 
 args <- commandArgs(trailingOnly = TRUE)
-print(args)
+# print(args)
 
 sentence.data <- scan(file=args[1], what=character(), sep="\n")
 graph = polarity(sentence.data)
 
-export(graph$all$pos.words, "positive-words.txt")
-export(graph$all$neg.words, "negative-words.txt")
+sink("polarity-results.txt", append = FALSE)
+
+size = length(graph$all$polarity)
+
+for(i in 1:size) {
+	
+	count = 0
+		
+	for(word in graph$all$pos.words[i]){
+		if(word != "-"){
+			wordlist = word
+			count = count + 1
+		}
+	}
+
+	for(word in graph$all$neg.words[i]){
+		if(word != "-"){
+			wordlist = word
+			count = count + 1
+		}
+	}
+	
+	cat(wordlist)
+	cat(",")
+	cat(graph$all$polarity[i])
+	cat("\n")
+	
+	if(count != 1) {
+		sink()
+		print("Expected exactly 1 result, but got: ")
+		print(count)
+		quit(save = "default", status = 1, runLast = TRUE)
+	}
+}
+
+sink()
+

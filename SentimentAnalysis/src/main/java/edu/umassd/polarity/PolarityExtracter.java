@@ -6,8 +6,9 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
+ * This class converts R's standard output into polarity for individual words.
  * 
- * @author Dan
+ * @author Dan Avila
  *
  */
 public class PolarityExtracter
@@ -15,47 +16,74 @@ public class PolarityExtracter
 	private List<String> sentence;
 	private List<String> polarizedWords;
 
+	/**
+	 * Creates sentence chunks around each polarized word, which are then fed
+	 * into R for an actual polarity.
+	 * 
+	 * @return a list of context clusters.
+	 */
 	public List<String> extract()
 	{
+		List<String> remainingPolWords = new ArrayList<>(polarizedWords);
 		List<String> content = new ArrayList<>();
 
 		for (int i = 0; i < sentence.size(); i++)
 		{
-			String word = sentence.get(i).toLowerCase();
-			word = word.replaceAll("[,.():;?!\"]", "");
-
-			Iterator<String> pIter = polarizedWords.iterator();
+			Iterator<String> pIter = remainingPolWords.iterator();
 
 			while (pIter.hasNext())
 			{
-				String polarizedWord = pIter.next();
+				String[] polarizedWord = pIter.next().split(" ");
 
-				if (word.equals(polarizedWord))
+				if (checkForPolarizedWord(i, polarizedWord))
 				{
-					String grouping = extractGrouping(4, i, 2);
+					int start = i;
+					int end = start + polarizedWord.length - 1;
 
-					content.add(extractGrouping(4, i, 2));
+					String grouping = extractGrouping(4, start, end, 2);
+
+					if (grouping
+							.contains("unreliable, often causing more aggravation"))
+					{
+						extractGrouping(4, start, end, 2);
+					}
+
+					content.add(grouping);
 					pIter.remove();
 					break;
 				}
 			}
 		}
 
-		if (polarizedWords.size() > 0)
+		if (remainingPolWords.size() > 0)
 		{
 			throw new IllegalStateException("Missed some polarized words: "
-					+ polarizedWords);
+					+ remainingPolWords);
 		}
 
 		return content;
 	}
 
-	private String extractGrouping(int wordsBefore, int index, int wordsAfter)
+	private boolean checkForPolarizedWord(int index, String[] polarizedWord)
+	{
+		String[] words = new String[polarizedWord.length];
+
+		for (int i = 0; i < polarizedWord.length; i++)
+		{
+			words[i] = sentence.get(index + i).toLowerCase();
+			words[i] = clean(words[i]);
+		}
+
+		return Arrays.equals(words, polarizedWord);
+	}
+
+	private String extractGrouping(int wordsBefore, int startIndex,
+			int endIndex, int wordsAfter)
 	{
 		StringBuilder builder = new StringBuilder();
 
 		int count = 0;
-		for (int i = index - wordsBefore; i <= index + wordsAfter; i++)
+		for (int i = startIndex - wordsBefore; i <= endIndex + wordsAfter; i++)
 		{
 			try
 			{
@@ -64,7 +92,8 @@ public class PolarityExtracter
 					builder.append(" ");
 				}
 
-				builder.append(word(i, index));
+				String word = word(i, startIndex, endIndex);
+				builder.append(word);
 				count++;
 			}
 			catch (IndexOutOfBoundsException e)
@@ -76,20 +105,25 @@ public class PolarityExtracter
 		return builder.toString();
 	}
 
-	private String word(int index, int primaryIndex)
+	private String clean(String word)
+	{
+		return word.replaceAll("[,.():;?!\"]", "");
+	}
+
+	private String word(int index, int startIndex, int endIndex)
 	{
 		String word = sentence.get(index);
 
-		if (index == primaryIndex)
+		if (startIndex <= index && index <= endIndex)
 		{
 			return word;
 		}
 
-		String caseInsenstiveWord = word.toLowerCase();
+		String caseInsenstiveWord = clean(word.toLowerCase());
 
 		for (String polarizedWord : polarizedWords)
 		{
-			if (caseInsenstiveWord.contains(polarizedWord))
+			if (caseInsenstiveWord.equals(polarizedWord))
 			{
 				return "NEUTRAL";
 			}
@@ -105,8 +139,8 @@ public class PolarityExtracter
 
 		extractor.sentence = Arrays.asList(sentence.split(" "));
 		extractor.polarizedWords = new ArrayList<String>();
-		extractor.polarizedWords.addAll(Arrays.asList(posWords.split(" ")));
-		extractor.polarizedWords.addAll(Arrays.asList(negWords.split(" ")));
+		extractor.polarizedWords.addAll(Arrays.asList(posWords.split(",")));
+		extractor.polarizedWords.addAll(Arrays.asList(negWords.split(",")));
 
 		while (extractor.polarizedWords.remove(""))
 			;
