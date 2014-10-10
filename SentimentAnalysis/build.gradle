@@ -1,0 +1,9 @@
+sourceSets{
+	reviews{ resources{ srcDir "$rootProject.projectDir/IRController/IRController/resources/Review Collection" } }
+}
+
+dependencies {
+	compile("org.jasypt:jasypt:+")
+	compile("edu.stanford.nlp:stanford-corenlp:3.4")
+	compile("edu.stanford.nlp:stanford-corenlp:3.4:models")
+}

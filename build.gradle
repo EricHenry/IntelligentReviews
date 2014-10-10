@@ -1,0 +1,29 @@
+buildscript {
+	repositories { mavenCentral() }
+	dependencies { classpath 'org.springframework.boot:spring-boot-gradle-plugin:1.1.4.RELEASE' }
+}
+
+allprojects{
+	apply plugin: 'eclipse'
+
+	eclipse.project{ natures 'org.springsource.ide.eclipse.gradle.core.nature' }
+}
+
+subprojects {
+	apply plugin: 'java'
+	apply plugin: 'spring-boot'
+
+	bootRepackage { enabled = false }
+
+	repositories { mavenCentral() }
+	dependencies { versionManagement 'io.spring.platform:platform-versions:1.0.1.RELEASE@properties' }
+
+	dependencies {
+		compile 'org.springframework.boot:spring-boot-starter'
+		compile 'org.springframework.boot:spring-boot-starter-logging'
+
+		testCompile 'org.springframework.boot:spring-boot-starter-test'
+	}
+
+	task wrapper(type: Wrapper) { gradleVersion = '2.0' }
+}
