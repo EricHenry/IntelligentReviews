@@ -29,11 +29,12 @@ public class Polarity
 		ReviewFileWalker walker = new ReviewFileWalker();
 		ClasspathUtil.walkClasspath(walker);
 
-		// fullSearch(walker);
+		fullSearch(walker);
 
-		Path review = ClasspathUtil.path("M8Reviews/review_TheVerge.txt");
-
-		polarity(review, walker);
+		// Path review = ClasspathUtil
+		// .path("G3Reviews\\review1_AndroidCentral.txt");
+		//
+		// polarity(review, walker);
 	}
 
 	private static final void fullSearch(ReviewFileWalker walker)
@@ -104,15 +105,18 @@ public class Polarity
 			String posWords = posWordsReader.readLine();
 			String negWords = negWordsReader.readLine();
 
-			PolarityExtracter ex = PolarityExtracter.create(nextLine, posWords,
-					negWords);
-
-			List<String> content = ex.extract();
-
-			for (String chunk : content)
+			if (!"".equals(nextLine.trim()))
 			{
-				polarizedChunksWriter.write(chunk);
-				polarizedChunksWriter.newLine();
+				PolarityExtracter ex = PolarityExtracter.create(nextLine,
+						posWords, negWords);
+
+				List<String> content = ex.extract();
+
+				for (String chunk : content)
+				{
+					polarizedChunksWriter.write(chunk);
+					polarizedChunksWriter.newLine();
+				}
 			}
 		}
 

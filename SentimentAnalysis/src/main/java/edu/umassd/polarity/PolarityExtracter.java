@@ -42,12 +42,6 @@ public class PolarityExtracter
 
 					String grouping = extractGrouping(4, start, end, 2);
 
-					if (grouping
-							.contains("unreliable, often causing more aggravation"))
-					{
-						extractGrouping(4, start, end, 2);
-					}
-
 					content.add(grouping);
 					pIter.remove();
 					break;
@@ -92,8 +86,7 @@ public class PolarityExtracter
 					builder.append(" ");
 				}
 
-				String word = word(i, startIndex, endIndex);
-				builder.append(word);
+				count += word(i, startIndex, endIndex, builder);
 				count++;
 			}
 			catch (IndexOutOfBoundsException e)
@@ -107,29 +100,53 @@ public class PolarityExtracter
 
 	private String clean(String word)
 	{
-		return word.replaceAll("[,.():;?!\"]", "");
+		return word.replaceAll("[,.():;?!\"]", "").replace("-", "");
 	}
 
-	private String word(int index, int startIndex, int endIndex)
+	private int word(int index, int startIndex, int endIndex, StringBuilder b)
 	{
-		String word = sentence.get(index);
-
 		if (startIndex <= index && index <= endIndex)
 		{
-			return word;
+			b.append(sentence.get(index));
+			return 1;
 		}
-
-		String caseInsenstiveWord = clean(word.toLowerCase());
 
 		for (String polarizedWord : polarizedWords)
 		{
-			if (caseInsenstiveWord.equals(polarizedWord))
+			String[] words = polarizedWord.split(" ");
+			int match = 0;
+
+			for (int i = 0; i < words.length; i++)
 			{
-				return "NEUTRAL";
+				int targetIndex = index + i;
+
+				if (startIndex <= targetIndex && targetIndex <= endIndex)
+				{
+					break;
+				}
+
+				String word = sentence.get(targetIndex);
+				String caseInsenstiveWord = clean(word.toLowerCase());
+
+				if (caseInsenstiveWord.equals(words[i]))
+				{
+					match++;
+				}
+			}
+
+			if (match == words.length)
+			{
+				for (int i = 0; i < words.length; i++)
+				{
+					b.append("NEUTRAL ");
+				}
+
+				return match;
 			}
 		}
 
-		return word;
+		b.append(sentence.get(index));
+		return 1;
 	}
 
 	public static PolarityExtracter create(String sentence, String posWords,
