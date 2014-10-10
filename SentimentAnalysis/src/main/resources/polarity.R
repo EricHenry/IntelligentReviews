@@ -45,7 +45,7 @@ for(i in 1:size) {
 	}
 	
 	cat(wordlist)
-	cat(",")
+	cat(":")
 	cat(graph$all$polarity[i])
 	cat("\n")
 	

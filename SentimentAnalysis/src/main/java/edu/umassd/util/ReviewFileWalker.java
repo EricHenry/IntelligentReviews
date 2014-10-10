@@ -13,7 +13,7 @@ import java.util.Set;
 public class ReviewFileWalker extends SimpleFileVisitor<Path>
 {
 	private static final List<String> IGNORE = Arrays.asList("CombinedReviews",
-			"CleanedReviews");
+			"CleanedReviews", "config");
 
 	private Set<Path> files = new HashSet<Path>();
 

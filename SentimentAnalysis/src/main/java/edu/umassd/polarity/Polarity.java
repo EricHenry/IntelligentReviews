@@ -8,7 +8,10 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardOpenOption;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
 
 import org.springframework.core.io.ClassPathResource;
 
@@ -24,17 +27,49 @@ public class Polarity
 		Files.createDirectories(Constants.POLARITY_HOME);
 
 		ReviewFileWalker walker = new ReviewFileWalker();
-
 		ClasspathUtil.walkClasspath(walker);
 
-		// for (Path review : walker.getFiles())
-		// {
-		// polarity(script, review, walker);
-		// }
+		// fullSearch(walker);
 
-		Path review = ClasspathUtil.path("5S_reviews/review1_engadget.txt");
+		Path review = ClasspathUtil.path("M8Reviews/review_TheVerge.txt");
 
 		polarity(review, walker);
+	}
+
+	private static final void fullSearch(ReviewFileWalker walker)
+			throws IOException, URISyntaxException
+	{
+		Map<Path, Exception> errors = new HashMap<>();
+
+		for (Path review : walker.getFiles())
+		{
+			try
+			{
+				polarity(review, walker);
+			}
+			catch (Exception e)
+			{
+				errors.put(review, e);
+			}
+		}
+
+		if (errors.size() > 0)
+		{
+			System.err.print("Polarity completed, with the following errors: ");
+
+			System.err.println(errors.keySet());
+			System.err.println();
+
+			for (Entry<Path, Exception> error : errors.entrySet())
+			{
+				System.err.println(error.getKey());
+				error.getValue().printStackTrace();
+			}
+		}
+		else
+		{
+			System.err.println("Polarity completed.");
+		}
 	}
 
 	private static final void polarity(Path review, ReviewFileWalker walker)
@@ -87,6 +122,9 @@ public class Polarity
 		scriptPath = script.toAbsolutePath().toString();
 		input = polarizedChunksPath.toAbsolutePath().toString();
 		runScript(workingDir, scriptPath, input);
+
+		PolarityToCSV csv = PolarityToCSV.create(workingDir);
+		csv.export();
 	}
 
 	private static final void runScript(Path workingDir, String scriptPath,
