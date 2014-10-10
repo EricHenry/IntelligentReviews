@@ -77,7 +77,7 @@ public class Polarity
 			throws InterruptedException, IOException
 	{
 		Path relativeDir = walker.getRelativeToRoot(review);
-		Path workingDir = Constants.POLARITY_HOME.resolve(relativeDir);
+		Path workingDir = Constants.POLARITY_HOME.resolve(relativeDir + ".polarity");
 		Files.createDirectories(workingDir);
 
 		Path script = new ClassPathResource("/findPolarizedWords.R").getFile()
